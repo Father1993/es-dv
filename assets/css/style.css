@@ -1004,6 +1004,15 @@ section {
     background: #25d8fc;
 }
 
+.contacts-card__wrapper {
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
 @keyframes animate-loading {
     0% {
         transform: rotate(0deg);
