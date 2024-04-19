@@ -1024,18 +1024,18 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Breadcrumbs
+# about-section
 --------------------------------------------------------------*/
-.breadcrumbs {
+.about {
     padding: 30px 0;
 }
 
-.breadcrumbs h2 {
+.about h2 {
     font-size: 26px;
     font-weight: 300;
 }
 
-.breadcrumbs ol {
+.about ol {
     display: flex;
     flex-wrap: wrap;
     list-style: none;
@@ -1044,11 +1044,11 @@ section {
     font-size: 15px;
 }
 
-.breadcrumbs ol li + li {
+.about ol li + li {
     padding-left: 10px;
 }
 
-.breadcrumbs ol li + li::before {
+.about ol li + li::before {
     display: inline-block;
     padding-right: 10px;
     color: gray;
@@ -1056,15 +1056,243 @@ section {
 }
 
 @media (max-width: 768px) {
-    .breadcrumbs .d-flex {
+    .about .d-flex {
         display: block !important;
     }
 
-    .breadcrumbs ol {
+    .about ol {
         display: block;
     }
 
-    .breadcrumbs ol li {
+    .about ol li {
+        display: inline-block;
+    }
+}
+
+/*--------------------------------------------------------------
+# about-page
+--------------------------------------------------------------*/
+
+.about-parners > ul {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-bottom: 70px;
+}
+
+.about-parners > ul > li {
+    display: flex;
+    gap: 50px;
+}
+
+.about-parners > ul > li > img {
+    max-width: 300px;
+}
+
+.iek-img {
+    margin-left: 60px;
+    margin-right: 65px;
+}
+
+.youtube-video {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.about-page > ul {
+    margin-bottom: 50px;
+}
+
+.about-page > h6 {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+.about-bottom-text {
+    font-size: 1.2rem;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 900px;
+    margin-bottom: 70px;
+}
+
+@media (max-width: 768px) {
+    .about-parners > ul > li {
+        flex-direction: column;
+        padding-right: 32px;
+    }
+
+    .about-parners > ul > li > img {
+        margin: 0 auto;
+    }
+
+    .about-bottom-text {
+        max-width: 310px;
+    }
+}
+
+/*--------------------------------------------------------------
+# shop-page
+--------------------------------------------------------------*/
+
+.shop {
+    padding: 30px 0;
+}
+
+.shop h2 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.shop ol {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+}
+
+.shop ol li + li {
+    padding-left: 10px;
+}
+
+.shop ol li + li::before {
+    display: inline-block;
+    padding-right: 10px;
+    color: gray;
+    content: '/';
+}
+
+.shop-title-h2 {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.shop-title-h3 {
+    font-size: 1.6rem;
+    margin-bottom: 70px;
+}
+
+.list-cards {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 3%;
+}
+
+.list-cards > li {
+    flex: 0 0 45%;
+    display: flex;
+}
+
+.list-cards > li > div > img {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.shop-title-img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+
+.shop-shema {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+.shop-photo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.shop-photo > img {
+    width: 60%;
+    margin: 30px;
+}
+
+.shop-link-btn {
+    display: block;
+    text-align: center;
+    width: 150px;
+    margin: 0 auto;
+    border: 1px solid #03c4eb;
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+.shop-link-btn:hover {
+    background-color: #03c4eb;
+    color: black;
+}
+
+@media (max-width: 768px) {
+    .shop .d-flex {
+        display: block !important;
+    }
+
+    .shop ol {
+        display: block;
+    }
+
+    .shop ol li {
+        display: inline-block;
+    }
+}
+
+/*--------------------------------------------------------------
+# Vacancies
+--------------------------------------------------------------*/
+
+.vacancies {
+    padding: 30px 0;
+}
+
+.vacancies h2 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.vacancies ol {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+}
+
+.vacancies ol li + li {
+    padding-left: 10px;
+}
+
+.vacancies ol li + li::before {
+    display: inline-block;
+    padding-right: 10px;
+    color: gray;
+    content: '/';
+}
+
+.vacancies-title {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+@media (max-width: 768px) {
+    .vacancies .d-flex {
+        display: block !important;
+    }
+
+    .vacancies ol {
+        display: block;
+    }
+
+    .vacancies ol li {
         display: inline-block;
     }
 }
