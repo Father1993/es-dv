@@ -1145,6 +1145,10 @@ h6 {
     content: '/';
 }
 
+.about__special-text {
+    margin-bottom: 30px;
+}
+
 @media (max-width: 768px) {
     .about .d-flex {
         display: block !important;
@@ -1311,7 +1315,7 @@ h6 {
 
 .shop-shema {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     margin-bottom: 70px;
 }
 
@@ -1334,9 +1338,10 @@ h6 {
     width: 150px;
     margin: 0 auto;
     border: 1px solid #03c4eb;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
     padding: 10px;
     border-radius: 2px;
+    margin-top: 30px;
 }
 
 .internet-shop-title {
@@ -1350,6 +1355,28 @@ h6 {
 .shop-link-btn:hover {
     background-color: #03c4eb;
     color: white;
+}
+
+.shop-shema-clock {
+    margin-top: 30px;
+}
+
+.shop__address {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.shop__telephone {
+    margin: 0;
+}
+
+.shop__telephone-link {
+    margin-bottom: 20px;
+    display: block;
+}
+
+.shop__work-time {
+    margin: 0;
 }
 
 @media (max-width: 768px) {
@@ -1435,6 +1462,10 @@ h6 {
 .vacancies-title {
     text-align: center;
     margin-bottom: 70px;
+}
+
+.vacancies-title-text {
+    margin-bottom: 50px;
 }
 
 .vacancies-khabarovsk {
@@ -1524,6 +1555,10 @@ h6 {
     font-size: 1.3rem;
 }
 
+.docs-page > .container > h2 {
+    margin-bottom: 50px;
+}
+
 @media (max-width: 768px) {
     .docs .d-flex {
         display: block !important;
@@ -1543,6 +1578,9 @@ h6 {
 
     .docs-certificates > ul > li {
         width: 100%;
+    }
+    .docs-page > .container > h2 {
+        text-align: center;
     }
 }
 

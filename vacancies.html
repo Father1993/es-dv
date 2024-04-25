@@ -23,7 +23,7 @@
             property="og:image"
             content="https://es-dv.ru/assets/img/logo.png"
         />
-        <meta property="og:url" content="https://es-dv.ru/about.html" />
+        <meta property="og:url" content="https://es-dv.ru/vacancies.html" />
         <meta property="og:site_name" content="Электросистемы" />
         <meta
             property="og:description"
@@ -97,12 +97,10 @@
                 <a href="index.html" class="logo mr-auto"
                     ><img src="assets/img/img1/elektrosistema-logo.png" alt=""
                 /></a>
-                <!-- Uncomment below if you prefer to use a text logo -->
-                <!-- <h1 class="logo mr-auto"><a href="index.html">Imperial</a></h1> -->
 
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li>
+                        <li class="i-shop">
                             <a
                                 class="nav-link scrollto"
                                 target="_blank"
@@ -111,9 +109,7 @@
                             >
                         </li>
                         <li>
-                            <a
-                                class="nav-link scrollto active"
-                                href="/index.html"
+                            <a class="nav-link scrollto active" href="#hero"
                                 >Главная</a
                             >
                         </li>
@@ -130,49 +126,103 @@
                                 >Продукция</a
                             >
                         </li>
-                        <li>
-                            <a class="nav-link scrollto" href="#testimonials"
-                                >Отзывы</a
-                            >
-                        </li>
-                        <li>
-                            <a class="nav-link scrollto" href="#team">
-                                Команда
-                            </a>
-                        </li>
                         <li class="dropdown">
-                            <a href="#"
+                            <a href="#about"
                                 ><span>Подробнее</span>
                                 <i class="bi bi-chevron-down"></i
                             ></a>
                             <ul>
-                                <li><a href="#">О компании</a></li>
+                                <li>
+                                    <a href="./about.html">О компании</a>
+                                </li>
+
                                 <li class="dropdown">
-                                    <a href="./about.htmls"
-                                        ><span>Нижнее меню</span>
+                                    <a href="#services">
+                                        <span>Услуги</span>
+                                        <i class="bi bi-chevron-right"></i>
+                                    </a>
+                                    <ul>
+                                        <li>
+                                            <a
+                                                href="./services/electric-work.html"
+                                                >Все виды электромонтажных
+                                                работ</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="./services/laboratory.html"
+                                                >Услуги испытательной
+                                                лаборатории</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a href="./services/delivery.html"
+                                                >Доставка</a
+                                            >
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="./services/manufacturing.html"
+                                                >Изготовление металлических
+                                                корпусов электрощитов</a
+                                            >
+                                        </li>
+
+                                        <li>
+                                            <a href="./services/production.html"
+                                                >Производство электрощитов и
+                                                электрооборудования</a
+                                            >
+                                        </li>
+                                    </ul>
+                                </li>
+
+                                <li class="dropdown">
+                                    <a href="#"
+                                        ><span>Продукция</span>
                                         <i class="bi bi-chevron-right"></i
                                     ></a>
                                     <ul>
                                         <li>
-                                            <a href="#">Нижнее меню 1 1</a>
+                                            <a
+                                                href="./products/svet/svetotekhnika.html"
+                                                >Светотехника</a
+                                            >
                                         </li>
                                         <li>
-                                            <a href="#">Нижнее меню 1 2</a>
+                                            <a
+                                                href="./products/cabel/cabel.html"
+                                                >Кабель</a
+                                            >
                                         </li>
                                         <li>
-                                            <a href="#">Нижнее меню 1 3</a>
+                                            <a
+                                                href="./products/silovoe/silovoe.html"
+                                                >Силовое и коммутационное
+                                                оборудование</a
+                                            >
                                         </li>
                                         <li>
-                                            <a href="#">Нижнее меню 1 4</a>
+                                            <a
+                                                href="./products/armatura/armatura.html"
+                                                >Электромонтажные изделия</a
+                                            >
                                         </li>
                                         <li>
-                                            <a href="#">Нижнее меню 1 5</a>
+                                            <a
+                                                href="./products/electro-ustanovka/electro-ustanovka.html"
+                                                >Электроустановочные изделия</a
+                                            >
                                         </li>
                                     </ul>
                                 </li>
                                 <li><a href="./vacancies.html">Вакансии</a></li>
-                                <li><a href="#">Нижнее 3</a></li>
-                                <li><a href="#">Нижнее 4</a></li>
+                                <li><a href="./docs.html">Документы</a></li>
+                                <li>
+                                    <a href="./shop.html"
+                                        >Магазин Электромаркет</a
+                                    >
+                                </li>
                             </ul>
                         </li>
                         <li>
@@ -207,7 +257,9 @@
 
             <section class="vacancies-page">
                 <div class="container">
-                    <h2>ООО ТД "ЭЛЕКТРОСИСТЕМЫ"</h2>
+                    <h2 class="vacancies-title-text">
+                        ООО ТД "ЭЛЕКТРОСИСТЕМЫ"
+                    </h2>
                     <div class="vacancies-title">
                         <h5>
                             Телефон для справок:
@@ -387,6 +439,13 @@
             href="#"
             class="back-to-top d-flex align-items-center justify-content-center"
             ><i class="bi bi-arrow-up-short"></i
+        ></a>
+
+        <a
+            href="https://wa.me/+79141500323"
+            target="_blank"
+            class="call-whatsapp"
+            ><i class="bi bi-whatsapp"></i
         ></a>
 
         <!-- Vendor JS Files -->
