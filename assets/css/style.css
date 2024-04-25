@@ -92,6 +92,46 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Whatsapp button fixed
+--------------------------------------------------------------*/
+
+.call-whatsapp {
+    position: fixed;
+    opacity: 0;
+    visibility: hidden;
+    bottom: 15px;
+    right: 50px;
+    z-index: 997;
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    transition: all 0.4s;
+}
+
+.call-whatsapp i {
+    font-size: 50px;
+    color: #18d26e;
+}
+
+.call-whatsapp.active-w {
+    visibility: visible;
+    opacity: 1;
+    animation: blink-whatsApp 1s infinite;
+}
+
+@keyframes blink-whatsApp {
+    0% {
+        transform: scale(1.1);
+    }
+    50% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+/*--------------------------------------------------------------
 # Welcome
 --------------------------------------------------------------*/
 #hero {
@@ -351,6 +391,11 @@ h6 {
     top: 0;
     left: 100%;
     visibility: visible;
+}
+
+.i-shop {
+    padding-right: 26px;
+    border: 1px solid #03c4eb94;
 }
 
 @media (max-width: 1366px) {
@@ -1013,6 +1058,38 @@ section {
     margin-bottom: 30px;
 }
 
+.contacts-title h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.contacts-title h5 {
+    margin-bottom: 30px;
+}
+
+.contacts-title h6 {
+    margin-bottom: 10px;
+}
+
+.contacts-title > div {
+    margin-bottom: 20px;
+}
+
+.contacts__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-img {
+    margin-top: 10%;
+    border-radius: 15px;
+}
+
 @keyframes animate-loading {
     0% {
         transform: rotate(0deg);
@@ -1020,6 +1097,19 @@ section {
 
     100% {
         transform: rotate(360deg);
+    }
+}
+
+@media (max-width: 768px) {
+    .contacts-card__wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .contact-img {
+        width: 100%;
     }
 }
 
@@ -1100,13 +1190,22 @@ section {
     margin-bottom: 70px;
 }
 
-.about-page > ul {
+.about-page > div > ul {
     margin-bottom: 50px;
+}
+
+.about-page > div > ul > li {
+    margin-bottom: 15px;
 }
 
 .about-page > h6 {
     text-align: center;
     font-size: 1.6rem;
+}
+
+.delivery-title {
+    font-size: 2rem;
+    text-align: center;
 }
 
 .about-bottom-text {
@@ -1115,6 +1214,12 @@ section {
     text-align: center;
     max-width: 900px;
     margin-bottom: 70px;
+}
+
+.open-text {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 @media (max-width: 768px) {
@@ -1180,6 +1285,7 @@ section {
     flex-wrap: wrap;
     list-style: none;
     gap: 3%;
+    margin-bottom: 70px;
 }
 
 .list-cards > li {
@@ -1192,10 +1298,15 @@ section {
     margin-right: 20px;
 }
 
+.horizont-line {
+    margin-bottom: 70px;
+}
+
 .shop-title-img {
     display: block;
     margin: 0 auto;
     width: 70%;
+    margin-bottom: 30px;
 }
 
 .shop-shema {
@@ -1218,17 +1329,27 @@ section {
 
 .shop-link-btn {
     display: block;
+    font-weight: 600;
     text-align: center;
     width: 150px;
     margin: 0 auto;
     border: 1px solid #03c4eb;
     margin-bottom: 70px;
     padding: 10px;
+    border-radius: 2px;
+}
+
+.internet-shop-title {
+    text-align: center;
+}
+
+.list-card-title {
+    font-weight: bold;
 }
 
 .shop-link-btn:hover {
     background-color: #03c4eb;
-    color: black;
+    color: white;
 }
 
 @media (max-width: 768px) {
@@ -1242,6 +1363,39 @@ section {
 
     .shop ol li {
         display: inline-block;
+    }
+
+    .shop-title-img {
+        width: 100%;
+    }
+
+    .shop-shema {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .shop-shema-img > img {
+        width: 100%;
+    }
+
+    .list-cards {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .list-cards > li > div > img {
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    .list-cards > li {
+        flex: 100%;
+        border-bottom: 1px solid black;
+    }
+
+    .shop-photo > img {
+        width: 100%;
+        margin: 10px;
     }
 }
 
@@ -1283,6 +1437,28 @@ section {
     margin-bottom: 70px;
 }
 
+.vacancies-khabarovsk {
+    padding: 30px;
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    margin-bottom: 70px;
+}
+
+.vacancies-vladivostok {
+    padding: 30px;
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    margin-bottom: 70px;
+}
+
+.vacancies-vladivostok > h2 {
+    text-align: center;
+}
+
+.vacancies-khabarovsk > h2 {
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     .vacancies .d-flex {
         display: block !important;
@@ -1294,6 +1470,408 @@ section {
 
     .vacancies ol li {
         display: inline-block;
+    }
+}
+
+/*--------------------------------------------------------------
+# Docs
+--------------------------------------------------------------*/
+
+.docs {
+    padding: 30px 0;
+}
+
+.docs h2 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
+.docs ol {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 15px;
+}
+
+.docs ol li + li {
+    padding-left: 10px;
+}
+
+.docs ol li + li::before {
+    display: inline-block;
+    padding-right: 10px;
+    color: gray;
+    content: '/';
+}
+
+.docs-certificates {
+    display: flex;
+    margin-bottom: 70px;
+    margin-left: 30px;
+}
+
+.docs-certificates > ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.docs-certificates > ul > li {
+    width: calc(33.33% - 30px);
+    padding: 20px;
+    font-size: 1.3rem;
+}
+
+@media (max-width: 768px) {
+    .docs .d-flex {
+        display: block !important;
+    }
+
+    .docs ol {
+        display: block;
+    }
+
+    .docs ol li {
+        display: inline-block;
+    }
+
+    .docs-certificates > ul {
+        flex-direction: column;
+    }
+
+    .docs-certificates > ul > li {
+        width: 100%;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> Delivery
+--------------------------------------------------------------*/
+
+.delivery__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.delivery-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.delivery-image {
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.services-delivery {
+    margin-top: 130px;
+}
+
+@media (max-width: 768px) {
+    .delivery-image {
+        width: 100%;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> Production
+--------------------------------------------------------------*/
+
+.production-services {
+    margin-top: 170px;
+}
+
+.production__wrapper > h2 {
+    margin-bottom: 50px;
+}
+
+.production-card {
+    margin-bottom: 70px;
+}
+
+.production-card > h4 {
+    margin-bottom: 50px;
+}
+
+.product-cards-images h3 {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.title-image__wrapper {
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.title-image__wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.production-special-text {
+    font-style: italic;
+}
+
+.production-images {
+    width: 100%;
+}
+
+.product-cards-images__wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-cards-images > span {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.production__wrapper {
+    margin-bottom: 130px;
+}
+
+.hr-margin-b {
+    margin-bottom: 70px;
+}
+
+.production-bold-text {
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .title-image__wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .production-images {
+        margin-bottom: 20px;
+    }
+
+    .product-cards-images__wrapper {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> Manufacturing
+--------------------------------------------------------------*/
+
+.manufacturing__wrapper {
+    margin-top: 100px;
+}
+
+.manufacturing__wrapper h2 {
+    margin-bottom: 70px;
+}
+
+.manufacturing__wrapper h5 {
+    font-weight: bold;
+}
+
+.manufacturing-spec-title {
+    margin-top: 70px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-size: 1.7rem;
+}
+
+.manufacturing-spec-text {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.manufacturing-spec-image__wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.manufacturing-spec > p {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    .manufacturing-spec-image__wrapper > img {
+        width: 100%;
+    }
+
+    .manufacturing-spec-image__wrapper {
+        flex-direction: column;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> Electric-work
+--------------------------------------------------------------*/
+
+.electric-work-services__wrapper-card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    gap: 50px;
+}
+
+.electric-work-services__wrapper > h2 {
+    margin-top: 70px;
+}
+
+@media (max-width: 768px) {
+    .electric-work-services__wrapper-card {
+        flex-direction: column;
+    }
+
+    .electric-work-services__wrapper-card-img {
+        width: 100%;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> laboratory
+--------------------------------------------------------------*/
+
+.laboratory__wrapper > h2 {
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.laboratory__wrapper > h3 {
+    font-size: 1.3rem;
+}
+
+.laboratory__wrapper-card {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.laboratory__wrapper > h4 {
+    margin: 50px;
+}
+
+.laboratory__wrapper > p {
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+@media (max-width: 768px) {
+    .laboratory__wrapper-card {
+        flex-direction: column;
+    }
+
+    .laboratory__wrapper-card-img {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .laboratory__wrapper > h4 {
+        text-align: center;
+    }
+}
+
+/*--------------------------------------------------------------
+# Services-> laboratory
+--------------------------------------------------------------*/
+
+.product-svet__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.svet-title-img {
+    margin-top: 50px;
+    width: 70%;
+}
+
+.product-svet__wrapper > h2 {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.product-svet-items > ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.product__svet {
+    margin-bottom: 70px;
+}
+
+.product-svet-items > ul > li {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 0.3px solid #979797;
+    border-radius: 15px;
+    transition: all 0.3s;
+}
+
+.product-svet-items > ul > li > h3 {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.product-svet-items > ul > li > a {
+    margin-top: 10px;
+    border: 1px solid #03c4eb;
+    padding: 5px;
+    margin-bottom: 10px;
+    transition: all 0.3s;
+    border-radius: 15px;
+}
+
+.product-svet-items > ul > li:hover {
+    transform: scale(1.1);
+}
+
+.product-svet-items > ul > li > a:hover {
+    background-color: #03c4eb;
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .svet-title-img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .product-svet-items > ul {
+        margin: 0;
+        padding: 0;
     }
 }
 
