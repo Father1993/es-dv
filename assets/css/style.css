@@ -2009,6 +2009,108 @@ h6 {
     gap: 3rem;
 }
 
+.udlinitel-tdm__list > p {
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+
+.udlinitel-tdm__list > li {
+    font-weight: normal;
+}
+
+.systeme-electric__about > h4 {
+    margin-top: 50px;
+}
+
+.udlinitel-tdm__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.udlinitel-tdm-img {
+    height: 200px;
+}
+
+.rozetki-list__wrapper > ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: disclosure-closed;
+}
+
+.rozetki-list__wrapper > ul > li {
+    margin-top: 20px;
+}
+
+.rozetki-special-title {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.taimyr-image__wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.taimyr-image__wrapper > div > p {
+    max-width: 200px;
+    margin-top: 10px;
+}
+
+.lama-image__wrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lama-image__wrapper > img {
+    width: 200px;
+}
+
+.zvonki__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zvonki__wrapper > div {
+    display: flex;
+}
+.zvonki__wrapper > div > img {
+    width: 300px;
+}
+
+.special-text__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.rozetki__special-title {
+    margin-bottom: 50px;
+}
+
+.brava__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.brava__wrapper > img {
+    width: 200px;
+}
+
+.brava__wrapper > div > p {
+    width: 200px;
+}
+
+.setevoy-filter__wrapper {
+    display: flex;
+}
+
+.setevoy-filter-images {
+    height: 240px;
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
