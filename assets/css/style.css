@@ -2112,6 +2112,68 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Products-> Cabel
+--------------------------------------------------------------*/
+
+.products-cabel__items {
+    margin-bottom: 70px;
+}
+
+.products-cabel__wrapper-card {
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    gap: 5rem;
+}
+
+.products-cabel__img {
+    border: 1px solid #03c4eb;
+}
+
+.products-cabel__title {
+    margin-bottom: 30px;
+}
+
+.products-cabel__text {
+    max-width: 800px;
+}
+
+.products-cabel__about-title {
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.products-cabel__about-img {
+    display: flex;
+    justify-content: center;
+}
+
+.products-cabel__about-title-h4 {
+    margin-bottom: 20px;
+}
+
+.products-cabel__about-image-block-wrapper {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.products-cabel__about-special-span {
+    display: block;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+
+.products-cabel__about-how-buy > h5 {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
