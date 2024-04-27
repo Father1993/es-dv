@@ -2165,12 +2165,44 @@ h6 {
     font-size: 1.3rem;
     font-weight: bold;
     margin-bottom: 70px;
+    margin-top: 70px;
 }
 
 .products-cabel__about-how-buy > h5 {
     font-weight: bold;
     font-size: 1.2rem;
     margin-bottom: 20px;
+}
+
+.products-cabel__about-list > li {
+    margin-bottom: 10px;
+}
+
+.products-cabel__about-list {
+    margin-bottom: 50px;
+}
+
+@media (max-width: 768px) {
+    .products-cabel__wrapper-card {
+        flex-direction: column;
+        margin-bottom: 0px;
+    }
+
+    .products-cabe__about-img {
+        margin-bottom: 30px;
+    }
+
+    .products-cabe__about-img > img {
+        width: 100%;
+    }
+
+    .products-cabel__about-image-block-wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .products-cabel__about-image-block-wrapper > div > img {
+        width: 100%;
+    }
 }
 
 /*--------------------------------------------------------------
