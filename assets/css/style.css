@@ -2172,6 +2172,7 @@ h6 {
     font-weight: bold;
     font-size: 1.2rem;
     margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .products-cabel__about-list > li {
@@ -2182,17 +2183,37 @@ h6 {
     margin-bottom: 50px;
 }
 
+.product-cabel__about-center {
+    text-align: center;
+}
+
+.ftp-kabel-img {
+    width: 500px;
+}
+
+.pnsv-kabel-img {
+    width: 500px;
+}
+
+.schema-kabel-img {
+    width: 500px;
+}
+
+.sip-kabel-img {
+    width: 300px;
+}
+
 @media (max-width: 768px) {
     .products-cabel__wrapper-card {
         flex-direction: column;
         margin-bottom: 0px;
     }
 
-    .products-cabe__about-img {
+    .products-cabel__about-img {
         margin-bottom: 30px;
     }
 
-    .products-cabe__about-img > img {
+    .products-cabel__about-img > img {
         width: 100%;
     }
 
@@ -2201,6 +2222,10 @@ h6 {
     }
 
     .products-cabel__about-image-block-wrapper > div > img {
+        width: 100%;
+    }
+
+    .products-cabel__about-image-block-wrapper > img {
         width: 100%;
     }
 }
