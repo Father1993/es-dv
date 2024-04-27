@@ -2203,6 +2203,11 @@ h6 {
     width: 300px;
 }
 
+.cabel-margin-p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 @media (max-width: 768px) {
     .products-cabel__wrapper-card {
         flex-direction: column;
