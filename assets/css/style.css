@@ -2208,6 +2208,17 @@ h6 {
     margin-bottom: 50px;
 }
 
+.dowload__wrapper {
+    display: flex;
+}
+
+.cabel-adout__title-div {
+    margin-top: 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
 @media (max-width: 768px) {
     .products-cabel__wrapper-card {
         flex-direction: column;
