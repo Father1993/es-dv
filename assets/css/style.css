@@ -2250,6 +2250,10 @@ h6 {
     padding: 10px;
 }
 
+.flex__container-images {
+    max-width: 200px;
+}
+
 @media (max-width: 768px) {
     .products-cabel__wrapper-card {
         flex-direction: column;
