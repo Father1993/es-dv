@@ -2318,6 +2318,77 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Golden-rules page
+--------------------------------------------------------------*/
+.golden-title {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.golden__wrapper {
+    display: flex;
+    border-left: 5px solid #03c4eb;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color: #18d26f25;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+.golden__wrapper-img {
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    height: 200px;
+}
+
+.golden-rules > div > div > h4 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.golden-images__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.golden-images-title {
+    font-size: 0.9rem;
+    opacity: 0.7;
+}
+
+.golden-container__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.golden-images__wrapper > img {
+    height: 150px;
+}
+
+.golden-rules {
+    margin-bottom: 100px;
+}
+
+@media (max-width: 768px) {
+    .golden-container__wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .golden__wrapper {
+        flex-direction: column-reverse;
+    }
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
