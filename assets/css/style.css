@@ -1091,6 +1091,27 @@ h6 {
     max-width: 500px;
 }
 
+.index__contacts-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.index__contact-card {
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.index__contact-img {
+    border-radius: 15px;
+}
+
+.index__contact-title {
+    text-align: center;
+}
+
 @keyframes animate-loading {
     0% {
         transform: rotate(0deg);
