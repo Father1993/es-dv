@@ -2378,6 +2378,16 @@ h6 {
     margin-bottom: 100px;
 }
 
+.three-images {
+    height: 300px !important;
+}
+
+.svet-title {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
 @media (max-width: 768px) {
     .golden-container__wrapper {
         flex-direction: column-reverse;
@@ -2385,6 +2395,11 @@ h6 {
 
     .golden__wrapper {
         flex-direction: column-reverse;
+    }
+
+    .three-images {
+        width: 100%;
+        height: auto;
     }
 }
 
