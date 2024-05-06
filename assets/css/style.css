@@ -2388,6 +2388,42 @@ h6 {
     font-weight: bold;
 }
 
+.svet-span-ledel {
+    color: #a8322b;
+    font-weight: bold;
+}
+
+.svet-center-title {
+    text-align: center;
+}
+
+.svet-cards-and-images {
+    display: flex;
+    flex-direction: column;
+}
+
+.svet-cards__container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+
+.svet-cards-and-images > h5 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.svet-cards-and-images > p {
+    max-width: 300px;
+}
+
+.svet-cards-and-images > img {
+    max-width: 300px;
+    margin-bottom: 30px;
+}
+
 @media (max-width: 768px) {
     .golden-container__wrapper {
         flex-direction: column-reverse;
@@ -2400,6 +2436,12 @@ h6 {
     .three-images {
         width: 100%;
         height: auto;
+    }
+
+    .svet-cards__container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
 
