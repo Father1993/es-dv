@@ -2525,6 +2525,49 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Products -> Svet
+--------------------------------------------------------------*/
+
+.takelazh__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.takelazh__card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 300px;
+}
+
+.takelazh__card > img {
+    width: 180px;
+    height: 160px;
+}
+
+.takelazh__card > p {
+    font-weight: bold;
+}
+
+.schema-center-image {
+    max-width: 600px;
+    height: auto !important;
+}
+
+@media (max-width: 768px) {
+    .schema-center-image {
+        width: 100%;
+    }
+    .l5-image {
+        width: 100%;
+    }
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
