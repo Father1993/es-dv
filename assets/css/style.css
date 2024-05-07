@@ -2558,11 +2558,30 @@ h6 {
     height: auto !important;
 }
 
+.kleshi-image {
+    width: 500px;
+}
+
+.kolodki-images__wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.kolodki-images__wrapper > img {
+    width: 300px;
+}
+
 @media (max-width: 768px) {
     .schema-center-image {
         width: 100%;
     }
+
     .l5-image {
+        width: 100%;
+    }
+
+    .kleshi-image {
         width: 100%;
     }
 }
