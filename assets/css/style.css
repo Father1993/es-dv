@@ -2153,11 +2153,14 @@ h6 {
 }
 
 .products-cabel__title {
+    color: #0b3887;
     margin-bottom: 30px;
+    font-weight: 700;
 }
 
 .products-cabel__text {
     max-width: 800px;
+    font-weight: 600;
 }
 
 .products-cabel__about-title {
@@ -2270,6 +2273,10 @@ h6 {
 
 .table-padding > tr > td {
     padding: 10px;
+}
+
+.table-padding__two > tr > th {
+    padding: 20px;
 }
 
 .flex__container-images {
