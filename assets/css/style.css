@@ -2431,6 +2431,55 @@ h6 {
     margin-bottom: 30px;
 }
 
+.smartbuy-flex-images {
+    display: flex;
+}
+
+.smartbuy-flex-images > img {
+    height: 110px;
+}
+
+.smartbuy-images {
+    width: 250px;
+}
+
+.smartbuy-title > h5 {
+    background-color: #03c4eb;
+    padding: 15px 15px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.tech-container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.tech__wrapper > div > h5 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.tech__wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+.tech-images {
+    max-width: 200px;
+}
+
+.tech-second-images {
+    max-width: 200px;
+    max-height: 200px;
+}
+
 @media (max-width: 768px) {
     .golden-container__wrapper {
         flex-direction: column-reverse;
@@ -2449,6 +2498,19 @@ h6 {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    .tech__wrapper {
+        flex-direction: column;
+    }
+
+    .tech-images {
+        max-width: 350px;
+    }
+
+    .tech-second-images {
+        max-width: 350px;
+        max-height: 350px;
     }
 }
 
