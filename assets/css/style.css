@@ -559,7 +559,7 @@ section {
 }
 
 .about-image-two {
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 @media (max-width: 768px) {
@@ -586,6 +586,7 @@ section {
 #about .about-text {
     line-height: 26px;
     margin-bottom: 15px;
+    margin-top: 25px;
 }
 
 #about .about-text:last-child {
@@ -2480,6 +2481,11 @@ h6 {
     max-height: 200px;
 }
 
+.khv-up > img {
+    width: 900px;
+    height: auto;
+}
+
 @media (max-width: 768px) {
     .golden-container__wrapper {
         flex-direction: column-reverse;
@@ -2511,6 +2517,10 @@ h6 {
     .tech-second-images {
         max-width: 350px;
         max-height: 350px;
+    }
+
+    .khv-up > img {
+        width: 100%;
     }
 }
 
