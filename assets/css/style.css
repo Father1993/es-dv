@@ -2582,6 +2582,10 @@ h6 {
     width: 300px;
 }
 
+.table-padding__four > tbody > tr > td {
+    padding: 20px;
+}
+
 @media (max-width: 768px) {
     .schema-center-image {
         width: 100%;
@@ -2593,6 +2597,10 @@ h6 {
 
     .kleshi-image {
         width: 100%;
+    }
+
+    .table-padding__four {
+        display: none;
     }
 }
 
