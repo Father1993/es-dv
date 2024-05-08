@@ -2605,6 +2605,44 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Products
+--------------------------------------------------------------*/
+
+.products-main__wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.products-main__wrapper > div {
+    width: 200px;
+}
+
+.products-main__wrapper > div > img {
+    margin: 0 auto;
+    width: 150px;
+    text-align: center;
+}
+
+.products-main__wrapper > div > h4,
+p {
+    text-align: center;
+}
+
+.products-main__banner {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+@media (max-width: 768px) {
+    .products-main__wrapper {
+        flex-direction: column;
+    }
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
