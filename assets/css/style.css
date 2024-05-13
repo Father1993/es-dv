@@ -2604,6 +2604,15 @@ h6 {
     }
 }
 
+.contact-roznica__wrapper {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.index__contact-card > p {
+    max-width: 300px;
+}
 /*--------------------------------------------------------------
 # Products
 --------------------------------------------------------------*/
@@ -2638,6 +2647,10 @@ p {
     .products-main__wrapper {
         flex-direction: column;
     }
+}
+
+.contacts-title > div > p {
+    text-align: start;
 }
 
 /*--------------------------------------------------------------
