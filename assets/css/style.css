@@ -250,7 +250,6 @@ h6 {
     transition: all 0.5s;
     z-index: 997;
     height: 70px;
-    overflow: hidden;
 }
 
 @media (max-width: 992px) {
@@ -343,7 +342,7 @@ h6 {
 .navbar .dropdown ul {
     display: block;
     position: absolute;
-    left: 14px;
+    right: 130px;
     top: calc(100% + 30px);
     margin: 0;
     padding: 10px 0;
@@ -357,6 +356,7 @@ h6 {
 
 .navbar .dropdown ul li {
     min-width: 200px;
+    background-color: white;
 }
 
 .navbar .dropdown ul a {
