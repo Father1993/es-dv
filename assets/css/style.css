@@ -1502,6 +1502,11 @@ h6 {
     border: 1px solid #03c4eb;
     border-radius: 15px;
     margin-bottom: 70px;
+    background-image: url(../../assets/img/vac3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 .vacancies-vladivostok {
@@ -1509,6 +1514,23 @@ h6 {
     border: 1px solid #03c4eb;
     border-radius: 15px;
     margin-bottom: 70px;
+    background-image: url(../../assets/img/most.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.vacancies-khabarovsk2 {
+    padding: 30px;
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    margin-bottom: 70px;
+    background-image: url(../../assets/img/vac4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
 }
 
 .vacancies-vladivostok > h2 {
