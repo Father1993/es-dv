@@ -2710,6 +2710,10 @@ p {
     align-self: center;
 }
 
+.error-404 {
+    padding-bottom: 220px;
+}
+
 @media (max-width: 768px) {
     .products-main__wrapper {
         flex-direction: column;

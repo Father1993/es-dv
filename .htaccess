@@ -1,0 +1,14 @@
+# Включаем перенаправление URL
+RewriteEngine On
+
+# Обработка 404 ошибки
+ErrorDocument 404 /404.html
+
+# Принудительное использование HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Удаление расширения .html
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\\.html -f
+RewriteRule ^(.*)$ $1.html
