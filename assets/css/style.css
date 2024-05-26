@@ -2740,7 +2740,7 @@ p {
     margin-bottom: 50px;
 }
 
-.team-block__wrapper {
+.team-block__wrapper-main {
     display: flex;
     flex-direction: row;
     gap: 50px;
@@ -2795,7 +2795,7 @@ p {
 }
 
 @media (max-width: 768px) {
-    .team-block__wrapper {
+    .team-block__wrapper-main {
         flex-direction: column;
         padding-bottom: 0;
     }
