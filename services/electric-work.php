@@ -178,5 +178,4 @@ require_once "../assets/header.php";
         </section>
     </main>
     <!-- End #main -->
-
-    <?php require_once "../../assets/footer.php"; ?>
+    <?php require_once "../assets/footer.php"; ?>

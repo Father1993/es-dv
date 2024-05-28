@@ -310,4 +310,4 @@ require_once "../assets/header.php";
     </main>
     <!-- End #main -->
 
-    <?php require_once "../../assets/footer.php"; ?>
+    <?php require_once "../assets/footer.php"; ?>
