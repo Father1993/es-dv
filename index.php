@@ -273,7 +273,7 @@ require_once "./assets/header.php";
                             <p>
                                 •
                                 <a
-                                    href="./products/silovoe/19-schetchiki-elektroenergii-neva.html"
+                                    href="products/silovoe/19-schetchiki-elektroenergii-neva.php"
                                     >Приборы учета электроэнергии</a
                                 >: счетчики электрические однофазные и
                                 трехфазные, трансформаторы тока серии ТТЭ.

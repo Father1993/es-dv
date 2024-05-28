@@ -246,7 +246,7 @@ require_once "./assets/header.php";
                                     комиссия (МЭК) разработала международный
                                     стандарт, благодаря которому
                                     <a
-                                        href="./products/silovoe/28-aksessuary-dlya-shkafov-i-sshitov.html"
+                                        href="products/silovoe/28-aksessuary-dlya-shkafov-i-sshitov.php"
                                         >DIN-рейка</a
                                     >
                                     получила широкое распространение во всем
@@ -396,7 +396,7 @@ require_once "./assets/header.php";
                                     <img src="./assets/img/pragma.jpg" alt="" />
                                     <p class="golden-images-title">
                                         <a
-                                            href="./products/silovoe/2-korpusa-elektrosshitov-pragma-systeme-electric.html"
+                                            href="products/silovoe/2-korpusa-elektrosshitov-pragma-systeme-electric.php"
                                             >Pragma от Schneider Electric</a
                                         >
                                         — серия пластиковых корпусов щитов на
@@ -446,7 +446,7 @@ require_once "./assets/header.php";
                             />
                             <p class="golden-images-title">
                                 <a
-                                    href="./products/silovoe/3-modulnoe-oborudovanie-acti-9-systeme-electric.html"
+                                    href="products/silovoe/3-modulnoe-oborudovanie-acti-9-systeme-electric.php"
                                     >Acti9 iPC</a
                                 >
                                 — розетки для распределительных щитов
