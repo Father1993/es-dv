@@ -1,54 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Пресс гидравлический - ООО ТД Электросистемы';
 
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+$pageDescription = 'Гидравлические прессы позволяют создавать механические соединения типа жила-гильза или кабельная жила-наконечник с помощью механической опрессовки';
 
-    <title>Пресс гидравлический - ООО "ТД"Электросистемы"</title>
-    <meta name="description"
-        content="Гидравлические прессы позволяют создавать механические соединения типа жила-гильза или кабельная жила-наконечник с помощью механической опрессовки" />
-    <meta name="keywords" content="пресс, гибравлический, обжим, опрессовка, инструмент, наконечник кабеля" />
+$PageKeyWords = 'пресс, гибравлический, обжим, опрессовка, инструмент, наконечник кабеля';
 
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Пресс гидравлический - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url"
-        content="https://es-dv.ru/products/elektromontazhnye-izdeliya/36-press-gidravlicheskij.html" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Гидравлические прессы позволяют создавать механические соединения типа жила-гильза или кабельная жила-наконечник с помощью механической опрессовки" />
+$ogUrl = 'https://es-dv.ru/products/elektromontazhnye-izdeliya/36-press-gidravlicheskij.php';
 
-    <!-- Favicons -->
-
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
-    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
-
-    <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-        rel="stylesheet" />
-
-    <!-- Vendor CSS Files -->
-    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
-    <link href="../../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
-
-    <!-- Template Main CSS File -->
-    <link href="../../assets/css/style.css" rel="stylesheet" />
-
-    <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-</head>
+require_once "../../assets/header.php";
+?>
 
 <body>
     <!-- ======= Header ======= -->

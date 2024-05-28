@@ -1,55 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Коробки распределительные - ООО ТД Электросистемы';
 
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+$pageDescription = 'Распределительные коробки представляют собой пластиковый контейнер круглой или прямоугольной формы с крышкой и отверстиями по бокам, предназначенный для коммутации (соединения) электрических проводов';
 
-    <title>Коробки распределительные - ООО "ТД"Электросистемы"</title>
-    <meta name="description"
-        content="Распределительные коробки представляют собой пластиковый контейнер круглой или прямоугольной формы с крышкой и отверстиями по бокам, предназначенный для коммутации (соединения) электрических проводов" />
-    <meta name="keywords"
-        content="инструмент, мультиметр, клещи, кабель-канал, гофротруба, лоток, муфта, коробка, распределительная, распаячная" />
+$PageKeyWords = 'инструмент, мультиметр, клещи, кабель-канал, гофротруба, лоток, муфта, коробка, распределительная, распаячная';
 
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Коробки распределительные - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url"
-        content="https://es-dv.ru/products/elektromontazhnye-izdeliya/10-korobki-raspredelitelnye.html" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Распределительные коробки представляют собой пластиковый контейнер круглой или прямоугольной формы с крышкой и отверстиями по бокам, предназначенный для коммутации (соединения) электрических проводов" />
+$ogUrl = 'https://es-dv.ru/products/elektromontazhnye-izdeliya/10-korobki-raspredelitelnye.php';
 
-    <!-- Favicons -->
-
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
-    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
-
-    <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-        rel="stylesheet" />
-
-    <!-- Vendor CSS Files -->
-    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
-    <link href="../../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
-
-    <!-- Template Main CSS File -->
-    <link href="../../assets/css/style.css" rel="stylesheet" />
-
-    <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-</head>
+require_once "../../assets/header.php";
+?>
 
 <body>
     <!-- ======= Header ======= -->
