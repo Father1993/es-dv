@@ -14,8 +14,6 @@ require_once "./assets/header.php";
 <body>
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex align-items-center">
-
-
         <?php
             // Require header_menu.php file for nav-menu
             require_once "./assets/header_menu.php";
