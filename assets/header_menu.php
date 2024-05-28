@@ -1,6 +1,7 @@
 <div class="container d-flex align-items-center justify-content-between">
-    <a href="/" class="logo mr-auto"><img src="assets/img/img1/elektrosistema-logo.png"
-            alt="Логотип Электросистемы" /></a>
+    <a href="/" class="logo mr-auto">
+        <img src="/assets/img/img1/elektrosistema-logo.png" alt="Логотип Электросистемы" />
+    </a>
 
     <nav id="navbar" class="navbar">
         <ul>

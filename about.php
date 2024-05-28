@@ -11,6 +11,7 @@ $ogUrl = 'https://es-dv.ru/about.php';
 require_once "./assets/header.php";
 ?>
 
+
 <body>
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex align-items-center">
@@ -390,5 +391,9 @@ require_once "./assets/header.php";
         </section>
     </main>
     <!-- End #main -->
+
+    <script defer src="/assets/js/swiper.js"></script>
+
+    <script defer src="/assets/js/customSwiper.js"></script>
 
     <?php require_once "./assets/footer.php"; ?>
