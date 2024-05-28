@@ -1,32 +1,12 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-
-    <title>Светодиодные прожекторы - ООО "ТД"Электросистемы"</title>
-    <meta name="description" content="Качественные LED прожекторы оптом и в розницу от известных производителей" />
-    <meta name="keywords"
-        content="освещение, светильник, офисный, светодиодный, светодиод, энергосберегающий, продажа" />
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Светодиодные прожекторы - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/2-svetodiodnye-prozhektory.php" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Качественные LED прожекторы оптом и в розницу от известных производителей" />
-
-        <?php
+<?php
 // Переменные для SEO страницы
-$pageTitle = 'Купить автоматические выключатели и другое оборудование DEKraft по привлекательным ценам';
+$pageTitle = 'Светодиодные прожекторы - ООО ТД Электросистемы';
 
-$pageDescription = 'Продажа по выгодным ценам модульного оборудования среднего ценового сегмента DEKraft от крупнейшего поставщика электрики на Дальнем Востоке';
+$pageDescription = 'Качественные LED прожекторы оптом и в розницу от известных производителей';
 
-$PageKeyWords = 'модульное оборудование, DEKraft, выключатели , автоматические выключатели, дифференциальные автоматы, выключатели нагрузки, ограничители перенапряжений, модульные контакторы, сигнальные лампы, розетки модульные';
+$PageKeyWords = 'освещение, светильник, офисный, светодиодный, светодиод, энергосберегающий, продажа';
 
-$ogUrl = 'https://es-dv.ru/products/silovoe/1-oborudovanie-dekraft.php';
+$ogUrl = 'https://es-dv.ru/products/svet/2-svetodiodnye-prozhektory.php';
 
 require_once "../../assets/header.php";
 ?>

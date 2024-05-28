@@ -1,33 +1,12 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-
-    <title>Светильники серии НПБ - ООО "ТД"Электросистемы"</title>
-    <meta name="description"
-        content="Компания ООО ТД Электросистемы предлагает к продаже светильники серии НПБ, отличающиеся высокой прочностью и защитой от проникновения пыли и влаги." />
-    <meta name="keywords"
-        content="нпб, светильник, освещение, производственный, пыленепроницаемый, влагозащищенный, защищенный" />
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Светильники серии НПБ - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/5-svetilniki-serii-npb.php" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Компания ООО ТД Электросистемы предлагает к продаже светильники серии НПБ, отличающиеся высокой прочностью и защитой от проникновения пыли и влаги." />
-
-        <?php
+<?php
 // Переменные для SEO страницы
-$pageTitle = 'Купить автоматические выключатели и другое оборудование DEKraft по привлекательным ценам';
+$pageTitle = 'Светильники серии НПБ - ООО ТД Электросистемы';
 
-$pageDescription = 'Продажа по выгодным ценам модульного оборудования среднего ценового сегмента DEKraft от крупнейшего поставщика электрики на Дальнем Востоке';
+$pageDescription = 'Компания ООО ТД Электросистемы предлагает к продаже светильники серии НПБ, отличающиеся высокой прочностью и защитой от проникновения пыли и влаги';
 
-$PageKeyWords = 'модульное оборудование, DEKraft, выключатели , автоматические выключатели, дифференциальные автоматы, выключатели нагрузки, ограничители перенапряжений, модульные контакторы, сигнальные лампы, розетки модульные';
+$PageKeyWords = 'нпб, светильник, освещение, производственный, пыленепроницаемый, влагозащищенный, защищенный';
 
-$ogUrl = 'https://es-dv.ru/products/silovoe/1-oborudovanie-dekraft.php';
+$ogUrl = 'https://es-dv.ru/products/svet/5-svetilniki-serii-npb.php';
 
 require_once "../../assets/header.php";
 ?>

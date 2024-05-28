@@ -1,33 +1,12 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-
-    <title>Светильники серии ЛКУ11 - ООО "ТД"Электросистемы"</title>
-    <meta name="description"
-        content="Приобрести надежные уличные светильники TDM серии ЛКУ11 по отличным; ценам вы можете в компании ООО ТД Электросистемы" />
-    <meta name="keywords"
-        content="освещение, светильник, офисный, светодиодный, светодиод, энергосберегающий, продажа, прожектор, металлогалогенный, лампа, газоразрядный" />
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Светильники серии ЛКУ11 - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/4-svetilniki-serii-lku11.php" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Приобрести надежные уличные светильники TDM серии ЛКУ11 по отличным; ценам вы можете в компании ООО ТД Электросистемы" />
-
-        <?php
+<?php
 // Переменные для SEO страницы
-$pageTitle = 'Купить автоматические выключатели и другое оборудование DEKraft по привлекательным ценам';
+$pageTitle = 'Светильники серии ЛКУ11 - ООО ТД Электросистемы';
 
-$pageDescription = 'Продажа по выгодным ценам модульного оборудования среднего ценового сегмента DEKraft от крупнейшего поставщика электрики на Дальнем Востоке';
+$pageDescription = 'Приобрести надежные уличные светильники TDM серии ЛКУ11 по отличным; ценам вы можете в компании ООО ТД Электросистемы';
 
-$PageKeyWords = 'модульное оборудование, DEKraft, выключатели , автоматические выключатели, дифференциальные автоматы, выключатели нагрузки, ограничители перенапряжений, модульные контакторы, сигнальные лампы, розетки модульные';
+$PageKeyWords = 'освещение, светильник, офисный, светодиодный, светодиод, энергосберегающий, продажа, прожектор, металлогалогенный, лампа, газоразрядный';
 
-$ogUrl = 'https://es-dv.ru/products/silovoe/1-oborudovanie-dekraft.php';
+$ogUrl = 'https://es-dv.ru/products/svet/4-svetilniki-serii-lku11.php';
 
 require_once "../../assets/header.php";
 ?>

@@ -1,32 +1,12 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-
-    <title>Светильники серии НПО - ООО "ТД"Электросистемы"</title>
-    <meta name="description"
-        content="Светильники серии НПО с или без датчика движения по отличной цене вы можете приобрести в компании ООО  ТД Электросистемы" />
-    <meta name="keywords" content="нпо, светильник, освещение, внутреннее, датчик движения" />
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Светильники серии НПО - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/6-svetilniki-serii-npo.php" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description"
-        content="Светильники серии НПО с или без датчика движения по отличной цене вы можете приобрести в компании ООО  ТД Электросистемы" />
-
-        <?php
+<?php
 // Переменные для SEO страницы
-$pageTitle = 'Купить автоматические выключатели и другое оборудование DEKraft по привлекательным ценам';
+$pageTitle = 'Светильники серии НПО - ООО ТД Электросистемы';
 
-$pageDescription = 'Продажа по выгодным ценам модульного оборудования среднего ценового сегмента DEKraft от крупнейшего поставщика электрики на Дальнем Востоке';
+$pageDescription = 'Светильники серии НПО с или без датчика движения по отличной цене вы можете приобрести в компании ООО  ТД Электросистемы';
 
-$PageKeyWords = 'модульное оборудование, DEKraft, выключатели , автоматические выключатели, дифференциальные автоматы, выключатели нагрузки, ограничители перенапряжений, модульные контакторы, сигнальные лампы, розетки модульные';
+$PageKeyWords = 'нпо, светильник, освещение, внутреннее, датчик движенияs';
 
-$ogUrl = 'https://es-dv.ru/products/silovoe/1-oborudovanie-dekraft.php';
+$ogUrl = 'https://es-dv.ru/products/svet/6-svetilniki-serii-npo.php';
 
 require_once "../../assets/header.php";
 ?>
