@@ -1,580 +1,442 @@
 <!DOCTYPE html>
 <html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <title>
-            Модульное оборудование ACTI 9 Systeme Electric - ООО
-            "ТД"Электросистемы"
-        </title>
-        <meta
-            name="description"
-            content="Модульное оборудование ACTY 9 Systeme Electric легко устанавливается, отличается исключительным качеством материалов, оно отвечает всем экологическим требованиям, а его компоненты полностью утилизируются и могут использоваться повторно."
-        />
-        <meta
-            name="keywords"
-            content="schneider electric, шнайдер, модульное, оборудование, выключатели, автомат, дифференциальный, acty, разъединитель, рубильник"
-        />
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Модульное оборудование ACTI 9 Systeme Electric - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/products/silovoe/3-modulnoe-oborudovanie-acti-9-systeme-electric.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Модульное оборудование ACTY 9 Systeme Electric легко устанавливается, отличается исключительным качеством материалов, оно отвечает всем экологическим требованиям, а его компоненты полностью утилизируются и могут использоваться повторно."
-        />
+    <title>
+        Модульное оборудование ACTI 9 Systeme Electric - ООО
+        "ТД"Электросистемы"
+    </title>
+    <meta name="description"
+        content="Модульное оборудование ACTY 9 Systeme Electric легко устанавливается, отличается исключительным качеством материалов, оно отвечает всем экологическим требованиям, а его компоненты полностью утилизируются и могут использоваться повторно." />
+    <meta name="keywords"
+        content="schneider electric, шнайдер, модульное, оборудование, выключатели, автомат, дифференциальный, acty, разъединитель, рубильник" />
 
-        <!-- Favicons -->
+    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+    <meta property="og:title" content="Модульное оборудование ACTI 9 Systeme Electric - ООО ТД Электросистемы" />
+    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
+    <meta property="og:url"
+        content="https://es-dv.ru/products/silovoe/3-modulnoe-oborudovanie-acti-9-systeme-electric.html" />
+    <meta property="og:site_name" content="Электросистемы" />
+    <meta property="og:description"
+        content="Модульное оборудование ACTY 9 Systeme Electric легко устанавливается, отличается исключительным качеством материалов, оно отвечает всем экологическим требованиям, а его компоненты полностью утилизируются и могут использоваться повторно." />
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
+    <!-- Favicons -->
 
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
 
-        <!-- Vendor CSS Files -->
-        <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
+        rel="stylesheet" />
 
-        <!-- Template Main CSS File -->
-        <link href="../../assets/css/style.css" rel="stylesheet" />
+    <!-- Vendor CSS Files -->
+    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+    <link href="../../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+    <link href="../../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
-        <!-- =======================================================
+    <!-- Template Main CSS File -->
+    <link href="../../assets/css/style.css" rel="stylesheet" />
+
+    <!-- =======================================================
 * Template Name: Imperial
 * Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 ======================================================== -->
-    </head>
+</head>
 
-    <body>
-        <!-- ======= Header ======= -->
-        <header id="header" class="d-flex align-items-center">
-            <div
-                class="container d-flex align-items-center justify-content-between"
-            >
-                <a href="../../index.php" class="logo mr-auto"
-                    ><img
-                        src="../../assets/img/img1/elektrosistema-logo.png"
-                        alt="Электросистема"
-                /></a>
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+            <a href="../../index.php" class="logo mr-auto"><img src="../../assets/img/img1/elektrosistema-logo.png"
+                    alt="Электросистема" /></a>
 
-                <nav id="navbar" class="navbar">
-                    <ul>
-                        <li class="i-shop">
-                            <a
-                                class="nav-link scrollto"
-                                target="_blank"
-                                href="https://электротовары-дв.рф/"
-                                >Интернет магазин</a
-                            >
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li class="i-shop">
+                        <a class="nav-link scrollto" target="_blank" href="https://электротовары-дв.рф/">Интернет
+                            магазин</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#hero">Главная</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#about">О нас</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#services">Услуги</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#portfolio">Продукция</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="../../index.php#about"><span class="active">Подробнее</span>
+                            <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li>
+                                <a href="../../about.php">О компании</a>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="../../index.php##services">
+                                    <span>Услуги</span>
+                                    <i class="bi bi-chevron-right"></i>
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="../../services/electric-work.php">Все виды электромонтажных
+                                            работ</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/laboratory.php">Услуги испытательной
+                                            лаборатории</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/delivery.php">Доставка</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/manufacturing.php">Изготовление металлических
+                                            корпусов электрощитов</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="../../services/production.php">Производство электрощитов и
+                                            электрооборудования</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="../../production.html"><span class="active">Продукция</span>
+                                    <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li>
+                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/cabel/">Кабель</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/silovoe/">Силовое и коммутационное
+                                            оборудование</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/elektromontazhnye-izdeliya/">Электромонтажные
+                                            изделия</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/electro-ustanovka/">Электроустановочные изделия</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="../../vacancies.php">Вакансии</a>
+                            </li>
+                            <li><a href="../../docs.php">Документы</a></li>
+                            <li>
+                                <a href="../../shop.php">Магазин Электромаркет</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../contacts.php">Контакты</a>
+                    </li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <main id="main">
+        <!-- ======= Breadcrumbs ======= -->
+        <section class="vacancies">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center">
+                    <ol>
+                        <li><a href="../../index.php">Главная</a></li>
+                        <li><a href="../">Продукция</a></li>
+                        <li>
+                            <a href="./">Силовое и коммутационное оборудование</a>
                         </li>
                         <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#hero"
-                                >Главная</a
-                            >
+                            Модульное оборудование ACTI 9 Systeme Electric
                         </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#about"
-                                >О нас</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#services"
-                                >Услуги</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#portfolio"
-                                >Продукция</a
-                            >
-                        </li>
-                        <li class="dropdown">
-                            <a href="../../index.php#about"
-                                ><span class="active">Подробнее</span>
-                                <i class="bi bi-chevron-down"></i
-                            ></a>
-                            <ul>
-                                <li>
-                                    <a href="../../about.php">О компании</a>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../index.php##services">
-                                        <span>Услуги</span>
-                                        <i class="bi bi-chevron-right"></i>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../services/electric-work.php"
-                                                >Все виды электромонтажных
-                                                работ</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/laboratory.php"
-                                                >Услуги испытательной
-                                                лаборатории</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/delivery.php"
-                                                >Доставка</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/manufacturing.php"
-                                                >Изготовление металлических
-                                                корпусов электрощитов</a
-                                            >
-                                        </li>
-
-                                        <li>
-                                            <a
-                                                href="../../services/production.php"
-                                                >Производство электрощитов и
-                                                электрооборудования</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../production.html"
-                                        ><span class="active">Продукция</span>
-                                        <i class="bi bi-chevron-right"></i
-                                    ></a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../products/svet/svetotekhnika.html"
-                                                >Светотехника</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/cabel/"
-                                                >Кабель</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/silovoe/"
-                                                >Силовое и коммутационное
-                                                оборудование</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/elektromontazhnye-izdeliya/"
-                                                >Электромонтажные изделия</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/electro-ustanovka/"
-                                                >Электроустановочные изделия</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="../../vacancies.php">Вакансии</a>
-                                </li>
-                                <li><a href="../../docs.php">Документы</a></li>
-                                <li>
-                                    <a href="../../shop.php"
-                                        >Магазин Электромаркет</a
-                                    >
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../contacts.php"
-                                >Контакты</a
-                            >
-                        </li>
-                    </ul>
-                    <i class="bi bi-list mobile-nav-toggle"></i>
-                </nav>
-                <!-- .navbar -->
+                    </ol>
+                </div>
             </div>
-        </header>
-        <!-- End Header -->
-
-        <main id="main">
-            <!-- ======= Breadcrumbs ======= -->
-            <section class="vacancies">
-                <div class="container">
-                    <div
-                        class="d-flex justify-content-between align-items-center"
-                    >
-                        <ol>
-                            <li><a href="../../index.php">Главная</a></li>
-                            <li><a href="../">Продукция</a></li>
-                            <li>
-                                <a href="./"
-                                    >Силовое и коммутационное оборудование</a
-                                >
-                            </li>
-                            <li>
-                                Модульное оборудование ACTI 9 Systeme Electric
-                            </li>
-                        </ol>
+        </section>
+        <!-- End Breadcrumbs -->
+        <section class="products-cabel__items">
+            <div class="products-cabel__wrapper container">
+                <div class="products-cabel__wrapper-card">
+                    <img class="products-cabel__img" src="./img/modulnoe-oborudovanie-acti-9-systeme-electric.jpg"
+                        alt="Модульное оборудование ACTI 9 Systeme Electric" />
+                    <div class="products-cabel__title-wrapper">
+                        <h2 class="products-cabel__title">
+                            Модульное оборудование ACTI 9 Systeme Electric
+                        </h2>
+                        <p class="products-cabel__text">
+                            Модульное оборудование ACTY 9 Systeme Electric
+                            легко устанавливается, отличается исключительным
+                            качеством материалов, оно отвечает всем
+                            экологическим требованиям, а его компоненты
+                            полностью утилизируются и могут использоваться
+                            повторно.
+                        </p>
                     </div>
                 </div>
-            </section>
-            <!-- End Breadcrumbs -->
-            <section class="products-cabel__items">
-                <div class="products-cabel__wrapper container">
-                    <div class="products-cabel__wrapper-card">
-                        <img
-                            class="products-cabel__img"
-                            src="./img/modulnoe-oborudovanie-acti-9-systeme-electric.jpg"
-                            alt="Модульное оборудование ACTI 9 Systeme Electric"
-                        />
-                        <div class="products-cabel__title-wrapper">
-                            <h2 class="products-cabel__title">
-                                Модульное оборудование ACTI 9 Systeme Electric
-                            </h2>
-                            <p class="products-cabel__text">
-                                Модульное оборудование ACTY 9 Systeme Electric
-                                легко устанавливается, отличается исключительным
-                                качеством материалов, оно отвечает всем
-                                экологическим требованиям, а его компоненты
-                                полностью утилизируются и могут использоваться
-                                повторно.
+
+                <hr />
+
+                <div class="products-cabel__about">
+                    <h3 class="products-cabel__about-title">Описание</h3>
+
+                    <p>
+                        С основными рекомендациями Systeme Electric по
+                        установке модульного оборудования можно ознакомиться
+                        <a href="../../zolotoe-pravilo.php">здесь</a>.
+                    </p>
+
+                    <div class="flex__container">
+                        <img src="./img/se-vkl1.jpg" alt="выключатели ACTI 9" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 IC60N 6кА
+                            </h4>
+                            <p>
+                                Автоматические выключатели Systeme Electric
+                                ACTI 9 IC60N предназначены для защиты цепей
+                                переменного тока до 440 вольт и постоянного
+                                тока до 250 вольт от тока короткого
+                                замыкания и токов перегрузки, а также
+                                секционирования в промышленных
+                                электроустановках и индикации аварийного
+                                срабатывания , при помощи красного
+                                механического индикатора состояния
+                                расположенного на передней панели аппарата.
+                                Отключающая способность In-6000A,
+                                выдерживаемое импульсное напряжение 6кВ.
+                                Кривая "С" (срабатывание в диапазоне 5-10In
+                                - магнитный расцепитель), номиналы от
+                                0,5-63ампер . Серия автоматов Systeme
+                                Electric IC60N имеет полный набор
+                                аксессуаров.
                             </p>
                         </div>
                     </div>
 
-                    <hr />
-
-                    <div class="products-cabel__about">
-                        <h3 class="products-cabel__about-title">Описание</h3>
-
-                        <p>
-                            С основными рекомендациями Systeme Electric по
-                            установке модульного оборудования можно ознакомиться
-                            <a href="../../zolotoe-pravilo.php">здесь</a>.
-                        </p>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl1.jpg"
-                                alt="выключатели ACTI 9"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 IC60N 6кА
-                                </h4>
-                                <p>
-                                    Автоматические выключатели Systeme Electric
-                                    ACTI 9 IC60N предназначены для защиты цепей
-                                    переменного тока до 440 вольт и постоянного
-                                    тока до 250 вольт от тока короткого
-                                    замыкания и токов перегрузки, а также
-                                    секционирования в промышленных
-                                    электроустановках и индикации аварийного
-                                    срабатывания , при помощи красного
-                                    механического индикатора состояния
-                                    расположенного на передней панели аппарата.
-                                    Отключающая способность In-6000A,
-                                    выдерживаемое импульсное напряжение 6кВ.
-                                    Кривая "С" (срабатывание в диапазоне 5-10In
-                                    - магнитный расцепитель), номиналы от
-                                    0,5-63ампер . Серия автоматов Systeme
-                                    Electric IC60N имеет полный набор
-                                    аксессуаров.
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl2.jpg" alt="выключатели ACTI 9 IK60N 6кА" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 IK60N 6кА
+                            </h4>
+                            <p>
+                                Автоматические
+                                <a href="25-avtomaticheskie-vyklyuchateli.php">выключатели</a>
+                                Systeme Electric ACTI 9 IK60 предназначены
+                                для защиты цепей переменного тока до 400
+                                вольт от тока короткого замыкания и токов
+                                перегрузки. Отключающая способность
+                                In-6000A, выдерживаемое импульсное
+                                напряжение 4кВ. Выпускается только кривая
+                                "С"(срабатывание в диапазоне 5-10In -
+                                магнитный расцепитель,1,13 In-1.45In
+                                тепловой расцепитель), номиналы от 1-63ампер
+                                , нет дополнительных аксессуаров.
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl2.jpg"
-                                alt="выключатели ACTI 9 IK60N 6кА"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 IK60N 6кА
-                                </h4>
-                                <p>
-                                    Автоматические
-                                    <a
-                                        href="25-avtomaticheskie-vyklyuchateli.php"
-                                        >выключатели</a
-                                    >
-                                    Systeme Electric ACTI 9 IK60 предназначены
-                                    для защиты цепей переменного тока до 400
-                                    вольт от тока короткого замыкания и токов
-                                    перегрузки. Отключающая способность
-                                    In-6000A, выдерживаемое импульсное
-                                    напряжение 4кВ. Выпускается только кривая
-                                    "С"(срабатывание в диапазоне 5-10In -
-                                    магнитный расцепитель,1,13 In-1.45In
-                                    тепловой расцепитель), номиналы от 1-63ампер
-                                    , нет дополнительных аксессуаров.
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl3.jpg" alt="выключатели ACTI 9 IC60H 10кА" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 IC60H 10кА
+                            </h4>
+                            <p>
+                                Автоматические выключатели Systeme Electric
+                                ACTI 9 IC60Hпредназначены для защиты цепей
+                                переменного тока до 440 вольт и постоянного
+                                тока до 250 вольт от тока короткого
+                                замыкания и токов перегрузки, а также
+                                секционирования в промышленных
+                                электроустановках и индикации аварийного
+                                срабатывания , при помощи красного
+                                механического индикатора состояния
+                                расположенного на передней панели аппарата.
+                                Отключающая способность In-10000A,
+                                выдерживаемое импульсное напряжение 6кВ.
+                                Кривая "С" (срабатывание в диапазоне 5-10In
+                                - магнитный расцепитель), номиналы от 0,5-63
+                                А . Серия автоматов Systeme Electric IC60H
+                                имеет полный набор аксессуаров.
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl3.jpg"
-                                alt="выключатели ACTI 9 IC60H 10кА"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 IC60H 10кА
-                                </h4>
-                                <p>
-                                    Автоматические выключатели Systeme Electric
-                                    ACTI 9 IC60Hпредназначены для защиты цепей
-                                    переменного тока до 440 вольт и постоянного
-                                    тока до 250 вольт от тока короткого
-                                    замыкания и токов перегрузки, а также
-                                    секционирования в промышленных
-                                    электроустановках и индикации аварийного
-                                    срабатывания , при помощи красного
-                                    механического индикатора состояния
-                                    расположенного на передней панели аппарата.
-                                    Отключающая способность In-10000A,
-                                    выдерживаемое импульсное напряжение 6кВ.
-                                    Кривая "С" (срабатывание в диапазоне 5-10In
-                                    - магнитный расцепитель), номиналы от 0,5-63
-                                    А . Серия автоматов Systeme Electric IC60H
-                                    имеет полный набор аксессуаров.
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl4.jpg" alt="Автоматические выключатели ACTI 9 IC60L 15кА" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 IC60L 15кА
+                            </h4>
+                            <p>
+                                Автоматические выключатели Systeme Electric
+                                ACTI 9 IC60Lпредназначены для защиты цепей
+                                переменного тока до 440 вольт и постоянного
+                                тока до 250 вольт от тока короткого
+                                замыкания и токов перегрузки, а также
+                                секционирования в промышленных
+                                электроустановках и индикации аварийного
+                                срабатывания , при помощи красного
+                                механического индикатора состояния
+                                расположенного на передней панели аппарата.
+                                В основном предназначены для защиты
+                                оконечных цепей c активной и частично
+                                индуктивной нагрузкой . Отключающая
+                                способность In-15000A, выдерживаемое
+                                импульсное напряжение 6кВ, кривая "С"
+                                (срабатывание в диапазоне 5-10In - магнитный
+                                расцепитель) , номиналы от 0,5-63ампер .
+                                Серия автоматов Systeme Electric IC60L имеет
+                                полный набор аксессуаров.
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl4.jpg"
-                                alt="Автоматические выключатели ACTI 9 IC60L 15кА"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 IC60L 15кА
-                                </h4>
-                                <p>
-                                    Автоматические выключатели Systeme Electric
-                                    ACTI 9 IC60Lпредназначены для защиты цепей
-                                    переменного тока до 440 вольт и постоянного
-                                    тока до 250 вольт от тока короткого
-                                    замыкания и токов перегрузки, а также
-                                    секционирования в промышленных
-                                    электроустановках и индикации аварийного
-                                    срабатывания , при помощи красного
-                                    механического индикатора состояния
-                                    расположенного на передней панели аппарата.
-                                    В основном предназначены для защиты
-                                    оконечных цепей c активной и частично
-                                    индуктивной нагрузкой . Отключающая
-                                    способность In-15000A, выдерживаемое
-                                    импульсное напряжение 6кВ, кривая "С"
-                                    (срабатывание в диапазоне 5-10In - магнитный
-                                    расцепитель) , номиналы от 0,5-63ампер .
-                                    Серия автоматов Systeme Electric IC60L имеет
-                                    полный набор аксессуаров.
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl5.jpg"
+                            alt="Автоматические выключатели для постоянного тока ACTI 9 IC60H-DC" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели для постоянного
+                                тока ACTI 9 IC60H-DC
+                            </h4>
+                            <p>
+                                Автоматические выключатели ACTI9 от Systeme
+                                Electric серииC60H-DC применяются с цепях
+                                постоянного тока (системы автоматизации и
+                                управления промышленными процессами,
+                                транспорт, возобновляемая энергия и т.д.).
+                                Они выполняют функции защиты цепей от токов
+                                короткого замыкания и перегрузки, а также
+                                функции управления и
+                                секционирования.Автоматы для постоянного
+                                тока C60H-DC имеют зону срабатывания
+                                электромагнитного расцепителя между 7In
+                                -10In (ток от номинала)
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl5.jpg"
-                                alt="Автоматические выключатели для постоянного тока ACTI 9 IC60H-DC"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели для постоянного
-                                    тока ACTI 9 IC60H-DC
-                                </h4>
-                                <p>
-                                    Автоматические выключатели ACTI9 от Systeme
-                                    Electric серииC60H-DC применяются с цепях
-                                    постоянного тока (системы автоматизации и
-                                    управления промышленными процессами,
-                                    транспорт, возобновляемая энергия и т.д.).
-                                    Они выполняют функции защиты цепей от токов
-                                    короткого замыкания и перегрузки, а также
-                                    функции управления и
-                                    секционирования.Автоматы для постоянного
-                                    тока C60H-DC имеют зону срабатывания
-                                    электромагнитного расцепителя между 7In
-                                    -10In (ток от номинала)
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl6.jpg"
+                            alt="Автоматические выключатели для постоянного тока ACTI 9 IC60H-DC" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 C120N 10кА
+                            </h4>
+                            <p>
+                                Автоматические выключатели Systeme Electric
+                                ACTI 9 C120N предназначены для защиты цепей
+                                переменного тока до 440 вольт и постоянного
+                                тока до 250 вольт от тока короткого
+                                замыкания и токов перегрузки, а также
+                                секционирования в промышленных
+                                электроустановках и индикации аварийного
+                                срабатывания , при помощи красного
+                                механического индикатора состояния
+                                расположенного на передней панели аппарата.
+                                Отключающая способность In-10000A,
+                                выдерживаемое импульсное напряжение 6кВ.
+                                Кривая "С" (срабатывание в диапазоне 5-10In
+                                - магнитный расцепитель), кривая D
+                                (срабатывание в диапазоне 10-13In -
+                                магнитный расцепитель)номиналы от 63-125
+                                ампер . Серия автоматов Systeme Electric
+                                C120N имеет полный набор аксессуаров.
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl6.jpg"
-                                alt="Автоматические выключатели для постоянного тока ACTI 9 IC60H-DC"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 C120N 10кА
-                                </h4>
-                                <p>
-                                    Автоматические выключатели Systeme Electric
-                                    ACTI 9 C120N предназначены для защиты цепей
-                                    переменного тока до 440 вольт и постоянного
-                                    тока до 250 вольт от тока короткого
-                                    замыкания и токов перегрузки, а также
-                                    секционирования в промышленных
-                                    электроустановках и индикации аварийного
-                                    срабатывания , при помощи красного
-                                    механического индикатора состояния
-                                    расположенного на передней панели аппарата.
-                                    Отключающая способность In-10000A,
-                                    выдерживаемое импульсное напряжение 6кВ.
-                                    Кривая "С" (срабатывание в диапазоне 5-10In
-                                    - магнитный расцепитель), кривая D
-                                    (срабатывание в диапазоне 10-13In -
-                                    магнитный расцепитель)номиналы от 63-125
-                                    ампер . Серия автоматов Systeme Electric
-                                    C120N имеет полный набор аксессуаров.
-                                </p>
-                            </div>
+                    <div class="flex__container">
+                        <img src="./img/se-vkl7.jpg" alt="Автоматические выключатели NG125" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели NG125
+                            </h4>
+                            <p>
+                                Автоматические выключатели NG125 Systeme
+                                Electric производит восокотехнологичные
+                                автоматические выключатели NG125 с большой
+                                отключающей способностью в компактном
+                                модульном исполнении. Рабочая температура:
+                                -30 до +70, максимальная стойкость к
+                                импульсному напряжению 8 кВ. Сечение кабеля
+                                для присоединения < 80 ампер: 1.5-50 мм2 ., 80-125A от 16-70мм2. Отключающая
+                                    способностьNG125N-25кА , NG125H-36kA , NG125L-50кА </p>
+
+                                    <ul>
+                                        <li>номинальный ток: от 10 до 125 А</li>
+                                        <li>
+                                            различные диапазоны разрывных мощностей
+                                            и кривых срабатывания: B, C, D и т.д.
+                                        </li>
+                                        <li>
+                                            соответствие стандартам: IEC 60947-2,
+                                            сертифицировано национальными
+                                            разрешительными органами
+                                        </li>
+                                        <li>
+                                            позволяет выполнить изоляцию в
+                                            соответствии с промышленными
+                                            стандартами: МЭК 60947
+                                        </li>
+                                        <li>
+                                            рабочее напряжение: до 500 В переменного
+                                            тока, напряжение изоляции: 690 В
+                                        </li>
+                                        <li>
+                                            дополнительные подключаемые модули
+                                            защиты от токов утечки на землю Vigi
+                                            NG125
+                                        </li>
+                                        <li>
+                                            дополнительное оборудование,
+                                            устанавливаемое по заказу: индикация
+                                            состояния и размыкания, шунтовой
+                                            автоматический выключатель, выключатели
+                                            защиты от пониженного и повышенного
+                                            напряжения.
+                                        </li>
+                                    </ul>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl7.jpg"
-                                alt="Автоматические выключатели NG125"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели NG125
-                                </h4>
-                                <p>
-                                    Автоматические выключатели NG125 Systeme
-                                    Electric производит восокотехнологичные
-                                    автоматические выключатели NG125 с большой
-                                    отключающей способностью в компактном
-                                    модульном исполнении. Рабочая температура:
-                                    -30 до +70, максимальная стойкость к
-                                    импульсному напряжению 8 кВ. Сечение кабеля
-                                    для присоединения < 80 ампер: 1.5-50 мм2 .,
-                                    80-125A от 16-70мм2. Отключающая
-                                    способностьNG125N-25кА , NG125H-36kA ,
-                                    NG125L-50кА
-                                </p>
-
-                                <ul>
-                                    <li>номинальный ток: от 10 до 125 А</li>
-                                    <li>
-                                        различные диапазоны разрывных мощностей
-                                        и кривых срабатывания: B, C, D и т.д.
-                                    </li>
-                                    <li>
-                                        соответствие стандартам: IEC 60947-2,
-                                        сертифицировано национальными
-                                        разрешительными органами
-                                    </li>
-                                    <li>
-                                        позволяет выполнить изоляцию в
-                                        соответствии с промышленными
-                                        стандартами: МЭК 60947
-                                    </li>
-                                    <li>
-                                        рабочее напряжение: до 500 В переменного
-                                        тока, напряжение изоляции: 690 В
-                                    </li>
-                                    <li>
-                                        дополнительные подключаемые модули
-                                        защиты от токов утечки на землю Vigi
-                                        NG125
-                                    </li>
-                                    <li>
-                                        дополнительное оборудование,
-                                        устанавливаемое по заказу: индикация
-                                        состояния и размыкания, шунтовой
-                                        автоматический выключатель, выключатели
-                                        защиты от пониженного и повышенного
-                                        напряжения.
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl8.jpg"
-                                alt="Выключатель дифференциального тока УЗО тип AC"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Выключатель дифференциального тока УЗО тип
-                                    AC
-                                </h4>
-                                <p>
-                                    УЗО Systeme Electric предназначен для защиты
-                                    людей при прямом прикосновении к
-                                    электрическому току < 30мА , защита человека
-                                    при косвенном прикосновении > 100 мА ,
+                    <div class="flex__container">
+                        <img src="./img/se-vkl8.jpg" alt="Выключатель дифференциального тока УЗО тип AC" />
+                        <div>
+                            <h4 class="">
+                                Выключатель дифференциального тока УЗО тип
+                                AC
+                            </h4>
+                            <p>
+                                УЗО Systeme Electric предназначен для защиты
+                                людей при прямом прикосновении к
+                                электрическому току < 30мА , защита человека при косвенном прикосновении> 100 мА ,
                                     защита от риска возгорания при утечке тока
                                     на землю > 300мА. Systeme Electric выпускает
                                     УЗО типа "AC" - реагирующее на
@@ -585,25 +447,21 @@
                                     срабатыванию , тип "S" -селективный имеющий
                                     задержку на срабатывание для каскадной
                                     защиты.
-                                </p>
-                            </div>
+                            </p>
                         </div>
+                    </div>
 
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl9.jpg"
-                                alt="Выключатель дифференциального тока УЗО тип A"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Выключатель дифференциального тока УЗО тип A
-                                </h4>
-                                <p>
-                                    Выключатель дифференциального тока от
-                                    Systeme Electric предназначен для защиты
-                                    людей при прямом прикосновении к
-                                    электрическому току < 30мА , защита человека
-                                    при косвенном прикосновении > 100 мА ,
+                    <div class="flex__container">
+                        <img src="./img/se-vkl9.jpg" alt="Выключатель дифференциального тока УЗО тип A" />
+                        <div>
+                            <h4 class="">
+                                Выключатель дифференциального тока УЗО тип A
+                            </h4>
+                            <p>
+                                Выключатель дифференциального тока от
+                                Systeme Electric предназначен для защиты
+                                людей при прямом прикосновении к
+                                электрическому току < 30мА , защита человека при косвенном прикосновении> 100 мА ,
                                     защита от риска возгорания при утечке тока
                                     на землю > 300мА, тип "S" -селективный
                                     имеющий задержку на срабатывание для
@@ -612,441 +470,348 @@
                                     ток утечки, в основном используется для
                                     защиты цепей питающие электронную технику
                                     (компьютеры, блоки питания).
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-vkl10.jpg"
-                                alt="Автоматические выключатели ACTI 9 C120N 10кА"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ACTI 9 C120N 10кА
-                                </h4>
-                                <p>
-                                    Дифференциальный автомат ACTI9 DPN N Vigi
-                                    обеспечивает комплексную защиту цепей от
-                                    короткого замыкания , перегрузок, и утечки
-                                    тока на землю. Характерной особенностью
-                                    диффавтоматов Systeme Electric является
-                                    раздельная взводная рукоятка указывающая на
-                                    причину отключения диффавтомата, если
-                                    выключился черный выключатель значит
-                                    сработал термомагнитный расцепитель , если
-                                    красный рычаг отключен значит сработала
-                                    диффзащита. Особо рекомендуем обратить
-                                    внимание на шины для разводки диффавтоматов
-                                    на 3 фазы L1 N L2 N L3 N под артикулом 14899
-                                    позволяющие соединять 24 диффавтомата.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-rel1.jpg"
-                                alt="Модульные контакторы ICT"
-                            />
-                            <div>
-                                <h4 class="">Модульные контакторы ICT</h4>
-                                <p>
-                                    Модульные
-                                    <a href="27-kontaktory.php"
-                                        >контакторы</a
-                                    >
-                                    ICT производства Systeme Electric
-                                    применяются в цепях переменного тока для
-                                    дистанционного
-                                    <a href="#">управления освещением </a>,
-                                    отоплением , системой вентиляции и
-                                    кондиционирования, цепи питания нагревателей
-                                    , отключение неприоритетных нагрузок , в
-                                    цепях управления. Модульный контактор
-                                    состоит из катушки управления переменного
-                                    тока и силовых контактов , при подаче
-                                    напряжения на катушку контактора происходит
-                                    срабатывание силовых контактов , при снятии
-                                    напряжения с катушки контактора силовые
-                                    контакты возвращаются в первоначальное
-                                    состояние. Systeme Electric производит
-                                    модульные контакторы от 16 до 100 ампер , в
-                                    исполнении однополюсном , двухполюсном ,
-                                    трехполюсном и четырехполюсном.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-rel2.jpg"
-                                alt="Импульсные реле ITL"
-                            />
-                            <div>
-                                <h4 class="">Импульсные реле ITL</h4>
-                                <p>
-                                    Импульсные реле ITL производства Systeme
-                                    Electric предназначены для управления цепями
-                                    освещения в состав которых входят лампы
-                                    <a href="#">накаливания</a>,
-                                    <a href="#">галогенные лампы</a>,
-                                    <a href="#">люминисцентные</a>,
-                                    <a href="#">LED</a> и
-                                    <a href="#">газоразрядные лампы</a>.
-                                    Управление импульсными реле ITL
-                                    осуществляется при помощи короткого импульса
-                                    посланного на катушку реле , при каждом
-                                    импульсе реле меняет положение своих силовых
-                                    контактов . Самое частое применение
-                                    импульсные реле получили при монтаже схем
-                                    управления освещения с нескольких мест.
-                                    Несколько звонковых кнопок с нормально
-                                    открытым контактом заводятся параллельно на
-                                    катушку импульсного реле , при каждом
-                                    нажатии кнопки посылается импульс на
-                                    включение или отключение контакта реле.
-                                </p>
-
-                                <p>
-                                    В чем преимущество такой схемы над обычной
-                                    схемой проходных выключателей?
-                                </p>
-
-                                <ul>
-                                    <li>
-                                        удобство обслуживания , все реле стоят в
-                                        <a
-                                            href="29-metallicheskie-sshitki.php"
-                                            >шкафу</a
-                                        >
-                                        в легкой доступности
-                                    </li>
-                                    <li>
-                                        возможность сделать каскадное и
-                                        центральное управление
-                                    </li>
-                                    <li>
-                                        возможность обеспечить дистанционную
-                                        сигнализацию вкл/выкл на центральном
-                                        пульте
-                                    </li>
-                                    <li>
-                                        возможность осуществить временную
-                                        задержку на отключение .
-                                    </li>
-                                </ul>
-
-                                <p>
-                                    Ассортимент импульсных реле ITL очень
-                                    большой : 1-4 полюсное исполнение , НО и НЗ
-                                    контакты , есть даже импульсное реле на 32
-                                    ампера . На передней панели импульсного реле
-                                    ITL есть рычаг ручного управления и
-                                    переключатель AUTO-OFF, для отключения
-                                    дистанционного управления.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-rel3.jpg"
-                                alt="Реле времени Zelio Time"
-                            />
-                            <div>
-                                <h4 class="">Реле времени Zelio Time</h4>
-                                <p>
-                                    Концерн Systeme Electric производит большую
-                                    линейку реле
-                                    <a href="#">задержки времени</a> для
-                                    различных применений. Реле задержки времени
-                                    производятся для монтажа на дин-рейку или
-                                    могут встраивается в оборудование или в
-                                    двери и панели электрощитов. Серия RE11
-                                    имеет модульную конструкцию и встраивается в
-                                    любой электрический щиток на дин-рейку, есть
-                                    модели с релейным RE11R... или RE11L...
-                                    полупроводниковым выходом , серия RE7 - это
-                                    универсальная промышленная серия с широким
-                                    временным диапазоном и большим набором
-                                    функций, устанавливаются на дин-рейку в
-                                    промышленные щиты имеет ширину 22,5 мм .
-                                    Серия реле времени REXL и RE48
-                                    устанавливаются на клеммную колодку и
-                                    предназначены для частой корректировки
-                                    временных значений
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-rel4.jpg"
-                                alt="Логическое реле Zelio Logic 2"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Логическое реле Zelio Logic 2 для систем
-                                    малой автоматизации
-                                </h4>
-                                <p>
-                                    Интеллектуальные логические реле Zelio Logic
-                                    2 производства Systeme Electric
-                                    предназначены для решения задач малой
-                                    автоматизации при управлении системами
-                                    насосов, вентиляции , систем защиты от
-                                    протечек, управления механизмами, освещением
-                                    , отоплением и. т. д. Zelio Logic может
-                                    применяться всюду где нужно реализовать
-                                    схемы автоматизации без использования
-                                    промежуточных реле , таймеров, счетчиков ,
-                                    реле задержки, тем самым повышая надежность
-                                    системы . Используя Zelio Logic вы всегда
-                                    можете изменить программу в реле с помощью
-                                    Zelio Soft (программное обеспечение) и
-                                    протестировать изменения в режиме
-                                    визуализации. На реле можно поставить пароль
-                                    для ограничения доступа к изменению
-                                    программы. При помощи модема можно
-                                    дистанционно управлять системой. Zelio Logic
-                                    2 выпускается 3 моноблочных модели на 10,
-                                    12, 20 входов/выходов с дисплеем и клавишами
-                                    управления или без них и 2 модели на 10 и 26
-                                    входов/выходов с возможностью расширения .
-                                    Модули расширения бывают на 6, 10 и 14
-                                    дискретных и 4-мя аналоговыми входами/
-                                    выходами.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-rel4.jpg"
-                                alt="Реле контроля фаз"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Реле контроля фаз, напряжения, тока,
-                                    уровня,скорости, частоты, температуры , реле
-                                    управления нагрузкой
-                                </h4>
-                                <p>
-                                    Systeme Electric производит модульные реле
-                                    контроля и измерения , в ассортимент
-                                    продукции входят модульное реле контроля
-                                    фаз, модульное реле контроля напряжения ,
-                                    модульное реле контроля тока, модульное реле
-                                    контроля уровня жидкости, реле контроля
-                                    насоса, реле контроля частоты, контроль
-                                    скорости оборотов. Отличительной
-                                    особенностью данной серии реле является их
-                                    модульная конструкция , что позволяет
-                                    устанавливать их в щиты на дин-рейку вместе
-                                    с модульными автоматами без переделки. В
-                                    ассортименте особенно хочется отметить реле
-                                    контроля напряжения RM35 с контролем
-                                    нулевого провода , данная модель
-                                    востребована в России для мониторинга
-                                    электропитающей сети и предотвращения
-                                    аварийной ситуации вследствие перенапряжения
-                                    ( обрыв нуля ). С помощью реле управления
-                                    нагрузкой вы можете избежать отключения
-                                    вводного автомата при превышении
-                                    установленной мощности. Реле отключения
-                                    неприоритетных нагрузок производится в
-                                    однофазном и трехфазном исполнении.
-                                </p>
-                            </div>
-                        </div>
-                        <hr />
-
-                        <div class="flex__container">
-                            <img
-                                class="banner-img"
-                                src="./img/se-oth1.jpg"
-                                alt="Аксессуары для модульных автоматов ACTI 9 : дистанционные расцепители сигнальные и вспомогательные контакты , моторные привода"
-                            />
-                        </div>
-                        <h4 class="cabel-margin-p">
-                            Аксессуары для модульных автоматов ACTI 9 :
-                            дистанционные расцепители сигнальные и
-                            вспомогательные контакты , моторные привода.
-                        </h4>
-
-                        <p>
-                            Серия модульных устройств Acti9 , производства
-                            Systeme Electric , имеет имеет в своем составе
-                            большой ассортимент устройств для подсоединения ,
-                            управления и сигнализации . К вспомогательным
-                            устройствам относятся : контакт сигнализации
-                            положения контактов iOF, контакт сигнализации
-                            отключения из-за повреждения iSD, двойной контакт
-                            сигнализации положения контактов (вкл-выкл) , или
-                            контакт срабатывания расцепителя при повреждении
-                            iOF/SD+OF, дистанционные расцепители IMX и IMX+OF с
-                            встроенным контактом положения вкл/выкл, расцепитель
-                            максимального напряжения iMSU, расцепитель
-                            минимального напряжения мгновенного действия iMN, с
-                            выдержкой на срабатывание iMNs, независимый от
-                            напряжения питания iMNx . Также производятся
-                            моторные привода RCA и автоматическое устройство
-                            повторного включения ARA . Для присоединения
-                            производятся распределительные блоки Multiclip и
-                            Distribloc , пломбируемые заглушки , основание для
-                            автоматических выключателей, позволяющее мгновенно
-                            заменить неисправный автомат , поворотные рукоятки с
-                            выносом на корпус электрощита. Аксессуары для
-                            автоматических выключателей ACTI9 устанавливаются
-                            защелкиванием с левой стороны от аппарата.
-                        </p>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-oth2.jpg"
-                                alt="Дифференциальные блоки VIGI IC60"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Дифференциальные блоки VIGI IC60
-                                </h4>
-                                <p>
-                                    Дифференциальные блоки VIGI IC60
-                                    предназначены для присоединения к
-                                    автоматическим выключателям ACTI9 IC60 . В
-                                    результате получается дифференциальный
-                                    автомат с защитой от короткого замыкания ,
-                                    перегрузки, утечки тока на землю по всем
-                                    полюсам. Дифференциальные блоки VIGI
-                                    производятся типа "АС" (реагирует на
-                                    переменный ток утечки), тип "A" (переменный
-                                    и постоянный ток утечки ) тип "Asi"
-                                    (переменный и постоянный ток утечки c
-                                    повышенной устойчивостью к ложным
-                                    срабатываниям). Systeme Electric поставляет
-                                    дифференциальные блоки VIGI с
-                                    чувствительностью 10мА, 30мА, 100мА, 300мА,
-                                    500мА, 300мАS(селективная),
-                                    1000мАS(селективная).
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/se-oth3.jpg"
-                                alt="Шинные разводки для автоматических выключателей и диффавтоматов, кроссмодули ACTI 9"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Шинные разводки для автоматических
-                                    выключателей и диффавтоматов, кроссмодули
-                                    ACTI 9
-                                </h4>
-                                <p>
-                                    Гребенчатые шинки предназначены для разводки
-                                    автоматических выключателей , УЗО и
-                                    диффавтоматов, они помогают надежно и быстро
-                                    собрать электрический щит . Использование
-                                    шинных разводок сторонних производителей не
-                                    допускается по причине возможного плохого
-                                    контакта штыря шины к контактной площадке в
-                                    клемме автомата. Шинные разводки Systeme
-                                    Electric рассчитаны на ток 80 ампер, при
-                                    подводе питания в одну точку.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                style="width: 130px"
-                                src="./img/gheasy9.png"
-                                alt="Гребенчатые шины ACTI 9"
-                            />
-                            <div>
-                                <h4 class="">Гребенчатые шины ACTI 9</h4>
-                                <p>
-                                    Гребенчатые шины предназначены для разводки
-                                    автоматических выключателей , узо и
-                                    дифференциальных автоматов и
-                                    <a href="24-rubilniki-i-razediniteli.php"
-                                        >мини-рубильников</a
-                                    >. Они помогают надежно и быстро собрать
-                                    электрический щит . Шинные разводки
-                                    рассчитаны на ток 80 ампер, при подводе
-                                    питания в одну точку.
-                                </p>
-                            </div>
+                            </p>
                         </div>
                     </div>
-                </div>
-            </section>
 
-            <a
-                href="#"
-                class="back-to-top d-flex align-items-center justify-content-center"
-                ><i class="bi bi-arrow-up-short"></i
-            ></a>
-
-            <a
-                href="https://wa.me/+79141500323"
-                target="_blank"
-                class="call-whatsapp"
-                ><i class="bi bi-whatsapp"></i
-            ></a>
-        </main>
-        <!-- End #main -->
-
-        <!-- ======= Footer ======= -->
-        <footer id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="copyright">
-                            &copy;
-                            <strong>ООО Торговый Дом "Электросистемы"</strong>.
-                            - Все права защищены © 2024
+                    <div class="flex__container">
+                        <img src="./img/se-vkl10.jpg" alt="Автоматические выключатели ACTI 9 C120N 10кА" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ACTI 9 C120N 10кА
+                            </h4>
+                            <p>
+                                Дифференциальный автомат ACTI9 DPN N Vigi
+                                обеспечивает комплексную защиту цепей от
+                                короткого замыкания , перегрузок, и утечки
+                                тока на землю. Характерной особенностью
+                                диффавтоматов Systeme Electric является
+                                раздельная взводная рукоятка указывающая на
+                                причину отключения диффавтомата, если
+                                выключился черный выключатель значит
+                                сработал термомагнитный расцепитель , если
+                                красный рычаг отключен значит сработала
+                                диффзащита. Особо рекомендуем обратить
+                                внимание на шины для разводки диффавтоматов
+                                на 3 фазы L1 N L2 N L3 N под артикулом 14899
+                                позволяющие соединять 24 диффавтомата.
+                            </p>
                         </div>
-                        <div class="credits">
-                            <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Imperial
-        -->
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-rel1.jpg" alt="Модульные контакторы ICT" />
+                        <div>
+                            <h4 class="">Модульные контакторы ICT</h4>
+                            <p>
+                                Модульные
+                                <a href="27-kontaktory.php">контакторы</a>
+                                ICT производства Systeme Electric
+                                применяются в цепях переменного тока для
+                                дистанционного
+                                <a href="#">управления освещением </a>,
+                                отоплением , системой вентиляции и
+                                кондиционирования, цепи питания нагревателей
+                                , отключение неприоритетных нагрузок , в
+                                цепях управления. Модульный контактор
+                                состоит из катушки управления переменного
+                                тока и силовых контактов , при подаче
+                                напряжения на катушку контактора происходит
+                                срабатывание силовых контактов , при снятии
+                                напряжения с катушки контактора силовые
+                                контакты возвращаются в первоначальное
+                                состояние. Systeme Electric производит
+                                модульные контакторы от 16 до 100 ампер , в
+                                исполнении однополюсном , двухполюсном ,
+                                трехполюсном и четырехполюсном.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-rel2.jpg" alt="Импульсные реле ITL" />
+                        <div>
+                            <h4 class="">Импульсные реле ITL</h4>
+                            <p>
+                                Импульсные реле ITL производства Systeme
+                                Electric предназначены для управления цепями
+                                освещения в состав которых входят лампы
+                                <a href="#">накаливания</a>,
+                                <a href="#">галогенные лампы</a>,
+                                <a href="#">люминисцентные</a>,
+                                <a href="#">LED</a> и
+                                <a href="#">газоразрядные лампы</a>.
+                                Управление импульсными реле ITL
+                                осуществляется при помощи короткого импульса
+                                посланного на катушку реле , при каждом
+                                импульсе реле меняет положение своих силовых
+                                контактов . Самое частое применение
+                                импульсные реле получили при монтаже схем
+                                управления освещения с нескольких мест.
+                                Несколько звонковых кнопок с нормально
+                                открытым контактом заводятся параллельно на
+                                катушку импульсного реле , при каждом
+                                нажатии кнопки посылается импульс на
+                                включение или отключение контакта реле.
+                            </p>
+
+                            <p>
+                                В чем преимущество такой схемы над обычной
+                                схемой проходных выключателей?
+                            </p>
+
+                            <ul>
+                                <li>
+                                    удобство обслуживания , все реле стоят в
+                                    <a href="29-metallicheskie-sshitki.php">шкафу</a>
+                                    в легкой доступности
+                                </li>
+                                <li>
+                                    возможность сделать каскадное и
+                                    центральное управление
+                                </li>
+                                <li>
+                                    возможность обеспечить дистанционную
+                                    сигнализацию вкл/выкл на центральном
+                                    пульте
+                                </li>
+                                <li>
+                                    возможность осуществить временную
+                                    задержку на отключение .
+                                </li>
+                            </ul>
+
+                            <p>
+                                Ассортимент импульсных реле ITL очень
+                                большой : 1-4 полюсное исполнение , НО и НЗ
+                                контакты , есть даже импульсное реле на 32
+                                ампера . На передней панели импульсного реле
+                                ITL есть рычаг ручного управления и
+                                переключатель AUTO-OFF, для отключения
+                                дистанционного управления.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-rel3.jpg" alt="Реле времени Zelio Time" />
+                        <div>
+                            <h4 class="">Реле времени Zelio Time</h4>
+                            <p>
+                                Концерн Systeme Electric производит большую
+                                линейку реле
+                                <a href="#">задержки времени</a> для
+                                различных применений. Реле задержки времени
+                                производятся для монтажа на дин-рейку или
+                                могут встраивается в оборудование или в
+                                двери и панели электрощитов. Серия RE11
+                                имеет модульную конструкцию и встраивается в
+                                любой электрический щиток на дин-рейку, есть
+                                модели с релейным RE11R... или RE11L...
+                                полупроводниковым выходом , серия RE7 - это
+                                универсальная промышленная серия с широким
+                                временным диапазоном и большим набором
+                                функций, устанавливаются на дин-рейку в
+                                промышленные щиты имеет ширину 22,5 мм .
+                                Серия реле времени REXL и RE48
+                                устанавливаются на клеммную колодку и
+                                предназначены для частой корректировки
+                                временных значений
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-rel4.jpg" alt="Логическое реле Zelio Logic 2" />
+                        <div>
+                            <h4 class="">
+                                Логическое реле Zelio Logic 2 для систем
+                                малой автоматизации
+                            </h4>
+                            <p>
+                                Интеллектуальные логические реле Zelio Logic
+                                2 производства Systeme Electric
+                                предназначены для решения задач малой
+                                автоматизации при управлении системами
+                                насосов, вентиляции , систем защиты от
+                                протечек, управления механизмами, освещением
+                                , отоплением и. т. д. Zelio Logic может
+                                применяться всюду где нужно реализовать
+                                схемы автоматизации без использования
+                                промежуточных реле , таймеров, счетчиков ,
+                                реле задержки, тем самым повышая надежность
+                                системы . Используя Zelio Logic вы всегда
+                                можете изменить программу в реле с помощью
+                                Zelio Soft (программное обеспечение) и
+                                протестировать изменения в режиме
+                                визуализации. На реле можно поставить пароль
+                                для ограничения доступа к изменению
+                                программы. При помощи модема можно
+                                дистанционно управлять системой. Zelio Logic
+                                2 выпускается 3 моноблочных модели на 10,
+                                12, 20 входов/выходов с дисплеем и клавишами
+                                управления или без них и 2 модели на 10 и 26
+                                входов/выходов с возможностью расширения .
+                                Модули расширения бывают на 6, 10 и 14
+                                дискретных и 4-мя аналоговыми входами/
+                                выходами.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-rel4.jpg" alt="Реле контроля фаз" />
+                        <div>
+                            <h4 class="">
+                                Реле контроля фаз, напряжения, тока,
+                                уровня,скорости, частоты, температуры , реле
+                                управления нагрузкой
+                            </h4>
+                            <p>
+                                Systeme Electric производит модульные реле
+                                контроля и измерения , в ассортимент
+                                продукции входят модульное реле контроля
+                                фаз, модульное реле контроля напряжения ,
+                                модульное реле контроля тока, модульное реле
+                                контроля уровня жидкости, реле контроля
+                                насоса, реле контроля частоты, контроль
+                                скорости оборотов. Отличительной
+                                особенностью данной серии реле является их
+                                модульная конструкция , что позволяет
+                                устанавливать их в щиты на дин-рейку вместе
+                                с модульными автоматами без переделки. В
+                                ассортименте особенно хочется отметить реле
+                                контроля напряжения RM35 с контролем
+                                нулевого провода , данная модель
+                                востребована в России для мониторинга
+                                электропитающей сети и предотвращения
+                                аварийной ситуации вследствие перенапряжения
+                                ( обрыв нуля ). С помощью реле управления
+                                нагрузкой вы можете избежать отключения
+                                вводного автомата при превышении
+                                установленной мощности. Реле отключения
+                                неприоритетных нагрузок производится в
+                                однофазном и трехфазном исполнении.
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+
+                    <div class="flex__container">
+                        <img class="banner-img" src="./img/se-oth1.jpg"
+                            alt="Аксессуары для модульных автоматов ACTI 9 : дистанционные расцепители сигнальные и вспомогательные контакты , моторные привода" />
+                    </div>
+                    <h4 class="cabel-margin-p">
+                        Аксессуары для модульных автоматов ACTI 9 :
+                        дистанционные расцепители сигнальные и
+                        вспомогательные контакты , моторные привода.
+                    </h4>
+
+                    <p>
+                        Серия модульных устройств Acti9 , производства
+                        Systeme Electric , имеет имеет в своем составе
+                        большой ассортимент устройств для подсоединения ,
+                        управления и сигнализации . К вспомогательным
+                        устройствам относятся : контакт сигнализации
+                        положения контактов iOF, контакт сигнализации
+                        отключения из-за повреждения iSD, двойной контакт
+                        сигнализации положения контактов (вкл-выкл) , или
+                        контакт срабатывания расцепителя при повреждении
+                        iOF/SD+OF, дистанционные расцепители IMX и IMX+OF с
+                        встроенным контактом положения вкл/выкл, расцепитель
+                        максимального напряжения iMSU, расцепитель
+                        минимального напряжения мгновенного действия iMN, с
+                        выдержкой на срабатывание iMNs, независимый от
+                        напряжения питания iMNx . Также производятся
+                        моторные привода RCA и автоматическое устройство
+                        повторного включения ARA . Для присоединения
+                        производятся распределительные блоки Multiclip и
+                        Distribloc , пломбируемые заглушки , основание для
+                        автоматических выключателей, позволяющее мгновенно
+                        заменить неисправный автомат , поворотные рукоятки с
+                        выносом на корпус электрощита. Аксессуары для
+                        автоматических выключателей ACTI9 устанавливаются
+                        защелкиванием с левой стороны от аппарата.
+                    </p>
+
+                    <div class="flex__container">
+                        <img src="./img/se-oth2.jpg" alt="Дифференциальные блоки VIGI IC60" />
+                        <div>
+                            <h4 class="">
+                                Дифференциальные блоки VIGI IC60
+                            </h4>
+                            <p>
+                                Дифференциальные блоки VIGI IC60
+                                предназначены для присоединения к
+                                автоматическим выключателям ACTI9 IC60 . В
+                                результате получается дифференциальный
+                                автомат с защитой от короткого замыкания ,
+                                перегрузки, утечки тока на землю по всем
+                                полюсам. Дифференциальные блоки VIGI
+                                производятся типа "АС" (реагирует на
+                                переменный ток утечки), тип "A" (переменный
+                                и постоянный ток утечки ) тип "Asi"
+                                (переменный и постоянный ток утечки c
+                                повышенной устойчивостью к ложным
+                                срабатываниям). Systeme Electric поставляет
+                                дифференциальные блоки VIGI с
+                                чувствительностью 10мА, 30мА, 100мА, 300мА,
+                                500мА, 300мАS(селективная),
+                                1000мАS(селективная).
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/se-oth3.jpg"
+                            alt="Шинные разводки для автоматических выключателей и диффавтоматов, кроссмодули ACTI 9" />
+                        <div>
+                            <h4 class="">
+                                Шинные разводки для автоматических
+                                выключателей и диффавтоматов, кроссмодули
+                                ACTI 9
+                            </h4>
+                            <p>
+                                Гребенчатые шинки предназначены для разводки
+                                автоматических выключателей , УЗО и
+                                диффавтоматов, они помогают надежно и быстро
+                                собрать электрический щит . Использование
+                                шинных разводок сторонних производителей не
+                                допускается по причине возможного плохого
+                                контакта штыря шины к контактной площадке в
+                                клемме автомата. Шинные разводки Systeme
+                                Electric рассчитаны на ток 80 ампер, при
+                                подводе питания в одну точку.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img style="width: 130px" src="./img/gheasy9.png" alt="Гребенчатые шины ACTI 9" />
+                        <div>
+                            <h4 class="">Гребенчатые шины ACTI 9</h4>
+                            <p>
+                                Гребенчатые шины предназначены для разводки
+                                автоматических выключателей , узо и
+                                дифференциальных автоматов и
+                                <a href="24-rubilniki-i-razediniteli.php">мини-рубильников</a>. Они помогают надежно и
+                                быстро собрать
+                                электрический щит . Шинные разводки
+                                рассчитаны на ток 80 ампер, при подводе
+                                питания в одну точку.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!-- End Footer -->
+        </section>
 
-        <div id="preloader"></div>
-        <a
-            href="#"
-            class="back-to-top d-flex align-items-center justify-content-center"
-            ><i class="bi bi-arrow-up-short"></i
-        ></a>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+                class="bi bi-arrow-up-short"></i></a>
 
-        <a
-            href="https://wa.me/+79141500323"
-            target="_blank"
-            class="call-whatsapp"
-            ><i class="bi bi-whatsapp"></i
-        ></a>
+        <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
+    </main>
+    <!-- End #main -->
 
-        <!-- Vendor JS Files -->
-        <script src="../../assets/vendor/aos/aos.js"></script>
-        <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="../../assets/vendor/glightbox/js/glightbox.min.js"></script>
-        <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-        <script src="../../assets/vendor/swiper/swiper-bundle.min.js"></script>
-        <script src="../../assets/vendor/typed.js/typed.umd.js"></script>
-        <script src="../../assets/vendor/php-email-form/validate.js"></script>
-
-        <!-- Template Main JS File -->
-        <script src="../../assets/js/main.js"></script>
-    </body>
-</html>
+    <!-- ======= Footer ======= -->
+    <?php require_once "../../assets/footer.php"; ?>

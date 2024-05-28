@@ -1,1112 +1,853 @@
 <!DOCTYPE html>
 <html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <title>Модульное оборудование IEK - ООО "ТД"Электросистемы"</title>
-        <meta
-            name="description"
-            content="Модульное оборудование IEK представлено в широком ассортименте: автоматические выключатели, устройства дифференциальной защиты и дополнительные модульные устройства. IEK - это надежная и качественная продукция по приемлемым ценам"
-        />
-        <meta
-            name="keywords"
-            content="выключатель, автоматический, дифференциальный, иэк, iek, выключатель нагрузки, предохранитель, контактор, контакт, ограничитель, расцепитель,переходник, таймер цифровой, таймер аналоговый, звонок, индикатор фаз, модульное оборудование, автомат"
-        />
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Модульное оборудование IEK- ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/products/silovoe/12-modulnoe-oborudovanie-iek.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Модульное оборудование IEK представлено в широком ассортименте: автоматические выключатели, устройства дифференциальной защиты и дополнительные модульные устройства. IEK - это надежная и качественная продукция по приемлемым ценам"
-        />
+    <title>Модульное оборудование IEK - ООО "ТД"Электросистемы"</title>
+    <meta name="description"
+        content="Модульное оборудование IEK представлено в широком ассортименте: автоматические выключатели, устройства дифференциальной защиты и дополнительные модульные устройства. IEK - это надежная и качественная продукция по приемлемым ценам" />
+    <meta name="keywords"
+        content="выключатель, автоматический, дифференциальный, иэк, iek, выключатель нагрузки, предохранитель, контактор, контакт, ограничитель, расцепитель,переходник, таймер цифровой, таймер аналоговый, звонок, индикатор фаз, модульное оборудование, автомат" />
 
-        <!-- Favicons -->
+    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+    <meta property="og:title" content="Модульное оборудование IEK- ООО ТД Электросистемы" />
+    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
+    <meta property="og:url" content="https://es-dv.ru/products/silovoe/12-modulnoe-oborudovanie-iek.html" />
+    <meta property="og:site_name" content="Электросистемы" />
+    <meta property="og:description"
+        content="Модульное оборудование IEK представлено в широком ассортименте: автоматические выключатели, устройства дифференциальной защиты и дополнительные модульные устройства. IEK - это надежная и качественная продукция по приемлемым ценам" />
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
+    <!-- Favicons -->
 
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
+    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
 
-        <!-- Vendor CSS Files -->
-        <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
+        rel="stylesheet" />
 
-        <!-- Template Main CSS File -->
-        <link href="../../assets/css/style.css" rel="stylesheet" />
+    <!-- Vendor CSS Files -->
+    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
+    <link href="../../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
+    <link href="../../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
-        <!-- =======================================================
+    <!-- Template Main CSS File -->
+    <link href="../../assets/css/style.css" rel="stylesheet" />
+
+    <!-- =======================================================
 * Template Name: Imperial
 * Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 ======================================================== -->
-    </head>
+</head>
 
-    <body>
-        <!-- ======= Header ======= -->
-        <header id="header" class="d-flex align-items-center">
-            <div
-                class="container d-flex align-items-center justify-content-between"
-            >
-                <a href="../../index.php" class="logo mr-auto"
-                    ><img
-                        src="../../assets/img/img1/elektrosistema-logo.png"
-                        alt="Электросистема"
-                /></a>
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+            <a href="../../index.php" class="logo mr-auto"><img src="../../assets/img/img1/elektrosistema-logo.png"
+                    alt="Электросистема" /></a>
 
-                <nav id="navbar" class="navbar">
-                    <ul>
-                        <li class="i-shop">
-                            <a
-                                class="nav-link scrollto"
-                                target="_blank"
-                                href="https://электротовары-дв.рф/"
-                                >Интернет магазин</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#hero"
-                                >Главная</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#about"
-                                >О нас</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#services"
-                                >Услуги</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#portfolio"
-                                >Продукция</a
-                            >
-                        </li>
-                        <li class="dropdown">
-                            <a href="../../index.php#about"
-                                ><span class="active">Подробнее</span>
-                                <i class="bi bi-chevron-down"></i
-                            ></a>
-                            <ul>
-                                <li>
-                                    <a href="../../about.php">О компании</a>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../index.php##services">
-                                        <span>Услуги</span>
-                                        <i class="bi bi-chevron-right"></i>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../services/electric-work.php"
-                                                >Все виды электромонтажных
-                                                работ</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/laboratory.php"
-                                                >Услуги испытательной
-                                                лаборатории</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/delivery.php"
-                                                >Доставка</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/manufacturing.php"
-                                                >Изготовление металлических
-                                                корпусов электрощитов</a
-                                            >
-                                        </li>
-
-                                        <li>
-                                            <a
-                                                href="../../services/production.php"
-                                                >Производство электрощитов и
-                                                электрооборудования</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../production.html"
-                                        ><span class="active">Продукция</span>
-                                        <i class="bi bi-chevron-right"></i
-                                    ></a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../products/svet/svetotekhnika.html"
-                                                >Светотехника</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/cabel/"
-                                                >Кабель</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/silovoe/"
-                                                >Силовое и коммутационное
-                                                оборудование</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/elektromontazhnye-izdeliya/"
-                                                >Электромонтажные изделия</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/electro-ustanovka/"
-                                                >Электроустановочные изделия</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="../../vacancies.php">Вакансии</a>
-                                </li>
-                                <li><a href="../../docs.php">Документы</a></li>
-                                <li>
-                                    <a href="../../shop.php"
-                                        >Магазин Электромаркет</a
-                                    >
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../contacts.php"
-                                >Контакты</a
-                            >
-                        </li>
-                    </ul>
-                    <i class="bi bi-list mobile-nav-toggle"></i>
-                </nav>
-                <!-- .navbar -->
-            </div>
-        </header>
-        <!-- End Header -->
-
-        <main id="main">
-            <!-- ======= Breadcrumbs ======= -->
-            <section class="vacancies">
-                <div class="container">
-                    <div
-                        class="d-flex justify-content-between align-items-center"
-                    >
-                        <ol>
-                            <li><a href="../../index.php">Главная</a></li>
-                            <li><a href="../">Продукция</a></li>
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li class="i-shop">
+                        <a class="nav-link scrollto" target="_blank" href="https://электротовары-дв.рф/">Интернет
+                            магазин</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#hero">Главная</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#about">О нас</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#services">Услуги</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#portfolio">Продукция</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="../../index.php#about"><span class="active">Подробнее</span>
+                            <i class="bi bi-chevron-down"></i></a>
+                        <ul>
                             <li>
-                                <a href="./"
-                                    >Силовое и коммутационное оборудование</a
-                                >
+                                <a href="../../about.php">О компании</a>
                             </li>
-                            <li>Модульное оборудование IEK</li>
-                        </ol>
+
+                            <li class="dropdown">
+                                <a href="../../index.php##services">
+                                    <span>Услуги</span>
+                                    <i class="bi bi-chevron-right"></i>
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="../../services/electric-work.php">Все виды электромонтажных
+                                            работ</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/laboratory.php">Услуги испытательной
+                                            лаборатории</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/delivery.php">Доставка</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/manufacturing.php">Изготовление металлических
+                                            корпусов электрощитов</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="../../services/production.php">Производство электрощитов и
+                                            электрооборудования</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="../../production.html"><span class="active">Продукция</span>
+                                    <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li>
+                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/cabel/">Кабель</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/silovoe/">Силовое и коммутационное
+                                            оборудование</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/elektromontazhnye-izdeliya/">Электромонтажные
+                                            изделия</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/electro-ustanovka/">Электроустановочные изделия</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="../../vacancies.php">Вакансии</a>
+                            </li>
+                            <li><a href="../../docs.php">Документы</a></li>
+                            <li>
+                                <a href="../../shop.php">Магазин Электромаркет</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../contacts.php">Контакты</a>
+                    </li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <main id="main">
+        <!-- ======= Breadcrumbs ======= -->
+        <section class="vacancies">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center">
+                    <ol>
+                        <li><a href="../../index.php">Главная</a></li>
+                        <li><a href="../">Продукция</a></li>
+                        <li>
+                            <a href="./">Силовое и коммутационное оборудование</a>
+                        </li>
+                        <li>Модульное оборудование IEK</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+        <!-- End Breadcrumbs -->
+        <section class="products-cabel__items">
+            <div class="products-cabel__wrapper container">
+                <div class="products-cabel__wrapper-card">
+                    <img class="products-cabel__img" src="./img/modulnoe-oborudovanie-iek.jpg"
+                        alt="Модульное оборудование IEK" />
+                    <div class="products-cabel__title-wrapper">
+                        <h2 class="products-cabel__title">
+                            Модульное оборудование IEK
+                        </h2>
+                        <p class="products-cabel__text">
+                            Модульное оборудование IEK представлено в
+                            компании ООО "ТД"Электросистемы" в широком
+                            ассортименте: автоматические выключатели,
+                            устройства дифференциальной защиты и
+                            дополнительные модульные устройства. IEK - это
+                            надежная и качественная продукция по приемлемым
+                            ценам.
+                        </p>
                     </div>
                 </div>
-            </section>
-            <!-- End Breadcrumbs -->
-            <section class="products-cabel__items">
-                <div class="products-cabel__wrapper container">
-                    <div class="products-cabel__wrapper-card">
-                        <img
-                            class="products-cabel__img"
-                            src="./img/modulnoe-oborudovanie-iek.jpg"
-                            alt="Модульное оборудование IEK"
-                        />
-                        <div class="products-cabel__title-wrapper">
-                            <h2 class="products-cabel__title">
-                                Модульное оборудование IEK
-                            </h2>
-                            <p class="products-cabel__text">
-                                Модульное оборудование IEK представлено в
-                                компании ООО "ТД"Электросистемы" в широком
-                                ассортименте: автоматические выключатели,
-                                устройства дифференциальной защиты и
-                                дополнительные модульные устройства. IEK - это
-                                надежная и качественная продукция по приемлемым
-                                ценам.
+
+                <hr />
+
+                <div class="products-cabel__about">
+                    <h3 class="products-cabel__about-title">Описание</h3>
+
+                    <span class="span-spec__border">Смотрите также модульное оборудование
+                        <a href="16-silovoe-oborudovanie-iek.php">TDM</a>,
+                        <a href="3-modulnoe-oborudovanie-acti-9-systeme-electric.php">ACTY 9- Schneider Electric</a>
+                    </span>
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl1.jpg" alt="Автоматические выключатели ВА47-29" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ВА47-29
+                            </h4>
+                            <p>
+                                <a href="25-avtomaticheskie-vyklyuchateli.php">Автоматические выключатели</a>
+                                ВА47-29 предназначены для защиты
+                                распределительных и групповых цепей, имеющих
+                                различную нагрузку:
+                            </p>
+
+                            <ul>
+                                <li>
+                                    электроприборы, освещение – выключатели
+                                    с характеристикой В
+                                </li>
+                                <li>
+                                    двигатели с небольшими пусковыми токами
+                                    (компрессор, вентилятор) – выключатели с
+                                    характеристикой C
+                                </li>
+                                <li>
+                                    двигатели с большими пусковыми токами
+                                    (подъемные механизмы, насосы) –
+                                    выключатели с характеристикой D
+                                </li>
+                            </ul>
+
+                            <p>
+                                Автоматические выключатели ВА47-29
+                                рекомендуются к применению в
+                                <a href="29-metallicheskie-sshitki.php">вводно-распределительных устройствах</a>
+                                <a href="8-plastikovye-boksy-i-shkafy.php">для жилых</a>
+                                и общественных зданий.
+                            </p>
+
+                            <p>
+                                200 типоисполнений на 18 номинальных токов
+                                от 0,5 до 63 А.
                             </p>
                         </div>
                     </div>
 
-                    <hr />
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl2.jpg" alt="Автоматические выключатели ВА47-29М" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ВА47-29М
+                            </h4>
+                            <p>
+                                Автоматические выключатели ВА47-29М
+                                предназначены для защиты распределительных и
+                                групповых цепей, имеющих различную нагрузку.
+                            </p>
 
-                    <div class="products-cabel__about">
-                        <h3 class="products-cabel__about-title">Описание</h3>
-
-                        <span class="span-spec__border"
-                            >Смотрите также модульное оборудование
-                            <a href="16-silovoe-oborudovanie-iek.php">TDM</a
-                            >,
-                            <a
-                                href="3-modulnoe-oborudovanie-acti-9-systeme-electric.php"
-                                >ACTY 9- Schneider Electric</a
-                            >
-                        </span>
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl1.jpg"
-                                alt="Автоматические выключатели ВА47-29"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ВА47-29
-                                </h4>
-                                <p>
-                                    <a
-                                        href="25-avtomaticheskie-vyklyuchateli.php"
-                                        >Автоматические выключатели</a
-                                    >
-                                    ВА47-29 предназначены для защиты
-                                    распределительных и групповых цепей, имеющих
-                                    различную нагрузку:
-                                </p>
-
-                                <ul>
-                                    <li>
-                                        электроприборы, освещение – выключатели
-                                        с характеристикой В
-                                    </li>
-                                    <li>
-                                        двигатели с небольшими пусковыми токами
-                                        (компрессор, вентилятор) – выключатели с
-                                        характеристикой C
-                                    </li>
-                                    <li>
-                                        двигатели с большими пусковыми токами
-                                        (подъемные механизмы, насосы) –
-                                        выключатели с характеристикой D
-                                    </li>
-                                </ul>
-
-                                <p>
-                                    Автоматические выключатели ВА47-29
-                                    рекомендуются к применению в
-                                    <a href="29-metallicheskie-sshitki.php"
-                                        >вводно-распределительных устройствах</a
-                                    >
-                                    <a
-                                        href="8-plastikovye-boksy-i-shkafy.php"
-                                        >для жилых</a
-                                    >
-                                    и общественных зданий.
-                                </p>
-
-                                <p>
-                                    200 типоисполнений на 18 номинальных токов
-                                    от 0,5 до 63 А.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl2.jpg"
-                                alt="Автоматические выключатели ВА47-29М"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ВА47-29М
-                                </h4>
-                                <p>
-                                    Автоматические выключатели ВА47-29М
-                                    предназначены для защиты распределительных и
-                                    групповых цепей, имеющих различную нагрузку.
-                                </p>
-
-                                <p>
-                                    Автоматические выключатели ВА47-29М
-                                    рекомендуются к применению в
-                                    вводно-распределительных устройствах для
-                                    жилых и общественных зданий и на
-                                    производстве.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl3.jpg"
-                                alt="Автоматические выключатели ВА 47-60"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ВА 47-60
-                                </h4>
-                                <p>
-                                    Автоматические выключатели типа ВА47-60
-                                    предназначены для автоматического отключения
-                                    источника питания при появлении сверхтоков.
-                                </p>
-                                <p>
-                                    Применяется для
-                                    <a href="../../services/production.php"
-                                        >сборки</a
-                                    >
-                                    в групповых щитках (квартирные и этажные),
-                                    щитах учетно-распределительных жилых,
-                                    общественных, бытовых и административных
-                                    зданий.
-                                </p>
-
-                                <p>
-                                    Предельная коммутационная способность 6000А.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl4.jpg"
-                                alt="Автоматические выключатели ВА47-100"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Автоматические выключатели ВА47-100
-                                </h4>
-                                <p>
-                                    Автоматические выключатели ВА47-100
-                                    предназначены для защиты распределительных и
-                                    групповых цепей, имеющих активную и
-                                    индуктивную нагрузки.
-                                </p>
-                                <p>
-                                    Рекомендуются к применению во
-                                    вводно-распределительных устройствах бытовых
-                                    и промышленных электроустановок.
-                                </p>
-
-                                <p>
-                                    80 типоисполнений на 10 номинальных токов.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl5.jpg"
-                                alt="Выключатели нагрузки ВН-320"
-                            />
-                            <div>
-                                <h4 class="">Выключатели нагрузки ВН-32</h4>
-                                <p>
-                                    Служат для включения, проведения и
-                                    отключения номинального тока в нормальных
-                                    условиях эксплуатации, проведения тока в
-                                    аварийных режимах, например, при коротком
-                                    замыкании, а также для выполнения
-                                    <a href="24-rubilniki-i-razediniteli.php"
-                                        >функций разъединения</a
-                                    >.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl6.jpg"
-                                alt="Выключатели дифференциальные ВД1-63 (УЗО тип АС)"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Выключатели дифференциальные ВД1-63 (УЗО тип
-                                    АС)
-                                </h4>
-                                <p>
-                                    Быстродействующий защитный выключатель,
-                                    реагирующий на дифференциальный ток, без
-                                    встроенной защиты от сверхтоков.
-                                    Предназначен для защиты человека от
-                                    поражения электрическим током при случайном
-                                    непреднамеренном прикосновении к токоведущим
-                                    частям электроустановок и предотвращает
-                                    возникновение пожаров вследствие протекания
-                                    токов утечки на землю. Не имеет собственного
-                                    потребления электроэнергии и обладает
-                                    высокой механической износостойкостью.
-                                </p>
-                                <p>
-                                    Свыше 50 типоисполнений на 10 номинальных
-                                    токов.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl7.jpg"
-                                alt="Выключатели дифференциальные ВД1-63S (УЗО тип АС)"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Выключатели дифференциальные ВД1-63S (УЗО
-                                    тип АС)
-                                </h4>
-                                <p>
-                                    Выключатели автоматические, управляемые
-                                    дифференциальным током, без встроенной
-                                    защиты от сверхтоков, функционально не
-                                    зависящие от напряжения сети, бытового или
-                                    аналогичного применения с выдержкой времени
-                                    отключения типа ВД1-63S предназначены для
-                                    автоматического отключения питания, в случае
-                                    возникновения дифференциальных токов утечки,
-                                    в однофазных и трехфазных электрических
-                                    сетях переменного тока номинальным
-                                    напряжением до 400В.
-                                </p>
-                                <p>
-                                    ВД1-63S предназначены для установки в
-                                    низковольные комплексные устройства ввода и
-                                    распределения, эксплуатируемые в жилых,
-                                    общественных и промышленных объектах, а
-                                    также строительных площадках.
-                                </p>
-
-                                <p>
-                                    Предельная коммутационная способность 6000А.
-                                </p>
-
-                                <p>
-                                    22 типосполнения на 6 номинальных токов от
-                                    25 до 80 А.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-vkl8.jpg"
-                                alt="Выключатели дифференциальные ВД1-63 (УЗО тип
-                                А)"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Выключатели дифференциальные ВД1-63 (УЗО тип
-                                    А)
-                                </h4>
-                                <p>
-                                    Дифференциальный выключатель ВД 1-63 тип А
-                                    относится к классу УЗО типа А, и способен
-                                    реагировать не только на синусоидальный
-                                    переменный дифференциальный ток, но и на
-                                    пульсирующий постоянный. ВД 1-63 тип А
-                                    полностью соответствует требованиям ГОСТ
-                                    50326 и ГОСТ 50807 как дифференциальный
-                                    выключатель, «функционально не зависящий от
-                                    источника питания».
-                                </p>
-                                <p>
-                                    ВД 1-63 тип А представляет собой надежное
-                                    помехоустойчивое электромеханическое УЗО,
-                                    способное обеспечить более полную, чем УЗО
-                                    типа АС, защиту от поражения током при
-                                    случайном непреднамеренном прикосновении к
-                                    проводнику, и защиту от токов утечек.
-                                </p>
-
-                                <p>
-                                    В отличии от УЗО типа AC, которые реагирует
-                                    только на синусоидальный переменный
-                                    дифференциальный ток, УЗО ВД 1-63 типа А
-                                    способно реагировать не только на
-                                    синусоидальный переменный дифференциальный
-                                    ток, но и на пульсирующий постоянный, что
-                                    обеспечивает более надежную защиту.
-                                </p>
-
-                                <p>
-                                    ВД 1-63 тип А рассчитано для использования в
-                                    электросетях, к которым могут быть
-                                    подключены современные бытовые приборы
-                                    (телевизоры, стиральные машины, компьютерная
-                                    техника и т.п.), а также при
-                                    энергообеспечении промышленных объектов, на
-                                    которых используется электронное
-                                    оборудование.
-                                </p>
-
-                                <p>
-                                    Эксплуатация УЗО типа А рекомендована ПУЭ
-                                    (7-е издание) и Временными указаниями по
-                                    применению УЗО в электроустановках жилых
-                                    зданий. «В жилых зданиях, как правило,
-                                    должны применяться УЗО типа А, реагирующие
-                                    не только на переменные, но и на
-                                    пульсирующие токи повреждений. Использование
-                                    УЗО типа АС, реагирующих только на
-                                    переменные токи утечки, допускается в
-                                    обоснованных случаях».
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-con1.jpg"
-                                alt="Контакт состояния КС47 и контакт состояния (аварийный) КСВ47"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Контакт состояния КС47 и контакт состояния
-                                    (аварийный) КСВ47
-                                </h4>
-                                <p>
-                                    КС47 и КСВ47 служат для получения информации
-                                    о состоянии автоматических выключателей
-                                    ВА47-29 и ВА47-100 в системах автоматизации
-                                    технологических процессов или защиты
-                                    конкретных объектов.
-                                </p>
-                                <p>
-                                    КС47 выполняет функцию контакта состояния
-                                    автоматического выключателя: включен –
-                                    выключен. Переключение контактов КС47
-                                    происходит, даже если рукоятка управления
-                                    выключателя удерживается во взведенном
-                                    положении.
-                                </p>
-
-                                <p>
-                                    КСВ47 выполняет функцию сигнализации
-                                    положения механизма взвода ВА47.
-                                </p>
-
-                                <p>
-                                    После установки модуля в зацепление с
-                                    механизмом ВА47 при первом взведении
-                                    рукоятки управления происходит переключение
-                                    контактов, остающихся в таком положении и
-                                    при ручном отключении ВА47. Переключение
-                                    контактов произойдет только при срабатывании
-                                    выключателя от сверхтоков (перегрузки или
-                                    короткого замыкания).
-                                </p>
-
-                                <p>
-                                    В верхней части модуля предусмотрена
-                                    площадка, при нажатии на которую происходит
-                                    принудительный сброс механизма и
-                                    переключение контактов.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-con2.jpg"
-                                alt="Контакты дополнительные универсальные КДУ60)"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Контакты дополнительные универсальные КДУ60
-                                </h4>
-                                <p>
-                                    КДУ60 служит для получения информации о
-                                    состоянии автоматических выключателей
-                                    ВА47-60 в системах автоматизации
-                                    технологических процессов или защиты
-                                    конкретных объектов. КДУ60 выполняет функцию
-                                    дополнительного контакта и сигнализации
-                                    положения механизма взвода автоматического
-                                    выключателя или дифференциального автомата.
-                                </p>
-                                <p>
-                                    В состав устройства входят два переключающих
-                                    контакта: контакт состояния (КС) и контакт
-                                    состояния|контакт аварийный (КС|КА). Контакт
-                                    КС|КА работает в зависимости от положения
-                                    переключателя функции, либо как контакт
-                                    состояния, либо как контакт аварийный.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-con3.jpg"
-                                alt="Контакторы модульные КМ"
-                            />
-                            <div>
-                                <h4 class="">Контакторы модульные КМ</h4>
-                                <p>
-                                    <a href="27-kontaktory.php"
-                                        >Контакторы</a
-                                    >
-                                    модульные типа КМ торговой марки IEK
-                                    предназначены для применения в сетях
-                                    переменного тока напряжением до 400 В
-                                    частоты 50 Гц и служат для коммутации
-                                    слабоиндуктивных нагрузок с номинальным
-                                    током до 63 А.
-                                </p>
-                                <p>
-                                    Используются для автоматизации и управления
-                                    различных технологических процессов, в том
-                                    числе в системах освещения,
-                                    кондиционирования, вентиляции и т.д.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-tim1.jpg"
-                                alt="Таймеры цифровые ТЭ15"
-                            />
-                            <div>
-                                <h4 class="">Таймеры цифровые ТЭ15</h4>
-                                <p>
-                                    Предназначены для отсчета интервалов
-                                    времени, автоматического
-                                    включения/отключения электротехнического
-                                    оборудования через заданный промежуток
-                                    времени в течение недели и управления
-                                    различными технологическими процессами.
-                                </p>
-                                <p>
-                                    Таймер может использоваться в промышленных и
-                                    бытовых электроустановках и должен
-                                    устанавливаться в распределительных щитах.
-                                </p>
-
-                                <p>
-                                    Заданные программы управления рассчитаны на
-                                    недельный цикл.
-                                </p>
-
-                                <p>Таймер поддерживает четыре режима работы:</p>
-                                <ul>
-                                    <li>все рабочие дни (пн-пт)</li>
-                                    <li>выходные дни (сб, вс)</li>
-                                    <li>вся неделя (пн-вс)</li>
-                                    <li>один любой день</li>
-                                </ul>
-
-                                <p>
-                                    В любой момент можно произвести
-                                    включение/отключение вручную.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-tim2.jpg"
-                                alt="Таймеры аналоговые ТЭМ181"
-                            />
-                            <div>
-                                <h4 class="">Таймеры аналоговые ТЭМ181</h4>
-                                <p>
-                                    Предназначены для отсчета интервалов
-                                    времени, автоматического
-                                    включения/отключения электротехнического
-                                    оборудования через заданный промежуток
-                                    времени в течение суток для управления
-                                    различными технологическими процессами.
-                                </p>
-                                <p>
-                                    Таймер может использоваться в промышленных и
-                                    бытовых электроустановках и должен
-                                    устанавливаться в распределительных щитах.
-                                </p>
-
-                                <p>
-                                    Заданные программы управления рассчитаны на
-                                    суточный цикл
-                                </p>
-
-                                <p>
-                                    Также в любой момент можно произвести
-                                    включение/отключение вручную
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-tim3.jpg"
-                                alt="Таймеры освещения ТО-47"
-                            />
-                            <div>
-                                <h4 class="">Таймеры освещения ТО-47</h4>
-                                <p>
-                                    <a href="#">Таймеры освещения</a>
-                                    предназначены для автоматического включения
-                                    и отключения освещения лестничной площадки,
-                                    коридора или другого объекта в течение
-                                    заданного диапазона времени
-                                </p>
-
-                                <p>(от 1 до 7 мин)</p>
-                                <p>
-                                    Таймер применяется в цепях освещения
-                                    мощностью до 3,5 кВт и рассчитан на
-                                    эксплуатацию с лампами накаливания и с
-                                    галогенными лампами
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-oth1.jpg"
-                                alt="Расцепитель минимального напряжения РМ47"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Расцепитель минимального напряжения РМ47,
-                                    расцепитель минимального/максимального
-                                    напряжения РММ47, расцепитель независимый
-                                    РН47
-                                </h4>
-                                <p>
-                                    Предназначен для отключения одно-, двух-,
-                                    трех- или четырехполюсного автоматического
-                                    выключателя серии ВА47 при недопустимом
-                                    снижении напряжения.
-                                </p>
-                                <p>
-                                    Расцепитель минимального/максимального
-                                    напряжения РММ47 предназначен для отключения
-                                    одно-, двух- или трехполюсного
-                                    автоматического выключателя серии ВА47 при
-                                    недопустимом снижении или повышении
-                                    напряжения сети.
-                                </p>
-
-                                <p>
-                                    Расцепитель независимый РН47 предназначен
-                                    для дистанционного отключения одно-, двух-,
-                                    трех- или четырехполюсного автоматического
-                                    выключателя серии ВА47.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-oth2.jpg"
-                                alt="Дифференциальные автоматы АД12, АД14"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Дифференциальные автоматы АД12, АД14
-                                </h4>
-                                <p>
-                                    Быстродействующий защитный выключатель,
-                                    реагирующий на дифференциальный ток, со
-                                    встроенной защитой от сверхтоков.
-                                    Обеспечивает три вида защиты – защиту
-                                    человека от поражения электрическим током
-                                    при случайном непреднамеренном прикосновении
-                                    к токоведущим частям электроустановок при
-                                    повреждениях изоляции; предотвращение
-                                    пожаров вследствие протекания токов утечки
-                                    на землю; защиту от перегрузки и короткого
-                                    замыкания. Аппарат сохраняет
-                                    работоспособность при пониженном напряжении
-                                    сети (до 50 В) и обладает высокой
-                                    механической износостойкостью. В аппарате
-                                    предусмотрена индикация срабатывания от
-                                    дифференциального тока.
-                                </p>
-                                <p>
-                                    Свыше 50 типоисполнений на 6 номинальных
-                                    токов.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                src="./img/iek-oth3.jpg"
-                                alt="Дифференциальные автоматы АД12М"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Дифференциальные автоматы АД12М
-                                </h4>
-                                <p>
-                                    Быстродействующий защитный выключатель,
-                                    реагирующий на дифференциальный ток, со
-                                    встроенной защитой от сверхтоков.
-                                    Обеспечивает три вида защиты – защиту
-                                    человека от поражения электрическим током
-                                    при случайном непреднамеренном прикосновении
-                                    к токоведущим частям электроустановок при
-                                    повреждениях изоляции; предотвращение
-                                    пожаров вследствие протекания токов утечки
-                                    на землю; защиту от перегрузки и короткого
-                                    замыкания. Аппарат сохраняет
-                                    работоспособность при пониженном напряжении
-                                    сети (до 50 В) и обладает высокой
-                                    механической износостойкостью. В аппарате
-                                    предусмотрена индикация срабатывания от
-                                    дифференциального тока.
-                                </p>
-                                <p>
-                                    Наличие функции защиты от повышенного
-                                    напряжения (265±5 вольт).
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                style="width: 130px"
-                                src="./img/iek-oth4.jpg"
-                                alt="Ограничители импульсных перенапряжений ОПС1"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Ограничители импульсных перенапряжений ОПС1
-                                </h4>
-                                <p>
-                                    Ограничитель импульсных перенапряжений ОПС1
-                                    (УЗИП) предназначен для защиты внутренних
-                                    распределительных цепей жилых и общественных
-                                    зданий от грозовых и коммутационных
-                                    импульсных перенапряжений.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="special__flex">
-                            <img
-                                style="width: 130px"
-                                src="./img/iek-oth5.jpg"
-                                alt="Звонок ЗД-47"
-                            />
-                            <div>
-                                <h4
-                                    style="
-                                        font-weight: bold;
-                                        margin-bottom: 30px;
-                                    "
-                                >
-                                    Звонок ЗД-47
-                                </h4>
-                                <p>
-                                    Служит для сигнализации возникновения
-                                    внештатной ситуации в задействованной
-                                    электрической цепи.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="special__flex">
-                            <img
-                                style="width: 130px"
-                                src="./img/iek-oth6.jpg"
-                                alt="Световой индикатор фаз"
-                            />
-                            <div>
-                                <h4
-                                    style="
-                                        font-weight: bold;
-                                        margin-bottom: 30px;
-                                    "
-                                >
-                                    Световой индикатор фаз
-                                </h4>
-                                <p>
-                                    Служит для световой индикации
-                                    <a href="#">наличия напряжения</a> в каждой
-                                    из фаз.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                style="width: 130px"
-                                src="./img/iek-oth7.jpg"
-                                alt="Кнопка управления модульная КМУ11"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Кнопка управления модульная КМУ11
-                                </h4>
-                                <p>
-                                    Кнопки управления модульные типа КМУ-11
-                                    предназначены для оперативного управления
-                                    магнитными пускателями (контакторами), реле
-                                    автоматики и другим технологическим
-                                    оборудованием в электрических цепях
-                                    переменного тока напряжением до 230 В.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="flex__container">
-                            <img
-                                style="width: 130px"
-                                src="./img/iek-oth8.jpg"
-                                alt="Кнопка управления модульная КМУ11"
-                            />
-                            <div>
-                                <h4 class="">
-                                    Сигнальные лампы ЛС-47 с неоновой лампой и
-                                    ЛС-47М со светодиодной матрицей
-                                </h4>
-                                <p>
-                                    Служат для световой сигнализации состояния
-                                    задействованной электрической цепи
-                                </p>
-
-                                <p>
-                                    Увеличенная прочность в зоне присоединения
-                                    проводников за счет двух дополнительных
-                                    заклепок. Съемный цветной светофильтр с
-                                    возможностью замены светодиодной лампы (для
-                                    ЛС47М). Быстрый монтаж и дополнительная
-                                    надёжность крепления на DIN-рейке с помощью
-                                    защелки с двойным фиксированным положением.
-                                </p>
-                            </div>
+                            <p>
+                                Автоматические выключатели ВА47-29М
+                                рекомендуются к применению в
+                                вводно-распределительных устройствах для
+                                жилых и общественных зданий и на
+                                производстве.
+                            </p>
                         </div>
                     </div>
-                </div>
-            </section>
 
-            <a
-                href="#"
-                class="back-to-top d-flex align-items-center justify-content-center"
-                ><i class="bi bi-arrow-up-short"></i
-            ></a>
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl3.jpg" alt="Автоматические выключатели ВА 47-60" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ВА 47-60
+                            </h4>
+                            <p>
+                                Автоматические выключатели типа ВА47-60
+                                предназначены для автоматического отключения
+                                источника питания при появлении сверхтоков.
+                            </p>
+                            <p>
+                                Применяется для
+                                <a href="../../services/production.php">сборки</a>
+                                в групповых щитках (квартирные и этажные),
+                                щитах учетно-распределительных жилых,
+                                общественных, бытовых и административных
+                                зданий.
+                            </p>
 
-            <a
-                href="https://wa.me/+79141500323"
-                target="_blank"
-                class="call-whatsapp"
-                ><i class="bi bi-whatsapp"></i
-            ></a>
-        </main>
-        <!-- End #main -->
-
-        <!-- ======= Footer ======= -->
-        <footer id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="copyright">
-                            &copy;
-                            <strong>ООО Торговый Дом "Электросистемы"</strong>.
-                            - Все права защищены © 2024
+                            <p>
+                                Предельная коммутационная способность 6000А.
+                            </p>
                         </div>
-                        <div class="credits">
-                            <!--
-          All the links in the footer should remain intact.
-          You can delete the links only if you purchased the pro version.
-          Licensing information: https://bootstrapmade.com/license/
-          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Imperial
-        -->
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl4.jpg" alt="Автоматические выключатели ВА47-100" />
+                        <div>
+                            <h4 class="">
+                                Автоматические выключатели ВА47-100
+                            </h4>
+                            <p>
+                                Автоматические выключатели ВА47-100
+                                предназначены для защиты распределительных и
+                                групповых цепей, имеющих активную и
+                                индуктивную нагрузки.
+                            </p>
+                            <p>
+                                Рекомендуются к применению во
+                                вводно-распределительных устройствах бытовых
+                                и промышленных электроустановок.
+                            </p>
+
+                            <p>
+                                80 типоисполнений на 10 номинальных токов.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl5.jpg" alt="Выключатели нагрузки ВН-320" />
+                        <div>
+                            <h4 class="">Выключатели нагрузки ВН-32</h4>
+                            <p>
+                                Служат для включения, проведения и
+                                отключения номинального тока в нормальных
+                                условиях эксплуатации, проведения тока в
+                                аварийных режимах, например, при коротком
+                                замыкании, а также для выполнения
+                                <a href="24-rubilniki-i-razediniteli.php">функций разъединения</a>.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl6.jpg" alt="Выключатели дифференциальные ВД1-63 (УЗО тип АС)" />
+                        <div>
+                            <h4 class="">
+                                Выключатели дифференциальные ВД1-63 (УЗО тип
+                                АС)
+                            </h4>
+                            <p>
+                                Быстродействующий защитный выключатель,
+                                реагирующий на дифференциальный ток, без
+                                встроенной защиты от сверхтоков.
+                                Предназначен для защиты человека от
+                                поражения электрическим током при случайном
+                                непреднамеренном прикосновении к токоведущим
+                                частям электроустановок и предотвращает
+                                возникновение пожаров вследствие протекания
+                                токов утечки на землю. Не имеет собственного
+                                потребления электроэнергии и обладает
+                                высокой механической износостойкостью.
+                            </p>
+                            <p>
+                                Свыше 50 типоисполнений на 10 номинальных
+                                токов.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl7.jpg" alt="Выключатели дифференциальные ВД1-63S (УЗО тип АС)" />
+                        <div>
+                            <h4 class="">
+                                Выключатели дифференциальные ВД1-63S (УЗО
+                                тип АС)
+                            </h4>
+                            <p>
+                                Выключатели автоматические, управляемые
+                                дифференциальным током, без встроенной
+                                защиты от сверхтоков, функционально не
+                                зависящие от напряжения сети, бытового или
+                                аналогичного применения с выдержкой времени
+                                отключения типа ВД1-63S предназначены для
+                                автоматического отключения питания, в случае
+                                возникновения дифференциальных токов утечки,
+                                в однофазных и трехфазных электрических
+                                сетях переменного тока номинальным
+                                напряжением до 400В.
+                            </p>
+                            <p>
+                                ВД1-63S предназначены для установки в
+                                низковольные комплексные устройства ввода и
+                                распределения, эксплуатируемые в жилых,
+                                общественных и промышленных объектах, а
+                                также строительных площадках.
+                            </p>
+
+                            <p>
+                                Предельная коммутационная способность 6000А.
+                            </p>
+
+                            <p>
+                                22 типосполнения на 6 номинальных токов от
+                                25 до 80 А.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-vkl8.jpg" alt="Выключатели дифференциальные ВД1-63 (УЗО тип
+                                А)" />
+                        <div>
+                            <h4 class="">
+                                Выключатели дифференциальные ВД1-63 (УЗО тип
+                                А)
+                            </h4>
+                            <p>
+                                Дифференциальный выключатель ВД 1-63 тип А
+                                относится к классу УЗО типа А, и способен
+                                реагировать не только на синусоидальный
+                                переменный дифференциальный ток, но и на
+                                пульсирующий постоянный. ВД 1-63 тип А
+                                полностью соответствует требованиям ГОСТ
+                                50326 и ГОСТ 50807 как дифференциальный
+                                выключатель, «функционально не зависящий от
+                                источника питания».
+                            </p>
+                            <p>
+                                ВД 1-63 тип А представляет собой надежное
+                                помехоустойчивое электромеханическое УЗО,
+                                способное обеспечить более полную, чем УЗО
+                                типа АС, защиту от поражения током при
+                                случайном непреднамеренном прикосновении к
+                                проводнику, и защиту от токов утечек.
+                            </p>
+
+                            <p>
+                                В отличии от УЗО типа AC, которые реагирует
+                                только на синусоидальный переменный
+                                дифференциальный ток, УЗО ВД 1-63 типа А
+                                способно реагировать не только на
+                                синусоидальный переменный дифференциальный
+                                ток, но и на пульсирующий постоянный, что
+                                обеспечивает более надежную защиту.
+                            </p>
+
+                            <p>
+                                ВД 1-63 тип А рассчитано для использования в
+                                электросетях, к которым могут быть
+                                подключены современные бытовые приборы
+                                (телевизоры, стиральные машины, компьютерная
+                                техника и т.п.), а также при
+                                энергообеспечении промышленных объектов, на
+                                которых используется электронное
+                                оборудование.
+                            </p>
+
+                            <p>
+                                Эксплуатация УЗО типа А рекомендована ПУЭ
+                                (7-е издание) и Временными указаниями по
+                                применению УЗО в электроустановках жилых
+                                зданий. «В жилых зданиях, как правило,
+                                должны применяться УЗО типа А, реагирующие
+                                не только на переменные, но и на
+                                пульсирующие токи повреждений. Использование
+                                УЗО типа АС, реагирующих только на
+                                переменные токи утечки, допускается в
+                                обоснованных случаях».
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-con1.jpg"
+                            alt="Контакт состояния КС47 и контакт состояния (аварийный) КСВ47" />
+                        <div>
+                            <h4 class="">
+                                Контакт состояния КС47 и контакт состояния
+                                (аварийный) КСВ47
+                            </h4>
+                            <p>
+                                КС47 и КСВ47 служат для получения информации
+                                о состоянии автоматических выключателей
+                                ВА47-29 и ВА47-100 в системах автоматизации
+                                технологических процессов или защиты
+                                конкретных объектов.
+                            </p>
+                            <p>
+                                КС47 выполняет функцию контакта состояния
+                                автоматического выключателя: включен –
+                                выключен. Переключение контактов КС47
+                                происходит, даже если рукоятка управления
+                                выключателя удерживается во взведенном
+                                положении.
+                            </p>
+
+                            <p>
+                                КСВ47 выполняет функцию сигнализации
+                                положения механизма взвода ВА47.
+                            </p>
+
+                            <p>
+                                После установки модуля в зацепление с
+                                механизмом ВА47 при первом взведении
+                                рукоятки управления происходит переключение
+                                контактов, остающихся в таком положении и
+                                при ручном отключении ВА47. Переключение
+                                контактов произойдет только при срабатывании
+                                выключателя от сверхтоков (перегрузки или
+                                короткого замыкания).
+                            </p>
+
+                            <p>
+                                В верхней части модуля предусмотрена
+                                площадка, при нажатии на которую происходит
+                                принудительный сброс механизма и
+                                переключение контактов.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-con2.jpg" alt="Контакты дополнительные универсальные КДУ60)" />
+                        <div>
+                            <h4 class="">
+                                Контакты дополнительные универсальные КДУ60
+                            </h4>
+                            <p>
+                                КДУ60 служит для получения информации о
+                                состоянии автоматических выключателей
+                                ВА47-60 в системах автоматизации
+                                технологических процессов или защиты
+                                конкретных объектов. КДУ60 выполняет функцию
+                                дополнительного контакта и сигнализации
+                                положения механизма взвода автоматического
+                                выключателя или дифференциального автомата.
+                            </p>
+                            <p>
+                                В состав устройства входят два переключающих
+                                контакта: контакт состояния (КС) и контакт
+                                состояния|контакт аварийный (КС|КА). Контакт
+                                КС|КА работает в зависимости от положения
+                                переключателя функции, либо как контакт
+                                состояния, либо как контакт аварийный.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-con3.jpg" alt="Контакторы модульные КМ" />
+                        <div>
+                            <h4 class="">Контакторы модульные КМ</h4>
+                            <p>
+                                <a href="27-kontaktory.php">Контакторы</a>
+                                модульные типа КМ торговой марки IEK
+                                предназначены для применения в сетях
+                                переменного тока напряжением до 400 В
+                                частоты 50 Гц и служат для коммутации
+                                слабоиндуктивных нагрузок с номинальным
+                                током до 63 А.
+                            </p>
+                            <p>
+                                Используются для автоматизации и управления
+                                различных технологических процессов, в том
+                                числе в системах освещения,
+                                кондиционирования, вентиляции и т.д.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-tim1.jpg" alt="Таймеры цифровые ТЭ15" />
+                        <div>
+                            <h4 class="">Таймеры цифровые ТЭ15</h4>
+                            <p>
+                                Предназначены для отсчета интервалов
+                                времени, автоматического
+                                включения/отключения электротехнического
+                                оборудования через заданный промежуток
+                                времени в течение недели и управления
+                                различными технологическими процессами.
+                            </p>
+                            <p>
+                                Таймер может использоваться в промышленных и
+                                бытовых электроустановках и должен
+                                устанавливаться в распределительных щитах.
+                            </p>
+
+                            <p>
+                                Заданные программы управления рассчитаны на
+                                недельный цикл.
+                            </p>
+
+                            <p>Таймер поддерживает четыре режима работы:</p>
+                            <ul>
+                                <li>все рабочие дни (пн-пт)</li>
+                                <li>выходные дни (сб, вс)</li>
+                                <li>вся неделя (пн-вс)</li>
+                                <li>один любой день</li>
+                            </ul>
+
+                            <p>
+                                В любой момент можно произвести
+                                включение/отключение вручную.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-tim2.jpg" alt="Таймеры аналоговые ТЭМ181" />
+                        <div>
+                            <h4 class="">Таймеры аналоговые ТЭМ181</h4>
+                            <p>
+                                Предназначены для отсчета интервалов
+                                времени, автоматического
+                                включения/отключения электротехнического
+                                оборудования через заданный промежуток
+                                времени в течение суток для управления
+                                различными технологическими процессами.
+                            </p>
+                            <p>
+                                Таймер может использоваться в промышленных и
+                                бытовых электроустановках и должен
+                                устанавливаться в распределительных щитах.
+                            </p>
+
+                            <p>
+                                Заданные программы управления рассчитаны на
+                                суточный цикл
+                            </p>
+
+                            <p>
+                                Также в любой момент можно произвести
+                                включение/отключение вручную
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-tim3.jpg" alt="Таймеры освещения ТО-47" />
+                        <div>
+                            <h4 class="">Таймеры освещения ТО-47</h4>
+                            <p>
+                                <a href="#">Таймеры освещения</a>
+                                предназначены для автоматического включения
+                                и отключения освещения лестничной площадки,
+                                коридора или другого объекта в течение
+                                заданного диапазона времени
+                            </p>
+
+                            <p>(от 1 до 7 мин)</p>
+                            <p>
+                                Таймер применяется в цепях освещения
+                                мощностью до 3,5 кВт и рассчитан на
+                                эксплуатацию с лампами накаливания и с
+                                галогенными лампами
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-oth1.jpg" alt="Расцепитель минимального напряжения РМ47" />
+                        <div>
+                            <h4 class="">
+                                Расцепитель минимального напряжения РМ47,
+                                расцепитель минимального/максимального
+                                напряжения РММ47, расцепитель независимый
+                                РН47
+                            </h4>
+                            <p>
+                                Предназначен для отключения одно-, двух-,
+                                трех- или четырехполюсного автоматического
+                                выключателя серии ВА47 при недопустимом
+                                снижении напряжения.
+                            </p>
+                            <p>
+                                Расцепитель минимального/максимального
+                                напряжения РММ47 предназначен для отключения
+                                одно-, двух- или трехполюсного
+                                автоматического выключателя серии ВА47 при
+                                недопустимом снижении или повышении
+                                напряжения сети.
+                            </p>
+
+                            <p>
+                                Расцепитель независимый РН47 предназначен
+                                для дистанционного отключения одно-, двух-,
+                                трех- или четырехполюсного автоматического
+                                выключателя серии ВА47.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-oth2.jpg" alt="Дифференциальные автоматы АД12, АД14" />
+                        <div>
+                            <h4 class="">
+                                Дифференциальные автоматы АД12, АД14
+                            </h4>
+                            <p>
+                                Быстродействующий защитный выключатель,
+                                реагирующий на дифференциальный ток, со
+                                встроенной защитой от сверхтоков.
+                                Обеспечивает три вида защиты – защиту
+                                человека от поражения электрическим током
+                                при случайном непреднамеренном прикосновении
+                                к токоведущим частям электроустановок при
+                                повреждениях изоляции; предотвращение
+                                пожаров вследствие протекания токов утечки
+                                на землю; защиту от перегрузки и короткого
+                                замыкания. Аппарат сохраняет
+                                работоспособность при пониженном напряжении
+                                сети (до 50 В) и обладает высокой
+                                механической износостойкостью. В аппарате
+                                предусмотрена индикация срабатывания от
+                                дифференциального тока.
+                            </p>
+                            <p>
+                                Свыше 50 типоисполнений на 6 номинальных
+                                токов.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img src="./img/iek-oth3.jpg" alt="Дифференциальные автоматы АД12М" />
+                        <div>
+                            <h4 class="">
+                                Дифференциальные автоматы АД12М
+                            </h4>
+                            <p>
+                                Быстродействующий защитный выключатель,
+                                реагирующий на дифференциальный ток, со
+                                встроенной защитой от сверхтоков.
+                                Обеспечивает три вида защиты – защиту
+                                человека от поражения электрическим током
+                                при случайном непреднамеренном прикосновении
+                                к токоведущим частям электроустановок при
+                                повреждениях изоляции; предотвращение
+                                пожаров вследствие протекания токов утечки
+                                на землю; защиту от перегрузки и короткого
+                                замыкания. Аппарат сохраняет
+                                работоспособность при пониженном напряжении
+                                сети (до 50 В) и обладает высокой
+                                механической износостойкостью. В аппарате
+                                предусмотрена индикация срабатывания от
+                                дифференциального тока.
+                            </p>
+                            <p>
+                                Наличие функции защиты от повышенного
+                                напряжения (265±5 вольт).
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img style="width: 130px" src="./img/iek-oth4.jpg"
+                            alt="Ограничители импульсных перенапряжений ОПС1" />
+                        <div>
+                            <h4 class="">
+                                Ограничители импульсных перенапряжений ОПС1
+                            </h4>
+                            <p>
+                                Ограничитель импульсных перенапряжений ОПС1
+                                (УЗИП) предназначен для защиты внутренних
+                                распределительных цепей жилых и общественных
+                                зданий от грозовых и коммутационных
+                                импульсных перенапряжений.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="special__flex">
+                        <img style="width: 130px" src="./img/iek-oth5.jpg" alt="Звонок ЗД-47" />
+                        <div>
+                            <h4 style="
+                                        font-weight: bold;
+                                        margin-bottom: 30px;
+                                    ">
+                                Звонок ЗД-47
+                            </h4>
+                            <p>
+                                Служит для сигнализации возникновения
+                                внештатной ситуации в задействованной
+                                электрической цепи.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="special__flex">
+                        <img style="width: 130px" src="./img/iek-oth6.jpg" alt="Световой индикатор фаз" />
+                        <div>
+                            <h4 style="
+                                        font-weight: bold;
+                                        margin-bottom: 30px;
+                                    ">
+                                Световой индикатор фаз
+                            </h4>
+                            <p>
+                                Служит для световой индикации
+                                <a href="#">наличия напряжения</a> в каждой
+                                из фаз.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img style="width: 130px" src="./img/iek-oth7.jpg" alt="Кнопка управления модульная КМУ11" />
+                        <div>
+                            <h4 class="">
+                                Кнопка управления модульная КМУ11
+                            </h4>
+                            <p>
+                                Кнопки управления модульные типа КМУ-11
+                                предназначены для оперативного управления
+                                магнитными пускателями (контакторами), реле
+                                автоматики и другим технологическим
+                                оборудованием в электрических цепях
+                                переменного тока напряжением до 230 В.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="flex__container">
+                        <img style="width: 130px" src="./img/iek-oth8.jpg" alt="Кнопка управления модульная КМУ11" />
+                        <div>
+                            <h4 class="">
+                                Сигнальные лампы ЛС-47 с неоновой лампой и
+                                ЛС-47М со светодиодной матрицей
+                            </h4>
+                            <p>
+                                Служат для световой сигнализации состояния
+                                задействованной электрической цепи
+                            </p>
+
+                            <p>
+                                Увеличенная прочность в зоне присоединения
+                                проводников за счет двух дополнительных
+                                заклепок. Съемный цветной светофильтр с
+                                возможностью замены светодиодной лампы (для
+                                ЛС47М). Быстрый монтаж и дополнительная
+                                надёжность крепления на DIN-рейке с помощью
+                                защелки с двойным фиксированным положением.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!-- End Footer -->
+        </section>
 
-        <div id="preloader"></div>
-        <a
-            href="#"
-            class="back-to-top d-flex align-items-center justify-content-center"
-            ><i class="bi bi-arrow-up-short"></i
-        ></a>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+                class="bi bi-arrow-up-short"></i></a>
 
-        <a
-            href="https://wa.me/+79141500323"
-            target="_blank"
-            class="call-whatsapp"
-            ><i class="bi bi-whatsapp"></i
-        ></a>
+        <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
+    </main>
+    <!-- End #main -->
 
-        <!-- Vendor JS Files -->
-        <script src="../../assets/vendor/aos/aos.js"></script>
-        <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="../../assets/vendor/glightbox/js/glightbox.min.js"></script>
-        <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-        <script src="../../assets/vendor/swiper/swiper-bundle.min.js"></script>
-        <script src="../../assets/vendor/typed.js/typed.umd.js"></script>
-        <script src="../../assets/vendor/php-email-form/validate.js"></script>
-
-        <!-- Template Main JS File -->
-        <script src="../../assets/js/main.js"></script>
-    </body>
-</html>
+    <!-- ======= Footer ======= -->
+    <?php require_once "../../assets/footer.php"; ?>
