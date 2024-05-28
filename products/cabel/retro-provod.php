@@ -1,514 +1,344 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Ретро провод - ООО ТД Электросистемы';
 
-        <title>Ретро провод - - ООО "ТД"Электросистемы"</title>
-        <meta
-            name="description"
-            content="Продажа ретро провода и изоляторов для прокладки наружной проводки"
-        />
-        <meta
-            name="keywords"
-            content="ретро, провод, кабель, провода, изоляция, прокладка, проводка"
-        />
+$pageDescription = 'Продажа ретро провода и изоляторов для прокладки наружной проводки';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Ретро провод -  - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/products/cabel/retro-provod.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Продажа ретро провода и изоляторов для прокладки наружной проводки"
-        />
+$PageKeyWords = 'ретро, провод, кабель, провода, изоляция, прокладка, проводка';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/products/cabel/retro-provod.php';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
+require_once "../../assets/header.php";
+?>
 
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
+<body>
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+        <div class="container d-flex align-items-center justify-content-between">
+            <a href="../../index.php" class="logo mr-auto"><img src="../../assets/img/img1/elektrosistema-logo.png"
+                    alt="Электросистема" /></a>
 
-        <!-- Vendor CSS Files -->
-        <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
-
-    <body>
-        <!-- ======= Header ======= -->
-        <header id="header" class="d-flex align-items-center">
-            <div
-                class="container d-flex align-items-center justify-content-between"
-            >
-                <a href="../../index.php" class="logo mr-auto"
-                    ><img
-                        src="../../assets/img/img1/elektrosistema-logo.png"
-                        alt="Электросистема"
-                /></a>
-
-                <nav id="navbar" class="navbar">
-                    <ul>
-                        <li class="i-shop">
-                            <a
-                                class="nav-link scrollto"
-                                target="_blank"
-                                href="https://электротовары-дв.рф/"
-                                >Интернет магазин</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#hero"
-                                >Главная</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#about"
-                                >О нас</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#services"
-                                >Услуги</a
-                            >
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../index.php#portfolio"
-                                >Продукция</a
-                            >
-                        </li>
-                        <li class="dropdown">
-                            <a href="../../index.php#about"
-                                ><span class="active">Подробнее</span>
-                                <i class="bi bi-chevron-down"></i
-                            ></a>
-                            <ul>
-                                <li>
-                                    <a href="../../about.php">О компании</a>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../index.php##services">
-                                        <span>Услуги</span>
-                                        <i class="bi bi-chevron-right"></i>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../services/electric-work.php"
-                                                >Все виды электромонтажных
-                                                работ</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/laboratory.php"
-                                                >Услуги испытательной
-                                                лаборатории</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/delivery.php"
-                                                >Доставка</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../services/manufacturing.php"
-                                                >Изготовление металлических
-                                                корпусов электрощитов</a
-                                            >
-                                        </li>
-
-                                        <li>
-                                            <a
-                                                href="../../services/production.php"
-                                                >Производство электрощитов и
-                                                электрооборудования</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-
-                                <li class="dropdown">
-                                    <a href="../../production.html"
-                                        ><span class="active">Продукция</span>
-                                        <i class="bi bi-chevron-right"></i
-                                    ></a>
-                                    <ul>
-                                        <li>
-                                            <a
-                                                href="../../products/svet/svetotekhnika.html"
-                                                >Светотехника</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/cabel/"
-                                                >Кабель</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a href="../../products/silovoe/"
-                                                >Силовое и коммутационное
-                                                оборудование</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/elektromontazhnye-izdeliya/"
-                                                >Электромонтажные изделия</a
-                                            >
-                                        </li>
-                                        <li>
-                                            <a
-                                                href="../../products/electro-ustanovka/"
-                                                >Электроустановочные изделия</a
-                                            >
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="../../vacancies.php">Вакансии</a>
-                                </li>
-                                <li><a href="../../docs.php">Документы</a></li>
-                                <li>
-                                    <a href="../../shop.php"
-                                        >Магазин Электромаркет</a
-                                    >
-                                </li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a
-                                class="nav-link scrollto"
-                                href="../../contacts.php"
-                                >Контакты</a
-                            >
-                        </li>
-                    </ul>
-                    <i class="bi bi-list mobile-nav-toggle"></i>
-                </nav>
-                <!-- .navbar -->
-            </div>
-        </header>
-        <!-- End Header -->
-
-        <main id="main">
-            <!-- ======= Breadcrumbs ======= -->
-            <section class="vacancies">
-                <div class="container">
-                    <div
-                        class="d-flex justify-content-between align-items-center"
-                    >
-                        <ol>
-                            <li><a href="../../index.php">Главная</a></li>
-                            <li><a href="../">Продукция</a></li>
-                            <li><a href="./">Кабельная продукция</a></li>
-                            <li>Ретро провод</li>
-                        </ol>
-                    </div>
-                </div>
-            </section>
-            <!-- End Breadcrumbs -->
-            <section class="products-cabel__items">
-                <div class="products-cabel__wrapper container">
-                    <div class="products-cabel__wrapper-card">
-                        <img
-                            class="products-cabel__img"
-                            src="./img/retro-provod.jpg"
-                            alt="Ретро провод"
-                        />
-                        <div class="products-cabel__title-wrapper">
-                            <h2 class="products-cabel__title">Ретро провод</h2>
-                            <p class="products-cabel__text">
-                                Продажа ретро провода и изоляторов для внешней
-                                проводки в частных деревянных домах.
-                            </p>
-                        </div>
-                    </div>
-
-                    <hr />
-
-                    <div class="products-cabel__about">
-                        <h3 class="products-cabel__about-title">Описание</h3>
-
-                        <h4 class="products-cabel__about-title-h4">
-                            Для чего нужен и где купить ретро-провод?
-                        </h4>
-
-                        <p>
-                            Ретро провод идеально подходит для деревянных домов,
-                            где проводку нельзя монтировать в стены. Он выглядит
-                            лучше пластиковых кабель-каналов и прекрасно пишется
-                            в дизайн помещения в стиле "Лофт", "Эко" и "Ретро".
-                            Находит применение как в жилых помещениях (коттеджи,
-                            дома, дачи), так и в объектах коммерческой
-                            недвижимости (гостиницы, кафе и рестораны, магазины
-                            и торговые центры).
-                        </p>
-
-                        <p>
-                            Для крепления ретро-проводки применяется
-                            керамический изолятор, который также можно
-                            приобрести в нашей компании.
-                        </p>
-
-                        <div class="products-cabel__about-image-block-wrapper">
-                            <div>
-                                <p>
-                                    <strong
-                                        >Материалы и конструкция
-                                        ретро-провода:</strong
-                                    >
-                                </p>
-
-                                <p>
-                                    Такой витой провод состоит из двух-трех
-                                    медных жил. Изоляция каждой жилы сделана из
-                                    поливинилхлоридного пластиката с защитной
-                                    оплеткой из текстиля (обычно это технический
-                                    шелк).
-                                </p>
-                                <p>
-                                    <strong>Преимущества ретро-провода:</strong>
-                                </p>
-
-                                <ul>
-                                    <li>
-                                        возможность создания стильного
-                                        интерьера;
-                                    </li>
-                                    <li>
-                                        возможность прокладки в деревянных
-                                        домах, где происходит усадка основная
-                                        после строительства и сезонная;
-                                    </li>
-                                    <li>
-                                        высокое качество: ретро провод
-                                        производится в РФ согласно ГОСТам, срок
-                                        службы составляет 30 лет.
-                                    </li>
-                                </ul>
-                            </div>
-
-                            <img
-                                src="./img/retro-kab.jpg"
-                                alt="Ретро кабель в интерьере"
-                            />
-                        </div>
-
-                        <p>
-                            К недостаткам можно отнести только малые сечения
-                            провода: 1,5 и 2,5 мм. Таким образом мощные
-                            электроприборы к такой сети подсоединить будет
-                            нельзя.
-                        </p>
-
-                        <p>
-                            <strong
-                                >В продаже имеется следующий ретро провод и
-                                изоляторы производства TDM:</strong
-                            >
-                        </p>
-
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li class="i-shop">
+                        <a class="nav-link scrollto" target="_blank" href="https://электротовары-дв.рф/">Интернет
+                            магазин</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#hero">Главная</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#about">О нас</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#services">Услуги</a>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../index.php#portfolio">Продукция</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="../../index.php#about"><span class="active">Подробнее</span>
+                            <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li>
-                                Ретро провод ПВО 2х1,5 витой ГОСТ белый (50м)
-                                "Эко" TDM
+                                <a href="../../about.php">О компании</a>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="../../index.php##services">
+                                    <span>Услуги</span>
+                                    <i class="bi bi-chevron-right"></i>
+                                </a>
+                                <ul>
+                                    <li>
+                                        <a href="../../services/electric-work.php">Все виды электромонтажных
+                                            работ</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/laboratory.php">Услуги испытательной
+                                            лаборатории</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/delivery.php">Доставка</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../services/manufacturing.php">Изготовление металлических
+                                            корпусов электрощитов</a>
+                                    </li>
+
+                                    <li>
+                                        <a href="../../services/production.php">Производство электрощитов и
+                                            электрооборудования</a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="dropdown">
+                                <a href="../../production.html"><span class="active">Продукция</span>
+                                    <i class="bi bi-chevron-right"></i></a>
+                                <ul>
+                                    <li>
+                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/cabel/">Кабель</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/silovoe/">Силовое и коммутационное
+                                            оборудование</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/elektromontazhnye-izdeliya/">Электромонтажные
+                                            изделия</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../products/electro-ustanovka/">Электроустановочные изделия</a>
+                                    </li>
+                                </ul>
                             </li>
                             <li>
-                                Ретро провод ПВО 2х2,5 витой ГОСТ белый (50м)
-                                "Эко" TDM
+                                <a href="../../vacancies.php">Вакансии</a>
                             </li>
+                            <li><a href="../../docs.php">Документы</a></li>
                             <li>
-                                Ретро провод ПВО 3х1,5 витой ГОСТ белый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 3х2,5 витой ГОСТ белый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 2х1,5 витой ГОСТ бежевый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 2х2,5 витой ГОСТ бежевый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 3х1,5 витой ГОСТ бежевый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 3х2,5 витой ГОСТ бежевый (50м)
-                                "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 2х1,5 витой ГОСТ коричневый
-                                (50м) "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 2х2,5 витой ГОСТ коричневый
-                                (50м) "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 3х1,5 витой ГОСТ коричневый
-                                (50м) "Эко" TDM
-                            </li>
-                            <li>
-                                Ретро провод ПВО 3х2,5 витой ГОСТ коричневый
-                                (50м) "Эко" TDM
-                            </li>
-                            <li>
-                                Керамический изолятор для ретро провода белый
-                                (100шт) "Эко" TDM
-                            </li>
-                            <li>
-                                Керамический изолятор для ретро провода
-                                коричневый (100шт) "Эко" TDM
-                            </li>
-                            <li>
-                                Керамический проходной изолятор для провода
-                                белый d 12,5мм (25шт) "Эко" TDM
-                            </li>
-                            <li>
-                                Керамический проходной изолятор для провода
-                                коричневый d 12,5мм (25шт) "Эко" TDM
+                                <a href="../../shop.php">Магазин Электромаркет</a>
                             </li>
                         </ul>
+                    </li>
+                    <li>
+                        <a class="nav-link scrollto" href="../../contacts.php">Контакты</a>
+                    </li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+            <!-- .navbar -->
+        </div>
+    </header>
+    <!-- End Header -->
+
+    <main id="main">
+        <!-- ======= Breadcrumbs ======= -->
+        <section class="vacancies">
+            <div class="container">
+                <div class="d-flex justify-content-between align-items-center">
+                    <ol>
+                        <li><a href="../../index.php">Главная</a></li>
+                        <li><a href="../">Продукция</a></li>
+                        <li><a href="./">Кабельная продукция</a></li>
+                        <li>Ретро провод</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+        <!-- End Breadcrumbs -->
+        <section class="products-cabel__items">
+            <div class="products-cabel__wrapper container">
+                <div class="products-cabel__wrapper-card">
+                    <img class="products-cabel__img" src="./img/retro-provod.jpg" alt="Ретро провод" />
+                    <div class="products-cabel__title-wrapper">
+                        <h2 class="products-cabel__title">Ретро провод</h2>
+                        <p class="products-cabel__text">
+                            Продажа ретро провода и изоляторов для внешней
+                            проводки в частных деревянных домах.
+                        </p>
                     </div>
                 </div>
-            </section>
 
-            <a
-                href="#"
-                class="back-to-top d-flex align-items-center justify-content-center"
-                ><i class="bi bi-arrow-up-short"></i
-            ></a>
+                <hr />
 
-            <a
-                href="https://wa.me/+79141500323"
-                target="_blank"
-                class="call-whatsapp"
-                ><i class="bi bi-whatsapp"></i
-            ></a>
-        </main>
-        <!-- End #main -->
+                <div class="products-cabel__about">
+                    <h3 class="products-cabel__about-title">Описание</h3>
 
-        <!-- ======= Footer ======= -->
-        <footer id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="copyright">
-                            &copy;
-                            <strong>ООО Торговый Дом "Электросистемы"</strong>.
-                            - Все права защищены © 2024
+                    <h4 class="products-cabel__about-title-h4">
+                        Для чего нужен и где купить ретро-провод?
+                    </h4>
+
+                    <p>
+                        Ретро провод идеально подходит для деревянных домов,
+                        где проводку нельзя монтировать в стены. Он выглядит
+                        лучше пластиковых кабель-каналов и прекрасно пишется
+                        в дизайн помещения в стиле "Лофт", "Эко" и "Ретро".
+                        Находит применение как в жилых помещениях (коттеджи,
+                        дома, дачи), так и в объектах коммерческой
+                        недвижимости (гостиницы, кафе и рестораны, магазины
+                        и торговые центры).
+                    </p>
+
+                    <p>
+                        Для крепления ретро-проводки применяется
+                        керамический изолятор, который также можно
+                        приобрести в нашей компании.
+                    </p>
+
+                    <div class="products-cabel__about-image-block-wrapper">
+                        <div>
+                            <p>
+                                <strong>Материалы и конструкция
+                                    ретро-провода:</strong>
+                            </p>
+
+                            <p>
+                                Такой витой провод состоит из двух-трех
+                                медных жил. Изоляция каждой жилы сделана из
+                                поливинилхлоридного пластиката с защитной
+                                оплеткой из текстиля (обычно это технический
+                                шелк).
+                            </p>
+                            <p>
+                                <strong>Преимущества ретро-провода:</strong>
+                            </p>
+
+                            <ul>
+                                <li>
+                                    возможность создания стильного
+                                    интерьера;
+                                </li>
+                                <li>
+                                    возможность прокладки в деревянных
+                                    домах, где происходит усадка основная
+                                    после строительства и сезонная;
+                                </li>
+                                <li>
+                                    высокое качество: ретро провод
+                                    производится в РФ согласно ГОСТам, срок
+                                    службы составляет 30 лет.
+                                </li>
+                            </ul>
                         </div>
-                        <div class="credits">
-                            <!--
+
+                        <img src="./img/retro-kab.jpg" alt="Ретро кабель в интерьере" />
+                    </div>
+
+                    <p>
+                        К недостаткам можно отнести только малые сечения
+                        провода: 1,5 и 2,5 мм. Таким образом мощные
+                        электроприборы к такой сети подсоединить будет
+                        нельзя.
+                    </p>
+
+                    <p>
+                        <strong>В продаже имеется следующий ретро провод и
+                            изоляторы производства TDM:</strong>
+                    </p>
+
+                    <ul>
+                        <li>
+                            Ретро провод ПВО 2х1,5 витой ГОСТ белый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 2х2,5 витой ГОСТ белый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х1,5 витой ГОСТ белый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х2,5 витой ГОСТ белый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 2х1,5 витой ГОСТ бежевый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 2х2,5 витой ГОСТ бежевый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х1,5 витой ГОСТ бежевый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х2,5 витой ГОСТ бежевый (50м)
+                            "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 2х1,5 витой ГОСТ коричневый
+                            (50м) "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 2х2,5 витой ГОСТ коричневый
+                            (50м) "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х1,5 витой ГОСТ коричневый
+                            (50м) "Эко" TDM
+                        </li>
+                        <li>
+                            Ретро провод ПВО 3х2,5 витой ГОСТ коричневый
+                            (50м) "Эко" TDM
+                        </li>
+                        <li>
+                            Керамический изолятор для ретро провода белый
+                            (100шт) "Эко" TDM
+                        </li>
+                        <li>
+                            Керамический изолятор для ретро провода
+                            коричневый (100шт) "Эко" TDM
+                        </li>
+                        <li>
+                            Керамический проходной изолятор для провода
+                            белый d 12,5мм (25шт) "Эко" TDM
+                        </li>
+                        <li>
+                            Керамический проходной изолятор для провода
+                            коричневый d 12,5мм (25шт) "Эко" TDM
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+                class="bi bi-arrow-up-short"></i></a>
+
+        <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
+    </main>
+    <!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="copyright">
+                        &copy;
+                        <strong>ООО Торговый Дом "Электросистемы"</strong>.
+                        - Все права защищены © 2024
+                    </div>
+                    <div class="credits">
+                        <!--
           All the links in the footer should remain intact.
           You can delete the links only if you purchased the pro version.
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Imperial
         -->
-                        </div>
                     </div>
                 </div>
             </div>
-        </footer>
-        <!-- End Footer -->
+        </div>
+    </footer>
+    <!-- End Footer -->
 
-        <div id="preloader"></div>
-        <a
-            href="#"
-            class="back-to-top d-flex align-items-center justify-content-center"
-            ><i class="bi bi-arrow-up-short"></i
-        ></a>
+    <div id="preloader"></div>
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
-        <a
-            href="https://wa.me/+79141500323"
-            target="_blank"
-            class="call-whatsapp"
-            ><i class="bi bi-whatsapp"></i
-        ></a>
+    <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
 
-        <!-- Vendor JS Files -->
-        <script src="../../assets/vendor/aos/aos.js"></script>
-        <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="../../assets/vendor/glightbox/js/glightbox.min.js"></script>
-        <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-        <script src="../../assets/vendor/swiper/swiper-bundle.min.js"></script>
-        <script src="../../assets/vendor/typed.js/typed.umd.js"></script>
-        <script src="../../assets/vendor/php-email-form/validate.js"></script>
+    <!-- Vendor JS Files -->
+    <script src="../../assets/vendor/aos/aos.js"></script>
+    <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../../assets/vendor/php-email-form/validate.js"></script>
 
-        <!-- Template Main JS File -->
-        <script src="../../assets/js/main.js"></script>
-    </body>
+    <!-- Template Main JS File -->
+    <script src="../../assets/js/main.js"></script>
+</body>
+
 </html>

@@ -8,7 +8,7 @@ $PageKeyWords = 'арматура к проводу, провода, кабел�
 
 $ogUrl = 'https://es-dv.ru/products/cabel/armatura-k-provodu-sip.php';
 
-require_once "./assets/header.php";
+require_once "../../assets/header.php";
 ?>
 
 <body>
