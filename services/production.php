@@ -1,97 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Производство электрооборудования - ООО ТД Электросистемы';
 
-        <title>
-            Производство электрооборудования - ООО "ТД"Электросистемы"
-        </title>
-        <meta
-            name="description"
-            content="Производство электрощитов, шкафов, подстанций, КСО и другого электрооборудования"
-        />
-        <meta
-            name="keywords"
-            content="производство, электрощит, грщ, вру, щрс, услуги, заказать, хабаровск, щит, сборка"
-        />
+$pageDescription = 'Производство электрощитов, шкафов, подстанций, КСО и другого электрооборудования';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Производство электрооборудования - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/services/production.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Производство электрощитов, шкафов, подстанций, КСО и другого электрооборудования"
-        />
+$PageKeyWords = 'лаборатория, испытания, измерения, хабаровск, электрооборудование, электроустановка, услуга, услуги, замеры, замер';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/services/production.php';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -150,7 +68,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="../about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -160,24 +78,24 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="./electric-work.html"
+                                            <a href="electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./laboratory.html"
+                                            <a href="laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./delivery.html"
+                                            <a href="delivery.php"
                                                 >Доставка</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./manufacturing.html"
+                                            <a href="manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
@@ -228,18 +146,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="../vacancies.html">Вакансии</a>
+                                    <a href="../vacancies.php">Вакансии</a>
                                 </li>
-                                <li><a href="../docs.html">Документы</a></li>
+                                <li><a href="../docs.php">Документы</a></li>
                                 <li>
-                                    <a href="../shop.html"
+                                    <a href="../shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="../contacts.html"
+                            <a class="nav-link scrollto" href="../contacts.php"
                                 >Контакты</a
                             >
                         </li>

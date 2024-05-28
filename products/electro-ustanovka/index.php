@@ -1,92 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Электроустановочные изделия - ООО ТД Электросистемы';
 
-        <title>Звонки - ООО "ТД"Электросистемы"</title>
-        <meta
-            name="description"
-            content="Проводные и беспроводные звонки используются в качестве дверных звонков или устройств внутреннего вызова. Продажа звонков"
-        />
-        <meta
-            name="keywords"
-            content="звонок, дверной, беспроводной, вызов, проводной, звонки на дверь"
-        />
+$pageDescription = 'Электроустановочные изделия любых ценовых категорий: розетки, выключатели, удлинители, вилки и пр. различных производителей TDM, DKC, IEK, Systeme Electric';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta property="og:title" content="Звонки - ООО ТД Электросистемы" />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/products/electro-ustanovka/zvonki.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Проводные и беспроводные звонки используются в качестве дверных звонков или устройств внутреннего вызова. Продажа звонков"
-        />
+$PageKeyWords = 'розетка, выключатель, вилка, удлинитель, фильтр, электронагреватель';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/products/electro-ustanovka/';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -97,7 +20,7 @@
                 <a href="../../index.php" class="logo mr-auto"
                     ><img
                         src="../../assets/img/img1/elektrosistema-logo.png"
-                        alt="Электросистема"
+                        alt="Логотип Электросистемы"
                 /></a>
 
                 <nav id="navbar" class="navbar">
@@ -145,7 +68,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="../../about.html">О компании</a>
+                                    <a href="../../about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -156,27 +79,27 @@
                                     <ul>
                                         <li>
                                             <a
-                                                href="../../services/electric-work.html"
+                                                href="../../services/electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
                                             <a
-                                                href="../../services/laboratory.html"
+                                                href="../../services/laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
                                         </li>
                                         <li>
                                             <a
-                                                href="../../services/delivery.html"
+                                                href="../../services/delivery.php"
                                                 >Доставка</a
                                             >
                                         </li>
                                         <li>
                                             <a
-                                                href="../../services/manufacturing.html"
+                                                href="../../services/manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
@@ -184,7 +107,7 @@
 
                                         <li>
                                             <a
-                                                href="../../services/production.html"
+                                                href="../../services/production.php"
                                                 >Производство электрощитов и
                                                 электрооборудования</a
                                             >
@@ -199,8 +122,7 @@
                                     ></a>
                                     <ul>
                                         <li>
-                                            <a
-                                                href="../../products/svet/svetotekhnika.html"
+                                            <a href="../../products/svet/"
                                                 >Светотехника</a
                                             >
                                         </li>
@@ -230,11 +152,11 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="../../vacancies.html">Вакансии</a>
+                                    <a href="../../vacancies.php">Вакансии</a>
                                 </li>
-                                <li><a href="../../docs.html">Документы</a></li>
+                                <li><a href="../../docs.php">Документы</a></li>
                                 <li>
-                                    <a href="../../shop.html"
+                                    <a href="../../shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
@@ -243,7 +165,7 @@
                         <li>
                             <a
                                 class="nav-link scrollto"
-                                href="../../contacts.html"
+                                href="../../contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -257,6 +179,7 @@
 
         <main id="main">
             <!-- ======= Breadcrumbs ======= -->
+
             <section class="vacancies">
                 <div class="container">
                     <div
@@ -265,98 +188,108 @@
                         <ol>
                             <li><a href="../../index.php">Главная</a></li>
                             <li><a href="../">Продукция</a></li>
-                            <li>
-                                <a href="../electro-ustanovka/"
-                                    >Электроустановочные изделия</a
-                                >
-                            </li>
-                            <li>Звонки</li>
+                            <li>Электроустановочные изделия</li>
                         </ol>
                     </div>
                 </div>
             </section>
             <!-- End Breadcrumbs -->
-            <section class="systeme-electric__page">
-                <div class="container systeme-electric__wrapper">
-                    <div class="systeme-electric__wrapper-card">
-                        <img
-                            class="systeme-electric__img"
-                            src="./img/zvonki.jpg"
-                            alt="Звонки дверные в наличии"
-                        />
-                        <div class="systeme-electric__title">
-                            <h2 class="systeme-electric__title-text">Звонки</h2>
-                            <p>
-                                Проводные и беспроводные звонки используются в
-                                качестве дверных звонков или устройств
-                                внутреннего вызова.
-                            </p>
-                        </div>
-                    </div>
+            <section class="product__svet">
+                <div class="container product-svet__wrapper">
+                    <img
+                        class="svet-title-img"
+                        src="../../assets/img/svetotekhnika.jpg"
+                        alt="Светотехника купить"
+                    />
 
-                    <hr />
+                    <h2>Электроустановочные изделия</h2>
 
-                    <div class="systeme-electric__about">
-                        <h3>Описание</h3>
-
-                        <p class="special__block">
-                            ООО "ТД"Электросистемы" предлагает к продаже дверные
-                            звонки компании беспроводной дверной звонок TDM"TDM
-                            Electric" в разлдверной звонок TDMичном
-                            типоисполнении, с различным дизайном, функционалом и
-                            ценой. Звонки данного бренда обладают рядом
-                            конкурентных преимуществ на электротехническом рынке
-                            России (в зависимости от модели):
-                        </p>
-
-                        <div class="zvonki__wrapper">
-                            <ul>
-                                <li>
-                                    каждый беспроводной звонок имеет свой
-                                    уникальный код, который позволяет звонку не
-                                    пересекаться с сигналами соседних
-                                    беспроводных звонков
-                                </li>
-                                <li>
-                                    дальность работы беспроводных звонков - 100
-                                    метров (на открытом пространстве)
-                                </li>
-                                <li>
-                                    звонок может питаться либо от электрической
-                                    сети, либо от пальчиковых батареек
-                                </li>
-                                <li>
-                                    ряд моделей имеет возможность смены кода
-                                    звонка в случае порчи или утери старой
-                                    кнопки или для подключения дополнительной
-                                    кнопки
-                                </li>
-                                <li>
-                                    в ассортименте имеются отдельные кнопки для
-                                    звонков для замены вышедшей из строя кнопки
-                                </li>
-                                <li>
-                                    кнопки для звонков имеют степень защиты IP44
-                                    или IP20
-                                </li>
-                                <li>
-                                    звонки имеют возможность смены мелодии или
-                                    установки мелодии на каждую кнопку для
-                                    определения места, с которого происходит
-                                    вызов и т.д
-                                </li>
-                            </ul>
-                            <div>
+                    <div class="product-svet-items">
+                        <ul>
+                            <li>
                                 <img
-                                    src="./img/zvon1.jpg"
-                                    alt="Звонок проводной"
+                                    src="./img/rozetki-i-vyklyuchateli-systeme-electric.jpg"
+                                    alt="Розетки и выключатели Systeme Electric"
                                 />
+                                <h3>Розетки и выключатели Systeme Electric</h3>
+                                <a href="systeme-electric.php">Подробнее</a>
+                            </li>
+
+                            <li>
+                                <img src="./img/vilki.jpg" alt="Вилки" />
+                                <h3>Вилки</h3>
+                                <a href="vilki.php">Подробнее</a>
+                            </li>
+
+                            <li>
                                 <img
-                                    src="./img/zvon2.jpg"
-                                    alt="Звонок беспроводной"
+                                    src="./img/udlinitel-setevoj-iek.jpg"
+                                    alt="Удлинитель сетевой IEK"
                                 />
-                            </div>
-                        </div>
+                                <h3>Удлинитель сетевой IEK</h3>
+                                <a href="udlinitel-iek.php">Подробнее</a>
+                            </li>
+
+                            <li>
+                                <img
+                                    src="./img/udlinitel-setevoj-tdm.jpg"
+                                    alt="Удлинитель сетевой TDM"
+                                />
+                                <h3>Удлинитель сетевой TDM</h3>
+                                <a href="udlinitel-tdm.php">Подробнее</a>
+                            </li>
+                            <li>
+                                <img
+                                    src="./img/rozetki-kvarta-iek.jpg"
+                                    alt="Розетки и выключатели серии Кварта IEK"
+                                />
+                                <h3>Розетки и выключатели серии Кварта IEK</h3>
+                                <a href="rozetki-iek.php">Подробнее</a>
+                            </li>
+                            <li>
+                                <img
+                                    src="./img/rozetki-i-vyklyuchateli-tdm-electric.jpg"
+                                    alt="Розетки и выключатели TDM Electric"
+                                />
+                                <h3>Розетки и выключатели TDM Electric</h3>
+                                <a href="rozetki-tdm.php">Подробнее</a>
+                            </li>
+
+                            <li>
+                                <img src="./img/zvonki.jpg" alt="Звонки" />
+                                <h3>Звонки</h3>
+                                <a href="zvonki.php">Подробнее</a>
+                            </li>
+                            <li>
+                                <img
+                                    src="./img/udliniteli-na-katushkakh.jpg"
+                                    alt="Удлинители на катушках"
+                                />
+                                <h3>Удлинители на катушках</h3>
+                                <a href="udliniteli-na-kotushke.php"
+                                    >Подробнее</a
+                                >
+                            </li>
+                            <li>
+                                <img
+                                    src="./img/rozetki-i-vyklyuchateli-dkc.jpg"
+                                    alt="Розетки и выключатели DKC"
+                                />
+                                <h3>Розетки и выключатели DKC</h3>
+                                <a href="rozetki-i-vyklyuchateli-dkc.php"
+                                    >Подробнее</a
+                                >
+                            </li>
+
+                            <li>
+                                <img
+                                    src="./img/setevye-filtry.jpg"
+                                    alt="Сетевые фильтры"
+                                />
+                                <h3>Сетевые фильтры</h3>
+                                <a href="setevye-filtry.php">Подробнее</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </section>
@@ -405,13 +338,6 @@
             href="#"
             class="back-to-top d-flex align-items-center justify-content-center"
             ><i class="bi bi-arrow-up-short"></i
-        ></a>
-
-        <a
-            href="https://wa.me/+79141500323"
-            target="_blank"
-            class="call-whatsapp"
-            ><i class="bi bi-whatsapp"></i
         ></a>
 
         <!-- Vendor JS Files -->

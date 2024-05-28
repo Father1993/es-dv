@@ -1,92 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Список услуг | ООО "ТД"Электросистемы"';
 
-        <title>Доставка - ООО "ТД"Электросистемы"</title>
-        <meta
-            name="description"
-            content="Доставка электротоваров и электрооборудования по г. Хабаровску и Дальнему Востоку"
-        />
-        <meta
-            name="keywords"
-            content="условия, сроки, отправка, упаковка, перевозка, бесплатная доставка"
-        />
+$pageDescription = 'Список услуг';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta property="og:title" content="Доставка - ООО ТД Электросистемы" />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/services/delivery.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Доставка электротоваров и электрооборудоваия по г. Хабаровску и Дальнему Востоку"
-        />
+$PageKeyWords = 'условия, сроки, услуги, список, упаковка, перевозка, лаборатория, производство, электрические работы, доставка, продукция';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/services/';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -140,12 +63,12 @@
                         </li>
                         <li class="dropdown">
                             <a href="../index.php#about"
-                                ><span class="active">Подробнее</span>
+                                ><span>Подробнее</span>
                                 <i class="bi bi-chevron-down"></i
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="../about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -155,31 +78,31 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="./electric-work.html"
+                                            <a href="electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./laboratory.html"
+                                            <a href="laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./delivery.html"
+                                            <a href="delivery.php"
                                                 >Доставка</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./manufacturing.html"
+                                            <a href="manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
                                         </li>
 
                                         <li>
-                                            <a href="./production.html"
+                                            <a href="production.php"
                                                 >Производство электрощитов и
                                                 электрооборудования</a
                                             >
@@ -223,18 +146,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="../vacancies.html">Вакансии</a>
+                                    <a href="../vacancies.php">Вакансии</a>
                                 </li>
-                                <li><a href="../docs.html">Документы</a></li>
+                                <li><a href="../docs.php">Документы</a></li>
                                 <li>
-                                    <a href="../shop.html"
+                                    <a href="../shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="../contacts.html"
+                            <a class="nav-link scrollto" href="../contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -254,58 +177,111 @@
                         class="d-flex justify-content-between align-items-center"
                     >
                         <ol>
-                            <li><a href="../index.php">Главная</a></li>
-                            <li><a href="../services/">Услуги</a></li>
-                            <li>Доставка</li>
+                            <li><a href="../../index.html">Главная</a></li>
+                            <li>Список услуг</li>
                         </ol>
                     </div>
                 </div>
             </section>
-            <!-- End Breadcrumbs -->
-
-            <section class="services-delivery">
-                <div class="container delivery__wrapper">
-                    <div class="delivery-card">
-                        <h2>Доставка со склада до клиента в Хабаровске</h2>
-                        <img
-                            class="delivery-image"
-                            src="./img/us4.jpg"
-                            alt="Доставка со склада до клиента в Хабаровске"
-                        />
-                        <p>
-                            Наш автопарк состоит из закрытых фургонов по 10-14
-                            кубометров, позволяющий достаточно оперативно
-                            доставлять товар в пределах города и ближайших
-                            населенных пунктов. Доставка товара, объем и сроки
-                            отправки транспортом "Электросистем" оговаривается
-                            при согласовании заказа с нашими менеджерами по
-                            продажам. Также осуществляется услуга бесплатной
-                            доставки при покупке продукции на сумму от 5000 руб.
-                        </p>
+            <section id="services">
+                <div class="container">
+                    <div class="row" data-aos="fade-up">
+                        <div class="col-md-12">
+                            <h3 class="section-title">Услуги</h3>
+                            <div class="section-title-divider"></div>
+                            <p class="section-description">
+                                Список услуг, которые оказывает ООО
+                                "Электросистемы"
+                            </p>
+                        </div>
                     </div>
-                    <hr />
-                    <div class="delivery-card">
-                        <h2>Доставка товара клиентам в регионы ДФО</h2>
-                        <img
-                            class="delivery-image"
-                            src="./img/us5.jpg"
-                            alt="Доставка товара клиентам в регионы ДФО"
-                        />
-                        <p>
-                            В случаях когда у наших клиентов в отдаленных от
-                            Хабаровска регионах нет возможности вывезти товар
-                            самостоятельно или с помощью транспортных компаний,
-                            мы готовы взять на себя вопросы по доставке груза до
-                            дверей склада клиента, где бы он не находился. В
-                            зависимости от расстояния и объема груза, мы будем
-                            использовать для экспедирования свой транспорт или
-                            транспорт авиа, морских и железнодорожных
-                            перевозчиков. Стоимость таких услуг и порядок оплаты
-                            оговаривается отдельно с клиентом.
-                        </p>
+
+                    <div class="row" data-aos="fade-up" data-aos-delay="200">
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-briefcase"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="delivery.php">Доставка</a>
+                            </h4>
+                            <p class="service-description">
+                                Cо склада до клиента в Хабаровске <br />
+                                Клиентам в регионы ДФО
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-card-checklist"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="production.php"
+                                    >Производство электрооборудования</a
+                                >
+                            </h4>
+                            <p class="service-description">
+                                Производство всех видов электрощитов и
+                                электрооборудования <br />
+                                Сборка
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-bar-chart"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="manufacturing.php"
+                                    >Изготовление корпусов щитов</a
+                                >
+                            </h4>
+                            <p class="service-description">
+                                Компания осуществляет полный цикл производства
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-binoculars"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="electric-work.php"
+                                    >Электромонтажные работы</a
+                                >
+                            </h4>
+                            <p class="service-description">
+                                Все виды электромонтажных работ
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-brightness-high"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="laboratory.php">Лаборатория</a>
+                            </h4>
+                            <p class="service-description">
+                                Приемо-сдаточные испытания и измерения<br />
+                                Межремонтные/профилактические испытания и
+                                измерения<br />
+                                Ремонтные испытания и измерения<br />
+                                Эксплуатационные (внеочередные/очередные)
+                                испытания электрозащитных средств до 220 кВ
+                            </p>
+                        </div>
+                        <div class="col-lg-4 col-md-6 service-item">
+                            <div class="service-icon">
+                                <i class="bi bi-calendar4-week"></i>
+                            </div>
+                            <h4 class="service-title">
+                                <a href="../products/">Товары</a>
+                            </h4>
+                            <p class="service-description">
+                                Более 20 000 наименований товара в наличии на
+                                складе
+                            </p>
+                        </div>
                     </div>
                 </div>
             </section>
+            <!-- End Services Section -->
         </main>
         <!-- End #main -->
 

@@ -1,92 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Продукция компании | ООО "ТД"Электросистемы"';
 
-        <title>Электромонтажные работы - ООО "ТД"Электросистемы"</title>
-        <meta name="description" content="Все виды электромонтажных работ" />
-        <meta
-            name="keywords"
-            content="электромонтаж, монтаж, услуга, хабаровск, проектирование, реконструкция"
-        />
+$pageDescription = 'Продукция компании, продажа оборудование и товаров по самым низким ценам | Электросистемы';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Электромонтажные работы - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/services/electric-work.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Все виды электромонтажных работ"
-        />
+$PageKeyWords = 'продукция, продукция компании, кабель, силовое, оборудование, светотехника, электромонтажные изделия, изделия, электромонтаж, электроустановочные  изделия, электроустановка, отдел продаж, продажи, купить, выгодны, низкая цена, низкие цены, дальний восток, хабаровск, биробиджан, владивосток, благовещенск';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/products';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -145,7 +68,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="../about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -223,18 +146,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="../vacancies.html">Вакансии</a>
+                                    <a href="../vacancies.php">Вакансии</a>
                                 </li>
-                                <li><a href="../docs.html">Документы</a></li>
+                                <li><a href="../docs.php">Документы</a></li>
                                 <li>
-                                    <a href="../shop.html"
+                                    <a href="../shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="../contacts.html"
+                            <a class="nav-link scrollto" href="../contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -248,70 +171,82 @@
 
         <main id="main">
             <!-- ======= Breadcrumbs ======= -->
+            <!-- ======= Breadcrumbs ======= -->
             <section class="vacancies">
                 <div class="container">
                     <div
                         class="d-flex justify-content-between align-items-center"
                     >
                         <ol>
-                            <li><a href="../index.php">Главная</a></li>
-                            <li><a href="../services/">Услуги</a></li>
-                            <li>Виды электромонтажных работ</li>
+                            <li><a href="../../index.html">Главная</a></li>
+                            <li>Продукция</li>
                         </ol>
                     </div>
                 </div>
             </section>
             <!-- End Breadcrumbs -->
-            <section class="electric-work-services">
-                <div class="container electric-work-services__wrapper">
-                    <h2>Все виды электромонтажных работ</h2>
-                    <div class="electric-work-services__wrapper-card">
-                        <img
-                            class="electric-work-services__wrapper-card-img"
-                            src="./img/us3.jpg"
-                            alt="Все виды электромонтажных работ Дальний Восток"
-                        />
-                        <p>
-                            В составе холдинга компании входят подразделения по
-                            выполнению монтажных работ всех уровней сложности.
-                            Наши специалисты имеют большой опыт пусконаладочных
-                            работ на объектах в Хабаровском крае и в ДФО.
-                            Проектный отдел готов оказать поддержку при
-                            реконструкциях и проектировании новых объектов.
-                            Заказчиками компании по элетромонтажным работам
-                            являются ведущие строительные организации и
-                            потребители Дальнего Востока.
-                        </p>
+            <section id="portfolio">
+                <div class="container" data-aos="fade-up">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h3 class="section-title">Продукция</h3>
+                            <div class="section-title-divider"></div>
+                            <p class="section-description">
+                                Наши филиалы расположены во всех крупных городах
+                                Дальнего Востока. Найти и купить любую электрику
+                                оптом или в розницу проще простого. Неважно,
+                                будет это силовой трансформатор для электросети
+                                или розетка для дома - у нас Вы найдете любые
+                                электротовары и электрооборудование.
+                            </p>
+                            <p class="section-description">
+                                <strong
+                                    >С полным ассортиментом вы можете
+                                    ознакомиться в нашем интернет-магазине
+                                    <a
+                                        href="https://xn----7sbfcjc9ag3aaueuc3lua.xn--p1ai/"
+                                        >ЭЛЕКТРОТОВАРЫ-ДВ</a
+                                    ></strong
+                                >
+                            </p>
+                        </div>
+
+                        <div class="products-main__wrapper">
+                            <div>
+                                <img src="" alt="Светотехника">
+                                <h4>Светотехника</h4>
+                                <p></p>
+                            </div>
+                            <div>
+                                <img src="" alt="Кабельная продукция" />
+                                <h4>Кабельная продукция</h4>
+                                <p></p>
+                            </div>
+                            <div>
+                                <img src="" alt="Силовое и коммутационное оборудование" />
+                                <h4>Силовое и коммутационное оборудование</h4>
+                                <p></p>
+                            </div>
+                            <div>
+                                <img src="" alt="" />
+                                <h4>Электромонтажные изделия</h4>
+                                <p></p>
+                            </div>
+                            <div>
+                                <img src="" alt="" />
+                                <h4>Электроустановочные изделия</h4>
+                                <p></p>
+                            </div>
+
                     </div>
 
-                    <p>
-                        Мы гордимся тем, что являемся лидерами в своей отрасли,
-                        предлагая полный спектр электромонтажных услуг. Наша
-                        команда состоит из профессионалов высокого класса,
-                        которые постоянно повышают свою квалификацию и следуют
-                        последним технологическим тенденциям.
-                    </p>
+                    <div class="products-main__banner">
+                        <img src="../assets/img/svetotekhnika.jpg" alt="Светотехника купить">
+                    </div>
 
-                    <p>
-                        Наши специалисты не только обладают внушительным опытом
-                        работы, но и глубоко понимают потребности клиентов,
-                        благодаря чему они всегда готовы предложить наиболее
-                        эффективные и экономически выгодные решения. Мы
-                        осуществляем поддержку на всех этапах выполнения
-                        проекта, от первоначального проектирования до
-                        последующей поддержки.
-                    </p>
-
-                    <p>
-                        Постоянное сотрудничество с ведущими строительными
-                        организациями и потребителями Дальнего Востока
-                        подтверждает нашу надежность и профессионализм. Наша
-                        компания постоянно расширяет свой спектр услуг и
-                        стремится удовлетворить все возрастающие потребности
-                        наших клиентов.
-                    </p>
                 </div>
             </section>
+            <!-- End Services Section -->
         </main>
         <!-- End #main -->
 

@@ -1,95 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Услуги доставки - ООО ТД Электросистемы';
 
-        <title>Лаборатория - ООО "ТД"Электросистемы"</title>
-        <meta
-            name="description"
-            content="Услуги лаборатории по выполнению испытаний и измерений электрооборудования"
-        />
-        <meta
-            name="keywords"
-            content="лаборатория, испытания, измерения, хабаровск, электрооборудование, электроустановка, услуга"
-        />
+$pageDescription = 'Доставка электротоваров и электрооборудоваия по г. Хабаровску и Дальнему Востоку';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Лаборатория - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta
-            property="og:url"
-            content="https://es-dv.ru/services/laboratory.html"
-        />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Услуги лаборатории по выполнению испытаний и измерений электрооборудования"
-        />
+$PageKeyWords = 'условия, сроки, отправка, упаковка, перевозка, бесплатная доставка, доставка, услуги';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/services/delivery.php';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="../assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="../assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="../assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="../assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="../assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="../assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="../assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="../assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -100,7 +20,7 @@
                 <a href="../index.php" class="logo mr-auto"
                     ><img
                         src="../assets/img/img1/elektrosistema-logo.png"
-                        alt="Логотип Электросистемы"
+                        alt="Электросистемы"
                 /></a>
 
                 <nav id="navbar" class="navbar">
@@ -148,7 +68,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="../about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -158,13 +78,13 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="./electric-work.html"
+                                            <a href="electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./laboratory.html"
+                                            <a href="laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
@@ -175,14 +95,14 @@
                                             >
                                         </li>
                                         <li>
-                                            <a href="./manufacturing.html"
+                                            <a href="manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
                                         </li>
 
                                         <li>
-                                            <a href="./production.html"
+                                            <a href="production.php"
                                                 >Производство электрощитов и
                                                 электрооборудования</a
                                             >
@@ -226,18 +146,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <a href="../vacancies.html">Вакансии</a>
+                                    <a href="../vacancies.php">Вакансии</a>
                                 </li>
-                                <li><a href="../docs.html">Документы</a></li>
+                                <li><a href="../docs.php">Документы</a></li>
                                 <li>
-                                    <a href="../shop.html"
+                                    <a href="../shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="../contacts.html"
+                            <a class="nav-link scrollto" href="../contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -259,74 +179,54 @@
                         <ol>
                             <li><a href="../index.php">Главная</a></li>
                             <li><a href="../services/">Услуги</a></li>
-                            <li>Испытательная лаборатория</li>
+                            <li>Доставка</li>
                         </ol>
                     </div>
                 </div>
             </section>
             <!-- End Breadcrumbs -->
-            <section class="laboratory-services">
-                <div class="container laboratory__wrapper">
-                    <h2>Услуги испытательной лаборатории</h2>
-                    <h3>
-                        Наша испытательная лаборатория готова предложить
-                        юридическим и частным лицам услуги по выполнению
-                        испытаний и измерений электрооборудования и
-                        электроустановок:
-                    </h3>
 
-                    <div class="laboratory__wrapper-card">
+            <section class="services-delivery">
+                <div class="container delivery__wrapper">
+                    <div class="delivery-card">
+                        <h2>Доставка со склада до клиента в Хабаровске</h2>
                         <img
-                            class="laboratory__wrapper-card-img"
-                            src="./img/us6.jpg"
-                            alt="Услуги испытательной лаборатории Дальний Восток"
+                            class="delivery-image"
+                            src="./img/us4.jpg"
+                            alt="Доставка со склада до клиента в Хабаровске"
                         />
-                        <ul class="laboratory__wrapper-card-list">
-                            <li>Электростанции ДЭС напряжением до 220 кВ</li>
-                            <li>Подстанции, РУ напряжением до 220 кВ</li>
-                            <li>Заземляющие устройства до 220 кВ</li>
-                            <li>Воздушные электрические линии до 220 кВ</li>
-                            <li>Силовые кабельные линии до 220 кВ</li>
-                            <li>
-                                Здания, помещения жилые, общественные, бытовые,
-                                производственные с электроустановками до 1,0 кВ
-                            </li>
-                            <li>
-                                Вращающиеся электрические машины: генераторы,
-                                компенсаторы до 10 кВ
-                            </li>
-                            <li>Электродвигатели до 10 кВ</li>
-                            <li>
-                                Электроустановки во взрывоопасных зонах класса
-                                ВI,ВIа,ВIб
-                            </li>
-                        </ul>
+                        <p>
+                            Наш автопарк состоит из закрытых фургонов по 10-14
+                            кубометров, позволяющий достаточно оперативно
+                            доставлять товар в пределах города и ближайших
+                            населенных пунктов. Доставка товара, объем и сроки
+                            отправки транспортом "Электросистем" оговаривается
+                            при согласовании заказа с нашими менеджерами по
+                            продажам. Также осуществляется услуга бесплатной
+                            доставки при покупке продукции на сумму от 5000 руб.
+                        </p>
                     </div>
-
-                    <h4>Перечень видов испытаний и измерений:</h4>
-                    <ul class="laboratory__wrapper-card-list-two">
-                        <li>
-                            Приемо-сдаточные испытания и измерения
-                            электрооборудования
-                        </li>
-                        <li>
-                            Межремонтные (профилактические) испытания и
-                            измерения электрооборудования
-                        </li>
-                        <li>
-                            Ремонтные испытания и измерения электрооборудования
-                        </li>
-                        <li>
-                            Эксплуатационные (внеочередные и очередные)
-                            испытания электрозащитных средств, используемых в
-                            электроустановках напряжением до 220 кВ
-                        </li>
-                    </ul>
-                    <p>
-                        По всем договорным или консультационным вопросам вы
-                        можете обратиться к менеджерам по продажам нашей
-                        компании.
-                    </p>
+                    <hr />
+                    <div class="delivery-card">
+                        <h2>Доставка товара клиентам в регионы ДФО</h2>
+                        <img
+                            class="delivery-image"
+                            src="./img/us5.jpg"
+                            alt="Доставка товара клиентам в регионы ДФО"
+                        />
+                        <p>
+                            В случаях когда у наших клиентов в отдаленных от
+                            Хабаровска регионах нет возможности вывезти товар
+                            самостоятельно или с помощью транспортных компаний,
+                            мы готовы взять на себя вопросы по доставке груза до
+                            дверей склада клиента, где бы он не находился. В
+                            зависимости от расстояния и объема груза, мы будем
+                            использовать для экспедирования свой транспорт или
+                            транспорт авиа, морских и железнодорожных
+                            перевозчиков. Стоимость таких услуг и порядок оплаты
+                            оговаривается отдельно с клиентом.
+                        </p>
+                    </div>
                 </div>
             </section>
         </main>
@@ -342,6 +242,7 @@
                             <strong>ООО Торговый Дом "Электросистемы"</strong>.
                             - Все права защищены © 2024
                         </div>
+                    </div>
                 </div>
             </div>
         </footer>

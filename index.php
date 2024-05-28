@@ -1,101 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Купить электрооборудование и электротовары | Cборка электрощитов | Поставка трансформаторов от производителя. Опт и розница. ООО "Электросистемы"';
 
-        <title>
-            Купить электрооборудование и электротовары | Cборка электрощитов |
-            Поставка трансформаторов от производителя. Опт и розница. ООО
-            "Электросистемы"
-        </title>
-        <meta
-            name="description"
-            content="Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам"
-        />
-        <meta
-            name="keywords"
-            content="электротовары, электроборудование, продажа, магазин, кабель, светотехника, низковольтное оборудование, лампы, прайс, светильник, светодиоды, led, лампы, изоляция"
-        />
+$pageDescription = 'Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta
-            property="og:title"
-            content="Купить электрооборудование и электротовары, сборка электрощитов, поставка трансформаторов от производителя. Опт и розница. - ООО ТД Электросистемы"
-        />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta property="og:url" content="https://es-dv.ru/" />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам"
-        />
+$PageKeyWords = 'электротовары, электроборудование, продажа, магазин, кабель, светотехника, низковольтное оборудование, лампы, прайс, светильник, светодиоды, led, лампы, изоляция';
 
-        <!-- Favicons -->
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="./assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="./assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="./assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="./assets/img/favicon/site.webmanifest" />
-        <link
-            rel="icon"
-            href="https://es-dv.ru/assets/img/favicon/icon.png"
-            type="image/x-icon"
-        />
+$ogUrl = 'https://es-dv.ru/';
 
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-  * Template Name: Imperial
-  * Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-  * Updated: Mar 17 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-    </head>
-
+require_once "./assets/header.php";
+?>
     <body>
         <!-- ======= Hero Section ======= -->
         <section id="hero">
@@ -179,7 +93,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -190,32 +104,32 @@
                                     <ul>
                                         <li>
                                             <a
-                                                href="./services/electric-work.html"
+                                                href="services/electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./services/laboratory.html"
+                                            <a href="services/laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./services/delivery.html"
+                                            <a href="services/delivery.php"
                                                 >Доставка</a
                                             >
                                         </li>
                                         <li>
                                             <a
-                                                href="./services/manufacturing.html"
+                                                href="services/manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
                                         </li>
 
                                         <li>
-                                            <a href="./services/production.html"
+                                            <a href="services/production.php"
                                                 >Производство электрощитов и
                                                 электрооборудования</a
                                             >
@@ -259,17 +173,17 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="./vacancies.html">Вакансии</a></li>
-                                <li><a href="./docs.html">Документы</a></li>
+                                <li><a href="vacancies.php">Вакансии</a></li>
+                                <li><a href="docs.php">Документы</a></li>
                                 <li>
-                                    <a href="./shop.html"
+                                    <a href="shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="./contacts.html"
+                            <a class="nav-link scrollto" href="contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -415,7 +329,7 @@
                                 <i class="bi bi-briefcase"></i>
                             </div>
                             <h4 class="service-title">
-                                <a href="./services/delivery.html">Доставка</a>
+                                <a href="services/delivery.php">Доставка</a>
                             </h4>
                             <p class="service-description">
                                 Cо склада до клиента в Хабаровске <br />
@@ -427,7 +341,7 @@
                                 <i class="bi bi-card-checklist"></i>
                             </div>
                             <h4 class="service-title">
-                                <a href="./services/production.html"
+                                <a href="services/production.php"
                                     >Производство электрооборудования</a
                                 >
                             </h4>
@@ -442,7 +356,7 @@
                                 <i class="bi bi-bar-chart"></i>
                             </div>
                             <h4 class="service-title">
-                                <a href="./services/manufacturing.html"
+                                <a href="services/manufacturing.php"
                                     >Изготовление корпусов щитов</a
                                 >
                             </h4>
@@ -455,7 +369,7 @@
                                 <i class="bi bi-binoculars"></i>
                             </div>
                             <h4 class="service-title">
-                                <a href="./services/electric-work.html"
+                                <a href="services/electric-work.php"
                                     >Электромонтажные работы</a
                                 >
                             </h4>
@@ -468,7 +382,7 @@
                                 <i class="bi bi-brightness-high"></i>
                             </div>
                             <h4 class="service-title">
-                                <a href="./services/laboratory.html"
+                                <a href="services/laboratory.php"
                                     >Лаборатория</a
                                 >
                             </h4>
@@ -516,7 +430,7 @@
                             </p>
                         </div>
                         <div class="col-md-4 subscribe-btn-container">
-                            <a class="subscribe-btn" href="./contacts.html"
+                            <a class="subscribe-btn" href="contacts.php"
                                 >Консультация</a
                             >
                         </div>
@@ -1381,5 +1295,6 @@
                     </div>
                 </div>
             </section>
-            <!-- End Contact Section -->
+        </main>
+        <!-- End #main -->
 <?php require_once "./assets/footer.php"; ?>

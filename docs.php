@@ -1,82 +1,15 @@
-<!DOCTYPE html>
-<html lang="ru">
-    <head>
-        <meta charset="utf-8" />
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<?php
+// Переменные для SEO страницы
+$pageTitle = 'Документы - ООО "ТД"Электросистемы"';
 
-        <title>Ошибка 404 - Страница не найдена"</title>
-        <meta name="description" content="Ошибка 404 - Страница не найдена" />
+$pageDescription = 'Реквизиты и сертификаты ООО ТД Электросистемы';
 
-        <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-        <meta property="og:title" content="Документы - ООО ТД Электросистемы" />
-        <meta
-            property="og:image"
-            content="https://es-dv.ru/assets/img/logo.png"
-        />
-        <meta property="og:url" content="https://es-dv.ru/docs.html" />
-        <meta property="og:site_name" content="Электросистемы" />
-        <meta
-            property="og:description"
-            content="Реквизиты и сертификат ООО ТД Электросистемы"
-        />
+$PageKeyWords = 'реквизиты, электросистемы, сертификат, свидетельство, документы';
 
-        <!-- Favicons -->
+$ogUrl = 'https://es-dv.ru/docs.php';
 
-        <link
-            rel="apple-touch-icon"
-            sizes="180x180"
-            href="./assets/img/favicon/apple-touch-icon.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="32x32"
-            href="./assets/img/favicon/favicon-32x32.png"
-        />
-        <link
-            rel="icon"
-            type="image/png"
-            sizes="16x16"
-            href="./assets/img/favicon/favicon-16x16.png"
-        />
-        <link rel="manifest" href="./assets/img/favicon/site.webmanifest" />
-
-        <!-- Google Fonts -->
-        <link
-            href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-            rel="stylesheet"
-        />
-
-        <!-- Vendor CSS Files -->
-        <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
-        <link
-            href="assets/vendor/bootstrap/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/glightbox/css/glightbox.min.css"
-            rel="stylesheet"
-        />
-        <link
-            href="assets/vendor/swiper/swiper-bundle.min.css"
-            rel="stylesheet"
-        />
-
-        <!-- Template Main CSS File -->
-        <link href="assets/css/style.css" rel="stylesheet" />
-
-        <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-    </head>
+require_once "./assets/header.php";
+?>
 
     <body>
         <!-- ======= Header ======= -->
@@ -132,7 +65,7 @@
                             ></a>
                             <ul>
                                 <li>
-                                    <a href="./about.html">О компании</a>
+                                    <a href="about.php">О компании</a>
                                 </li>
 
                                 <li class="dropdown">
@@ -143,32 +76,32 @@
                                     <ul>
                                         <li>
                                             <a
-                                                href="./services/electric-work.html"
+                                                href="services/electric-work.php"
                                                 >Все виды электромонтажных
                                                 работ</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./services/laboratory.html"
+                                            <a href="services/laboratory.php"
                                                 >Услуги испытательной
                                                 лаборатории</a
                                             >
                                         </li>
                                         <li>
-                                            <a href="./services/delivery.html"
+                                            <a href="services/delivery.php"
                                                 >Доставка</a
                                             >
                                         </li>
                                         <li>
                                             <a
-                                                href="./services/manufacturing.html"
+                                                href="services/manufacturing.php"
                                                 >Изготовление металлических
                                                 корпусов электрощитов</a
                                             >
                                         </li>
 
                                         <li>
-                                            <a href="./services/production.html"
+                                            <a href="services/production.php"
                                                 >Производство электрощитов и
                                                 электрооборудования</a
                                             >
@@ -212,17 +145,17 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li><a href="./vacancies.html">Вакансии</a></li>
+                                <li><a href="vacancies.php">Вакансии</a></li>
                                 <li><a href="./docs.html">Документы</a></li>
                                 <li>
-                                    <a href="./shop.html"
+                                    <a href="shop.php"
                                         >Магазин Электромаркет</a
                                     >
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <a class="nav-link scrollto" href="./contacts.html"
+                            <a class="nav-link scrollto" href="contacts.php"
                                 >Контакты</a
                             >
                         </li>
@@ -243,75 +176,145 @@
                     >
                         <ol>
                             <li><a href="index.php">Главная</a></li>
-                            <li>404-ошибка</li>
+                            <li>Документы</li>
                         </ol>
                     </div>
                 </div>
             </section>
             <!-- End Breadcrumbs -->
 
-            <section class="error-404">
-                <div style="align-items: center" class="container">
-                    <h1 style="text-align: center">Страница не найдена</h1>
-                    <img
-                        style="
-                            display: block;
-                            margin: 0 auto;
-                            margin-bottom: 50px;
-                        "
-                        src="./assets/img/404.jpg"
-                        alt="Ошибка 404 - Страница не найдена"
-                    />
-                    <p style="font-size: 2rem">Такой Страница не существует</p>
-                    <p style="font-size: 1.8rem">НАЧНИТЕ С ГЛАВНОЙ СТРАНИЦЫ</p>
-                    <p style="font-size: 2.5rem">
-                        <a href="/">Вернуться на главную</a>
-                    </p>
+            <section class="docs-page">
+                <div class="container">
+                    <h2>Наши реквизиты</h2>
+
+                    <div class="docs-requisites">
+                        <p>ООО ТД "Электросистемы"</p>
+                        <p>
+                            Юридический адрес: 680014, г. Хабаровск, ул.
+                            Промышленная, дом 8, оф. 306
+                        </p>
+                        <p>
+                            Фактический адрес: 680014, г. Хабаровск, ул.
+                            Промышленная, дом 8.
+                        </p>
+                        <p>ОГРН: 1132724010825</p>
+                        <p>ИНН: 2724182990</p>
+                    </div>
+
+                    <h2>Наши сертификаты</h2>
+
+                    <div class="docs-certificates">
+                        <ul>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/dks-2023.pdf"
+                                    >DKC</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/tdm-2023.pdf"
+                                    >TDM Electric</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/SE-2023.pdf"
+                                    >Systeme Electric</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/iek-2023.pdf"
+                                    >IEK</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/sertledel.jpg"
+                                    >LEDEL</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/st.jpg"
+                                    >Световые технологии</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/CHINT-2023.jpg"
+                                    >Chint</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/kab-arm-2023.pdf"
+                                    >Кабельная Арматура</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/svet-k-2023.pdf"
+                                    >Свет Комплект</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/era-2023.jpg"
+                                    >ТМ Эра</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/keaz-2023.pdf"
+                                    >КЭАЗ</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/remz-2023.pdf"
+                                    >РЭМЗ</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/emera.jpg"
+                                    >Энергомера</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/diora-2023.pdf"
+                                    >Диора</a
+                                >
+                            </li>
+                            <li>
+                                <a
+                                    target="_blank"
+                                    href="./assets/img/pdf/dks-2023.pdf"
+                                    >Реле и Автоматика</a
+                                >
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </section>
         </main>
         <!-- End #main -->
 
-        <!-- ======= Footer ======= -->
-        <footer id="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="copyright">
-                            &copy;
-                            <strong>ООО Торговый Дом "Электросистемы"</strong>.
-                            - Все права защищены © 2024
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-        <!-- End Footer -->
-
-        <div id="preloader"></div>
-        <a
-            href="#"
-            class="back-to-top d-flex align-items-center justify-content-center"
-            ><i class="bi bi-arrow-up-short"></i
-        ></a>
-
-        <a
-            href="https://wa.me/+79141500323"
-            target="_blank"
-            class="call-whatsapp"
-            ><i class="bi bi-whatsapp"></i
-        ></a>
-
-        <!-- Vendor JS Files -->
-        <script src="assets/vendor/aos/aos.js"></script>
-        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-        <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-        <script src="assets/vendor/typed.js/typed.umd.js"></script>
-        <script src="assets/vendor/php-email-form/validate.js"></script>
-
-        <!-- Template Main JS File -->
-        <script src="assets/js/main.js"></script>
-    </body>
-</html>
+<?php require_once "./assets/footer.php"; ?>
