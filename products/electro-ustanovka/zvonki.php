@@ -8,7 +8,7 @@ $PageKeyWords = 'звонок, дверной, беспроводной, выз�
 
 $ogUrl = 'https://es-dv.ru/products/electro-ustanovka/zvonki.php';
 
-require_once "./assets/header.php";
+require_once "../../assets/header.php";
 ?>
 
 <body>

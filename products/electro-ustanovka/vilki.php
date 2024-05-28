@@ -8,7 +8,7 @@ $PageKeyWords = 'электрическая вилка, тип, вид, штеп
 
 $ogUrl = 'https://es-dv.ru/products/electro-ustanovka/vilki.php';
 
-require_once "./assets/header.php";
+require_once "../../assets/header.php";
 ?>
 
 <body>

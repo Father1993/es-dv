@@ -8,7 +8,7 @@ $PageKeyWords = 'электроустановочные, шнайдер, schneid
 
 $ogUrl = 'https://es-dv.ru/products/electro-ustanovka/systeme-electric.php';
 
-require_once "./assets/header.php";
+require_once "../../assets/header.php";
 ?>
 
 <body>

@@ -8,7 +8,7 @@ $PageKeyWords = 'розетка, выключатель, вилка, удлин�
 
 $ogUrl = 'https://es-dv.ru/products/electro-ustanovka/udliniteli-na-kotushke.php';
 
-require_once "./assets/header.php";
+require_once "../../assets/header.php";
 ?>
 
 <body>
