@@ -14,41 +14,23 @@
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
     <meta property="og:title" content="Светильники серии НБП - ООО ТД Электросистемы" />
     <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/8-svetilniki-serii-nbp.html" />
+    <meta property="og:url" content="https://es-dv.ru/products/svet/8-svetilniki-serii-nbp.php" />
     <meta property="og:site_name" content="Электросистемы" />
     <meta property="og:description"
         content="Приобрести светильники серии НБП для внутреннего и наружного освещения по оптимальным ценам вы можете в компании ООО ТД Электросистемы" />
 
-    <!-- Favicons -->
+        <?php
+// Переменные для SEO страницы
+$pageTitle = 'Купить автоматические выключатели и другое оборудование DEKraft по привлекательным ценам';
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/img/favicon/favicon-16x16.png" />
-    <link rel="manifest" href="../../assets/img/favicon/site.webmanifest" />
+$pageDescription = 'Продажа по выгодным ценам модульного оборудования среднего ценового сегмента DEKraft от крупнейшего поставщика электрики на Дальнем Востоке';
 
-    <!-- Google Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800"
-        rel="stylesheet" />
+$PageKeyWords = 'модульное оборудование, DEKraft, выключатели , автоматические выключатели, дифференциальные автоматы, выключатели нагрузки, ограничители перенапряжений, модульные контакторы, сигнальные лампы, розетки модульные';
 
-    <!-- Vendor CSS Files -->
-    <link href="../../assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet" />
-    <link href="../../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
-    <link href="../../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
+$ogUrl = 'https://es-dv.ru/products/silovoe/1-oborudovanie-dekraft.php';
 
-    <!-- Template Main CSS File -->
-    <link href="../../assets/css/style.css" rel="stylesheet" />
-
-    <!-- =======================================================
-* Template Name: Imperial
-* Template URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
-* Updated: Mar 17 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-======================================================== -->
-</head>
+require_once "../../assets/header.php";
+?>
 
 <body>
     <!-- ======= Header ======= -->
@@ -113,11 +95,11 @@
                             </li>
 
                             <li class="dropdown">
-                                <a href="../../production.html"><span class="active">Продукция</span>
+                                <a href="../../production.php"><span class="active">Продукция</span>
                                     <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li>
-                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                        <a href="../../products/svet/svetotekhnika.php">Светотехника</a>
                                     </li>
                                     <li>
                                         <a href="../../products/cabel/">Кабель</a>

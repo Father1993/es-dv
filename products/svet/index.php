@@ -14,7 +14,7 @@
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
     <meta property="og:title" content="Продажа ламп и светильников - ООО ТД Электросистемы" />
     <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/svetotekhnika.html" />
+    <meta property="og:url" content="https://es-dv.ru/products/svet/svetotekhnika.php" />
     <meta property="og:site_name" content="Электросистемы" />
     <meta property="og:description"
         content="Широкий ассортимент ламп и светильников по низким ценам от различных производителей: TDM, IEK, LEDEL, Smartbuy, Световые технологии пр." />

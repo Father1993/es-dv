@@ -18,7 +18,7 @@
     <meta property="og:title"
         content="Купить светодиодные лампы IEK различных форм, мощности и под любой цоколь - ООО ТД Электросистемы" />
     <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/44-ledlampy-iek.html" />
+    <meta property="og:url" content="https://es-dv.ru/products/svet/44-ledlampy-iek.php" />
     <meta property="og:site_name" content="Электросистемы" />
     <meta property="og:description"
         content="Продажа LED ламп производства IEK по низким ценам. Большой выбор источников света по мощности, форме и под любой цоколь" />
@@ -117,11 +117,11 @@
                             </li>
 
                             <li class="dropdown">
-                                <a href="../../production.html"><span class="active">Продукция</span>
+                                <a href="../../production.php"><span class="active">Продукция</span>
                                     <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li>
-                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                        <a href="../../products/svet/svetotekhnika.php">Светотехника</a>
                                     </li>
                                     <li>
                                         <a href="../../products/cabel/">Кабель</a>

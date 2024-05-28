@@ -13,7 +13,7 @@
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
     <meta property="og:title" content="Светодиодные фонари -  - ООО ТД Электросистемы" />
     <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/37-svetodiodnye-fonari.html" />
+    <meta property="og:url" content="https://es-dv.ru/products/svet/37-svetodiodnye-fonari.php" />
     <meta property="og:site_name" content="Электросистемы" />
     <meta property="og:description"
         content="Любые светодиодные фонари оптом и в розницу: кемпинговые, налобные, ручные и т.д." />
@@ -112,11 +112,11 @@
                             </li>
 
                             <li class="dropdown">
-                                <a href="../../production.html"><span class="active">Продукция</span>
+                                <a href="../../production.php"><span class="active">Продукция</span>
                                     <i class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li>
-                                        <a href="../../products/svet/svetotekhnika.html">Светотехника</a>
+                                        <a href="../../products/svet/svetotekhnika.php">Светотехника</a>
                                     </li>
                                     <li>
                                         <a href="../../products/cabel/">Кабель</a>
