@@ -27,7 +27,7 @@ require_once "../assets/header.php";
             <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
                     <ol>
-                        <li><a href="../../index.html">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li>Список услуг</li>
                     </ol>
                 </div>

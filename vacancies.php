@@ -28,7 +28,7 @@ require_once "./assets/header.php";
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Открытые вакансии ООО ЭЛЕКТРОСИСТЕМЫ</h2>
                     <ol>
-                        <li><a href="index.php">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li>Наши вакансии</li>
                     </ol>
                 </div>

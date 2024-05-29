@@ -28,7 +28,7 @@ require_once "../assets/header.php";
             <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
                     <ol>
-                        <li><a href="../../index.html">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li>Продукция</li>
                     </ol>
                 </div>
@@ -58,32 +58,49 @@ require_once "../assets/header.php";
 
                     <div class="products-main__wrapper">
                         <div>
-                            <img src="" alt="Светотехника">
+                            <a href="svet/">
+                                <img src="/assets/img/prod-svet.jpg" alt="Светотехника">
+                            </a>
                             <h4>Светотехника</h4>
                             <p></p>
                         </div>
+
                         <div>
-                            <img src="" alt="Кабельная продукция" />
+                            <a href="cabel/">
+                                <img src="/assets/img/prod-cabel.jpg" alt="Кабельная продукция" />
+                            </a>
+
                             <h4>Кабельная продукция</h4>
                             <p></p>
                         </div>
                         <div>
-                            <img src="" alt="Силовое и коммутационное оборудование" />
+                            <a href="silovoe/">
+                                <img src="/assets/img/prod-silovoe.jpg" alt="Силовое и коммутационное оборудование" />
+                            </a>
+
                             <h4>Силовое и коммутационное оборудование</h4>
                             <p></p>
                         </div>
                         <div>
-                            <img src="" alt="Электромонтажные изделия" />
+                            <a href="elektromontazhnye-izdeliya/">
+                                <img src="/assets/img/prod-montaj.jpg" alt="Электромонтажные изделия" />
+                            </a>
+
                             <h4>Электромонтажные изделия</h4>
                             <p></p>
                         </div>
                         <div>
-                            <img src="" alt="Электроустановочные изделия" />
+                            <a href="electro-ustanovka/">
+                                <img src="/assets/img/prod-ustan.jpg" alt="Электроустановочные изделия" />
+                            </a>
+
                             <h4>Электроустановочные изделия</h4>
                             <p></p>
                         </div>
 
                     </div>
+
+                    <hr style="margin-bottom: 100px;">
 
                     <div class="products-main__banner">
                         <img src="../assets/img/svetotekhnika.jpg" alt="Светотехника купить">

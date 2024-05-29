@@ -29,7 +29,7 @@ require_once "./assets/header.php";
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Склад-магазин электротоваров "Электромаркет"</h2>
                     <ol>
-                        <li><a href="index.php">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li>Электромаркет</li>
                     </ol>
                 </div>

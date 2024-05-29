@@ -31,7 +31,7 @@ require_once "./assets/header.php";
                         Electric
                     </h2>
                     <ol>
-                        <li><a href="index.php">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li>Правила установки</li>
                     </ol>
                 </div>

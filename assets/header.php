@@ -23,10 +23,10 @@
         content=<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам'; ?> />
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png" />
-    <link rel="manifest" href="./img/favicon/site.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="/assets/img/favicon/site.webmanifest" />
     <link rel="icon" href="https://es-dv.ru/assets/img/favicon/icon.png" type="image/x-icon" />
 
     <!-- Google Fonts -->

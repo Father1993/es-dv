@@ -27,7 +27,7 @@ require_once "../assets/header.php";
             <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
                     <ol>
-                        <li><a href="../index.php">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li><a href="../services/">Услуги</a></li>
                         <li>
                             Производство всех видов электрощитов и

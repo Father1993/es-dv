@@ -13,8 +13,8 @@ require_once "../../assets/header.php";
 
 <body>
     <!-- ======= Header ======= -->
-    <header id="header" class="d-flex align-items-center">
-        <?php
+    <header id="header" class="d-flex align-items-center"></header>
+    <?php
             // Require header_menu.php file for nav-menu
             require_once "../../assets/header_menu.php";
         ?>
@@ -27,7 +27,7 @@ require_once "../../assets/header.php";
             <div class="container">
                 <div class="d-flex justify-content-between align-items-center">
                     <ol>
-                        <li><a href="../../index.php">Главная</a></li>
+                        <li><a href="/">Главная</a></li>
                         <li><a href="../">Продукция</a></li>
                         <li><a href="./">Кабельная продукция</a></li>
                         <li>Витая пара TDM</li>
