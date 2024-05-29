@@ -84,7 +84,7 @@
                     <li><a href="/vacancies.php">Вакансии</a></li>
                     <li><a href="/docs.php">Документы</a></li>
                     <li>
-                        <a href="/shop.html">Магазин Электромаркет</a>
+                        <a href="/shop.php">Магазин Электромаркет</a>
                     </li>
                 </ul>
             </li>
