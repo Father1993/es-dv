@@ -178,7 +178,7 @@ require_once "../../assets/header.php";
                                 Благодаря мостовым винтовым зажимам в
                                 розетках возможно параллельное соединение
                                 нескольких рядом стоящих розеток без
-                                использования <a href="#">клеммников</a>.
+                                использования <a href="../elektromontazhnye-izdeliya/16-stroitelno-montazhnye-klemmy.php">клеммников</a>.
                             </p>
                         </div>
 

@@ -206,11 +206,11 @@ require_once "../../assets/header.php";
 
                     <hr />
 
-                    <span class="span-spec__border">Смотрите также <a href="#">Гофротруба</a>,
-                        <a href="#"> Гладкая труба ПВХ</a>,
-                        <a href="#">Труба двустенная ПВХ</a>, кабеленесущие
-                        системы: <a href="#">TDM</a>, <a href="#">IEK</a>,
-                        <a href="#">DKC</a></span>
+                    <span class="span-spec__border">Смотрите также <a href="11-truba-gofrirovannaya-pvkh.php">Гофротруба</a>,
+                        <a href="25-truba-gladkaya-pvkh.php"> Гладкая труба ПВХ</a>,
+                        <a href="30-truba-dvustennaya-pvkh.php">Труба двустенная ПВХ</a>, кабеленесущие
+                        системы: <a href="3-kabelenesusshie-sistemy-tdm.php">TDM</a>, <a href="4-kabelenesusshie-sistemy-iek.php">IEK</a>,
+                        <a href="7-metallicheskie-lotki-dkc-u5-combitech.php">DKC</a></span>
                 </div>
             </div>
         </section>

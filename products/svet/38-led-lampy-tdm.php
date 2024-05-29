@@ -79,9 +79,9 @@ require_once "../../assets/header.php";
                         <a href="../../contacts.php">КОНТАКТЫ</a>.
                     </p>
 
-                    <span class="span-spec__border">Смотрите также LED лампы <a href="#">Smartbuy</a>,
-                        <a href="#">светодиодная лента TDM</a>,
-                        <a href="#">светодиодная трубка T8</a></span>
+                    <span class="span-spec__border">Смотрите также LED лампы <a href="41-svetodiodnye-lampy-smartbuy.php">Smartbuy</a>,
+                        <a href="40-led-lenta-tdm.php">светодиодная лента TDM</a>,
+                        </span>
                 </div>
                 <hr />
 

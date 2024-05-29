@@ -58,7 +58,7 @@ require_once "../../assets/header.php";
 
                 <span class="span-spec__border">
                     Смотрите также розетки и выключатели:
-                    <a href="#">TDM</a>, <a href="#">Schneider Electric</a>,
+                    <a href="rozetki-tdm.php">TDM</a>, <a href="systeme-electric.php">Schneider Electric</a>,
                 </span>
 
                 <h3>Описание</h3>
@@ -86,11 +86,11 @@ require_once "../../assets/header.php";
                     России, Украине, Венгрии, Румынии и Италии. Более 26000
                     номенклатурных наименований продукции делятся на
                     несколько групп:
-                    <a href="#">электрощитовое</a> оборудование,
-                    <a href="#">электроустановочные</a> изделия,
-                    металлические и пластиковые <a href="#">трубы</a>,
-                    <a href="#">кабельные каналы</a> и
-                    <a href="#">металлические лотки</a>, системы для
+                    <a href="../silovoe/30-elektrosshitovoe-oborudovanie.php">электрощитовое</a> оборудование,
+                    <a href="../silovoe/18-elektrosshity-v-sbore.php">электроустановочные</a> изделия,
+                    металлические и пластиковыетрубы,
+                    <a href="../elektromontazhnye-izdeliya/3-kabelenesusshie-sistemy-tdm.php">кабельные каналы</a> и
+                    <a href="../elektromontazhnye-izdeliya/6-metallicheskie-lotki-dkc-s5-combitech.php">металлические лотки</a>, системы для
                     кондиционирования, шинопроводы, молниезащита и
                     заземление. Для рядового потребителя большой интерес
                     представляют электроустановочные изделия DKC серий Brava

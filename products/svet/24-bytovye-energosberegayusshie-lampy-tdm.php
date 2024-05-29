@@ -141,8 +141,8 @@ require_once "../../assets/header.php";
                     </div>
 
                     <span class="span-spec__border">Смотрите также светотехническая продукция-
-                        <a href="#">Световые технологии</a> ,
-                        <a href="#">Smartbuy</a></span>
+                        <a href="42-svetilniki-svetovye-tekhnologii.php">Световые технологии</a> ,
+                        <a href="41-svetodiodnye-lampy-smartbuy.php">Smartbuy</a></span>
                 </div>
             </div>
         </section>

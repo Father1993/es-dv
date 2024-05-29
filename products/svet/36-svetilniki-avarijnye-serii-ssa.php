@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="ru">
-
-<head>
-    <meta charset="utf-8" />
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-
-    <title>Светильники аварийные серии ССА - ООО "ТД"Электросистемы"</title>
-    <meta name="description" content="Аварийные светильники ССА оптом и в розницу" />
-    <meta name="keywords" content="освещение, светильник, аккумуляторный, люминесцентный, энергосберегающий, продажа" />
-
-    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
-    <meta property="og:title" content="Светильники аварийные серии ССА - ООО ТД Электросистемы" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
-    <meta property="og:url" content="https://es-dv.ru/products/svet/36-svetilniki-avarijnye-serii-ssa.php" />
-    <meta property="og:site_name" content="Электросистемы" />
-    <meta property="og:description" content="Аварийные светильники ССА оптом и в розницу" />
-
-
-    <?php
+<?php
 // Переменные для SEO страницы
 $pageTitle = 'Светильники аварийные серии ССА - ООО ТД Электросистемы';
 
@@ -95,11 +76,11 @@ require_once "../../assets/header.php";
                             <p>
                                 Предлагаются в одно и двухстороннем
                                 исполнении. Режим рабочего освещения от сети
-                                230В. Режим <a href="#">аварийного</a>
-                                <a href="#">освещения</a> - от аккумулятора.
+                                230В. Режим <a href="36-svetilniki-avarijnye-serii-ssa.php">аварийного</a>
+                                <a href="39-svetilniki-akkumulyatornye-svetodiodnye.php">освещения</a> - от аккумулятора.
                                 Источником света является
-                                <a href="#">светодиодная</a> линейка, либо
-                                <a href="#">люминесцентная</a>
+                                <a href="32-raznovidnosti-svetodiodnykh-lamp.php">светодиодная</a> линейка, либо
+                                <a href="18-lampy-lyuminescentnye.php">люминесцентная</a>
                                 лампа. Корпус светильника выполнен из
                                 алюминиевого сплава. Материал плафона -
                                 стекло.

@@ -59,9 +59,9 @@ require_once "../../assets/header.php";
                 <hr />
 
                 <span class="span-spec__border">Компания ООО "ТД"Электросистемы" предлагает к продаже
-                    светотехнику торговых марок <a href="#">LEDEL</a>,
-                    <a href="#">TDM</a>, <a href="#">Smartbuy</a>,
-                    <a href="#">Световые технологии</a> и др.</span>
+                    светотехнику торговых марок <a href="46-svetodiodnye-svetilniki-ledel.php">LEDEL</a>,
+                    <a href="38-led-lampy-tdm.php">TDM</a>, <a href="41-svetodiodnye-lampy-smartbuy.php">Smartbuy</a>,
+                    <a href="42-svetilniki-svetovye-tekhnologii.php">Световые технологии</a> и др.</span>
 
                 <div class="products-cabel__about">
                     <h3 class="products-cabel__about-title">Описание</h3>

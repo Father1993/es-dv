@@ -80,7 +80,7 @@ require_once "../../assets/header.php";
                                 складских, жилых многоквартирных помещениях
                                 в сетях освещения, внутренней разводке, а
                                 так же в качестве вводного кабеля в
-                                <a href="#">распределительные устройства</a>.
+                                <a href="../silovoe/1-oborudovanie-dekraft.php">распределительные устройства</a>.
                             </p>
 
                             <p>
@@ -130,7 +130,7 @@ require_once "../../assets/header.php";
                             </p>
 
                             <p>
-                                <strong><a href="#">Расшифровка</a> кабеля
+                                <strong><a href="markirovka-kabelno-provodnikovoj.php">Расшифровка</a> кабеля
                                     АВВГ:</strong>
                             </p>
 

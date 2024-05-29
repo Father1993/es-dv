@@ -159,9 +159,9 @@ require_once "../../assets/header.php";
                         равны по величине, но противоположны по направлению.
                     </p>
 
-                    <span class="span-spec__border">Смотрите также <a href="#">мультиметр</a>,
-                        <a href="#">отвертка-индикатор</a>,
-                        <a href="#">указатель высокого напряжения</a></span>
+                    <span class="span-spec__border">Смотрите также <a href="27-multimetr.php">мультиметр</a>,
+                        <a href="33-otvertka-indikator.php">отвертка-индикатор</a>,
+                        <a href="29-ukazatel-vysokogo-napryazheniya.php">указатель высокого напряжения</a></span>
 
                     <p style="text-align: center">Минутка юмора</p>
 

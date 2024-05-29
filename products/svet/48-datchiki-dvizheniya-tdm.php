@@ -73,7 +73,7 @@ require_once "../../assets/header.php";
                     </p>
 
                     <p>
-                        <a href="#">Принцип действия датчиков движения
+                        <a href="28-datchiki-dvizheniya.php">Принцип действия датчиков движения
                             инфракрасного типа</a>
                     </p>
 
@@ -637,7 +637,7 @@ require_once "../../assets/header.php";
                     </p>
 
                     <p>
-                        <a href="#">Принцип действия датчиков движения
+                        <a href="28-datchiki-dvizheniya.php">Принцип действия датчиков движения
                             микроволнового типа</a>
                     </p>
 

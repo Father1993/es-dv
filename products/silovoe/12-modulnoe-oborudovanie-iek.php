@@ -501,7 +501,7 @@ require_once "../../assets/header.php";
                         <div>
                             <h4 class="">Таймеры освещения ТО-47</h4>
                             <p>
-                                <a href="#">Таймеры освещения</a>
+                                <a href="../svet/50-tajmery-i-svetoregulyatory.php">Таймеры освещения</a>
                                 предназначены для автоматического включения
                                 и отключения освещения лестничной площадки,
                                 коридора или другого объекта в течение
@@ -658,7 +658,7 @@ require_once "../../assets/header.php";
                             </h4>
                             <p>
                                 Служит для световой индикации
-                                <a href="#">наличия напряжения</a> в каждой
+                                <a href="../elektromontazhnye-izdeliya/33-otvertka-indikator.php">наличия напряжения</a> в каждой
                                 из фаз.
                             </p>
                         </div>

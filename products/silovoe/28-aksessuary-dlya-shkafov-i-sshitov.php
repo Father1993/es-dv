@@ -317,7 +317,7 @@ require_once "../../assets/header.php";
                         <img class="flex__container-images" src="./img/15.jpg" alt="Маркеры кабельные серии МК" />
                         <div>
                             <h4 class="">
-                                <a href="#">Маркеры кабельные</a> серии МК
+                                <a href="../elektromontazhnye-izdeliya/17-markery-kabelnye.php">Маркеры кабельные</a> серии МК
                             </h4>
                             <p>
                                 Применяются для разметки кабеля и проводов в
@@ -333,7 +333,7 @@ require_once "../../assets/header.php";
                         <img class="flex__container-images" src="./img/16.jpg" alt="Лента спиральная монтажная" />
                         <div>
                             <h4 class="">
-                                <a href="#">Лента спиральная монтажная</a>
+                                <a href="../elektromontazhnye-izdeliya/22-lenta-spiralnaya-montazhnaya-plastikovaya.php">Лента спиральная монтажная</a>
                             </h4>
                             <p>
                                 Применяется для объединения электрических
@@ -452,8 +452,8 @@ require_once "../../assets/header.php";
                                     выключатели</a>,
                                 <a href="24-rubilniki-i-razediniteli.php">
                                     выключатели нагрузки</a>,
-                                <a href="#">
-                                    устройства управления освещением</a>, <a href="#">таймеры</a>,
+                                <a href="../electro-ustanovka/rozetki-i-vyklyuchateli-dkc.php">
+                                    устройства управления освещением</a>, <a href="../svet/50-tajmery-i-svetoregulyatory.php">таймеры</a>,
                                 <a href="27-kontaktory.php">контакторы</a>
                                 и т.д.) в корпусах электрощитов.
                             </p>

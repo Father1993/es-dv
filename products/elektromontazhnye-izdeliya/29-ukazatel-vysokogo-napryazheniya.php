@@ -59,9 +59,9 @@ require_once "../../assets/header.php";
 
                 <div class="products-cabel__about">
                     <h3 class="products-cabel__about-title">Описание</h3>
-                    <span class="span-spec__border">Смотрите также <a href="#">мультиметр</a>,
-                        <a href="#">клещи токоизмерительные</a>,
-                        <a href="#">отвертка-индикатор</a>.</span>
+                    <span class="span-spec__border">Смотрите также <a href="27-multimetr.php">мультиметр</a>,
+                        <a href="34-klesshi-tokoizmeritelnye.php">клещи токоизмерительные</a>,
+                        <a href="33-otvertka-indikator.php">отвертка-индикатор</a>.</span>
 
                     <h4 class="svet-title">
                         Применение указателей высокого напряжения

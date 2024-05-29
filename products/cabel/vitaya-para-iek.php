@@ -61,7 +61,7 @@ require_once "../../assets/header.php";
                         <p>- Размер скачиваемого файла 17 Мб</p>
                     </div>
 
-                    <span class="span-spec__border">Смотрите также витая пара <a href="#">TDM</a> ,
+                    <span class="span-spec__border">Смотрите также витая пара <a href="vitaya-para-tdm.php">TDM</a> ,
                         <a href="kabel-svyazi-kompyuternyj.php">кабель связи</a></span>
 
                     <p>

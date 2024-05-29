@@ -205,8 +205,7 @@ require_once "../../assets/header.php";
 
                     <p>
                         <strong>Смотрите также
-                            <a href="#">Светодиодные трубки Т8</a> и
-                            <a href="#">Светодиодные панели</a></strong>
+                            <a href="33-svetodiodnye-paneli.php">Светодиодные панели</a></strong>
                     </p>
                 </div>
             </div>

@@ -65,9 +65,9 @@ require_once "../../assets/header.php";
                     </div>
 
                     <span class="span-spec__border">Смотрите также
-                        <a href="#">указатель высокого напряжения</a>,
-                        <a href="#">клещи токоизмерительные</a>,
-                        <a href="#">отвертка-индикатор</a>.</span>
+                        <a href="29-ukazatel-vysokogo-napryazheniya.php">указатель высокого напряжения</a>,
+                        <a href="34-klesshi-tokoizmeritelnye.php">клещи токоизмерительные</a>,
+                        <a href="33-otvertka-indikator.php">отвертка-индикатор</a>.</span>
 
                     <div class="flex__container revers-img">
                         <div>

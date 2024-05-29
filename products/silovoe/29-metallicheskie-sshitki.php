@@ -91,7 +91,7 @@ require_once "../../assets/header.php";
                                 аппаратуры (<a href="25-avtomaticheskie-vyklyuchateli.php">автоматические
                                     выключатели</a>,
                                 <a href="24-rubilniki-i-razediniteli.php">выключатели нагрузки</a>,
-                                <a href="#">устройства управления освещением</a>, <a href="#">таймеры</a>,
+                                <a href="../electro-ustanovka/rozetki-i-vyklyuchateli-dkc.php">устройства управления освещением</a>, <a href="../svet/50-tajmery-i-svetoregulyatory.php">таймеры</a>,
                                 <a href="27-kontaktory.php">контакторы</a>
                                 и т.д.), для приема и распределения
                                 электроэнергии напряжением 380/220 В 1- и

@@ -166,9 +166,9 @@ require_once "../../assets/header.php";
 
                     <hr />
 
-                    <span class="span-spec__border">Смотрите также <a href="#">мультиметр</a>,
+                    <span class="span-spec__border">Смотрите также <a href="27-multimetr.php">мультиметр</a>,
                         <a href="34-klesshi-tokoizmeritelnye.php">клещи токоизмерительные</a>,
-                        <a href="#">указатель высокого напряжения</a></span>
+                        <a href="29-ukazatel-vysokogo-napryazheniya.php">указатель высокого напряжения</a></span>
                 </div>
             </div>
         </section>

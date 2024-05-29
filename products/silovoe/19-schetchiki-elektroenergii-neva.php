@@ -305,7 +305,7 @@ require_once "../../assets/header.php";
                                 </li>
                                 <li>
                                     Электронной пломбой крышки
-                                    <a href="#">клеммной колодки</a>.
+                                    <a href="../elektromontazhnye-izdeliya/31-kolodki.php">клеммной колодки</a>.
                                 </li>
                                 <li>
                                     Аппаратной защитой разрешения записи.

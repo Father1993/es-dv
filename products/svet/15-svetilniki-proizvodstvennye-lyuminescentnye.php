@@ -171,7 +171,7 @@ require_once "../../assets/header.php";
 
                     <p>
                         <strong>Смотрите также
-                            <a href="#">Светильники аккумуляторные
+                            <a href="27-svetilniki-akkumulyatornye-lyuminescentnye.php">Светильники аккумуляторные
                                 люминесцентные</a></strong>
                     </p>
                 </div>

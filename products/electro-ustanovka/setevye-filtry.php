@@ -58,8 +58,8 @@ require_once "../../assets/header.php";
 
                 <span class="span-spec__border">
                     Смотрите также удлинители :
-                    <a href="#">TDM</a>, <a href="#">IEK</a>,
-                    <a href="#">удлинители на катушках</a>.
+                    <a href="udlinitel-tdm.php">TDM</a>, <a href="udlinitel-iek.php">IEK</a>,
+                    <a href="udliniteli-na-kotushke.php">удлинители на катушках</a>.
                 </span>
 
                 <div class="systeme-electric__about">

@@ -175,11 +175,11 @@ require_once "../../assets/header.php";
                         <p>
                             <strong>Наша компания является официальным дилером
                                 таких производителей как
-                                <a href="#">TDM Electric</a>,
-                                <a href="#">Smartbuy</a>,
-                                <a href="#">LEDEL</a>,
-                                <a href="#">Световые технологии</a>,
-                                <a href="#">IEK</a>, поэтому мы гарантируем
+                                <a href="https://tdmelectric.ru/">TDM Electric</a>,
+                                <a href="https://smartbuy-russia.ru/">Smartbuy</a>,
+                                <a href="https://ledel.ru/">LEDEL</a>,
+                                <a href="https://www.ltcompany.com/">Световые технологии</a>,
+                                <a href="https://www.iek.ru/">IEK</a>, поэтому мы гарантируем
                                 наилучшие условия продажи светотехники на
                                 рынке Дальнего Востока.</strong>
                         </p>

@@ -102,7 +102,7 @@ require_once "../../assets/header.php";
 
                             <p>
                                 <strong>Преимущества
-                                    <a href="#">LED лент</a> TDM:</strong>
+                                    <a href="38-led-lampy-tdm.php">LED лент</a> TDM:</strong>
                             </p>
 
                             <ul>

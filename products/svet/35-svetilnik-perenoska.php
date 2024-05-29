@@ -226,7 +226,7 @@ require_once "../../assets/header.php";
                             <p>
                                 <strong>
                                     Светильники переносные с
-                                    <a href="#">люминесцентными</a>
+                                    <a href="18-lampy-lyuminescentnye.php">люминесцентными</a>
                                     лампами</strong>
                             </p>
 

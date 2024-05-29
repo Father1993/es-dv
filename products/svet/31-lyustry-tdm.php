@@ -86,8 +86,8 @@ require_once "../../assets/header.php";
                             Патроны из термостойкого пластика с цоколем Е14.
                         </li>
                         <li>
-                            Используемые типы ламп: <a href="#">ЛОН</a>,
-                            <a href="#">КЛЛ</a>, <a href="#">LED</a>.
+                            Используемые типы ламп: <a href="19-lampy-nakalivaniya.php">ЛОН</a>,
+                            <a href="18-lampy-lyuminescentnye.php">КЛЛ</a>, <a href="44-ledlampy-iek.php">LED</a>.
                         </li>
                     </ul>
 

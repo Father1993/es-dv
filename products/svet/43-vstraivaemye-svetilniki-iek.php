@@ -98,9 +98,9 @@ require_once "../../assets/header.php";
                     </p>
 
                     <span class="span-spec__border">Смотрите также светотехническая продукция TDM (
-                        <a href="#">лампы</a>, <a href="#">фонари</a>),
-                        <a href="#">Световые технологии</a>,
-                        <a class="svet-span-ledel" href="#">LEDEL</a></span>
+                        <a href="24-bytovye-energosberegayusshie-lampy-tdm.php">лампы</a>, <a href="26-fonari.php">фонари</a>),
+                        <a href="42-svetilniki-svetovye-tekhnologii.php">Световые технологии</a>,
+                        <a class="svet-span-ledel" href="46-svetodiodnye-svetilniki-ledel.php">LEDEL</a></span>
                 </div>
 
                 <hr />

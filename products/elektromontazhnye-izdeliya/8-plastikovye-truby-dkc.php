@@ -287,7 +287,7 @@ require_once "../../assets/header.php";
 
                     <span class="span-spec__border">Смотрите также кабеленесущие системы
                         <a href="3-kabelenesusshie-sistemy-tdm.php"></a>
-                        TDM</a>, <a href="#">IEK</a>
+                        TDM</a>, <a href="4-kabelenesusshie-sistemy-iek.php">IEK</a>
                     </span>
                 </div>
             </div>

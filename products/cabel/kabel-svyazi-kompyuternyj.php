@@ -245,7 +245,7 @@ require_once "../../assets/header.php";
 
                     <p>
                         <strong>Обжим витой пары:</strong> как
-                        <a href="#">обжимать</a> витую пару 5 категории (UTP
+                        <a href="../elektromontazhnye-izdeliya/35-klesshi-obzhimnye.php">обжимать</a> витую пару 5 категории (UTP
                         5e) схема 4(эконом. цена) и 8 проводного
                         подключения:
                     </p>

@@ -226,7 +226,7 @@ require_once "../../assets/header.php";
 
                     <span class="span-spec__border">Смотрите также
                         <a href="armatura-k-provodu-sip.php">арматура</a>
-                        и <a href="#">инструменты</a> для СИП</span>
+                        и <a href="../elektromontazhnye-izdeliya/24-instrumenty-dlya-sip.php">инструменты</a> для СИП</span>
                 </div>
 
                 <hr />
