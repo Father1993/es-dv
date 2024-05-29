@@ -180,7 +180,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek002.jpg" alt="" />
+                                        <img src="./img/iek002.jpg" alt="Светильник ДВО 1601 белый круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1601 белый круг LED
@@ -196,7 +196,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek003.jpg" alt="" />
+                                        <img src="./img/iek003.jpg" alt="Светильник ДВО 1602 белый круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1602 белый круг LED
@@ -212,7 +212,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek005.jpg" alt="" />
+                                        <img src="./img/iek005.jpg" alt="Светильник ДВО 1603 серебро круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1603 серебро круг LED
@@ -228,7 +228,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek006.jpg" alt="" />
+                                        <img src="./img/iek006.jpg" alt="Светильник ДВО 1604 серебро круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1604 серебро круг LED
@@ -244,7 +244,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek007.jpg" alt="" />
+                                        <img src="./img/iek007.jpg" alt="Светильник ДВО 1605 белый круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1605 белый круг LED
@@ -260,7 +260,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek009.jpg" alt="" />
+                                        <img src="./img/iek009.jpg" alt="Светильник ДВО 1606 серебро круг LED" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1606 серебро круг LED
@@ -276,7 +276,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek011.jpg" alt="" />
+                                        <img src="./img/iek011.jpg" alt="Светильник ДВО 1607 белый круг LED 18Вт 4000 IP20" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1607 белый круг LED
@@ -292,7 +292,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek013.jpg" alt="" />
+                                        <img src="./img/iek013.jpg" alt="Светильник ДВО 1608 серебро" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1608 серебро круг LED

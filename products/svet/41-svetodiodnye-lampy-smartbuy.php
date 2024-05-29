@@ -171,9 +171,9 @@ require_once "../../assets/header.php";
                                 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Эко" />
+                                <img src="./img/sb2.png" alt="Экономия электроэнергии" />
+                                <img src="./img/sb3.png" alt="Палец вверх" />
                             </div>
                         </div>
                     </div>
@@ -200,9 +200,9 @@ require_once "../../assets/header.php";
                                 высокоэффективный драйвер.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экологическая чистота" />
+                                <img src="./img/sb2.png" alt="Экономия электричества" />
+                                <img src="./img/sb3.png" alt="Палец вверх" />
                             </div>
                         </div>
                     </div>
@@ -230,9 +230,9 @@ require_once "../../assets/header.php";
                                 3000 K и 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Эко" />
+                                <img src="./img/sb2.png" alt="Экономия электроэнергии" />
+                                <img src="./img/sb3.png" alt="Картинка палец вверх" />
                             </div>
                         </div>
                     </div>
@@ -259,9 +259,9 @@ require_once "../../assets/header.php";
                                 3000 K и 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -289,9 +289,9 @@ require_once "../../assets/header.php";
                                 3000 K и 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -318,9 +318,9 @@ require_once "../../assets/header.php";
                                 3000 K и 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экологичный продукт" />
+                                <img src="./img/sb2.png" alt="Экономия электричества" />
+                                <img src="./img/sb3.png" alt="Палец вверх" />
                             </div>
                         </div>
                     </div>
@@ -349,9 +349,9 @@ require_once "../../assets/header.php";
                                 3000 K и 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экологичность" />
+                                <img src="./img/sb2.png" alt="Экономия электричества" />
+                                <img src="./img/sb3.png" alt="Палец вверх" />
                             </div>
                         </div>
                     </div>
@@ -379,9 +379,9 @@ require_once "../../assets/header.php";
                                 4000 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -408,9 +408,9 @@ require_once "../../assets/header.php";
                                 4000 К .
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -435,9 +435,9 @@ require_once "../../assets/header.php";
                                 излучаемого света 4100 К и 6400 К.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -459,9 +459,9 @@ require_once "../../assets/header.php";
                                 света.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>
@@ -486,9 +486,9 @@ require_once "../../assets/header.php";
                                 светодиодов.
                             </p>
                             <div class="smartbuy-flex-images">
-                                <img src="./img/sb1.png" alt="" />
-                                <img src="./img/sb2.png" alt="" />
-                                <img src="./img/sb3.png" alt="" />
+                                <img src="./img/sb1.png" alt="Экология" />
+                                <img src="./img/sb2.png" alt="Экономия" />
+                                <img src="./img/sb3.png" alt="Лучшее качество" />
                             </div>
                         </div>
                     </div>

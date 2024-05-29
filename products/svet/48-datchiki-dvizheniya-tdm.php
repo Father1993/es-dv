@@ -227,7 +227,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0004.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0004-80.jpg" alt="" width="80" height="53" /></a>
+                                                src="./img/TDM-SQ0324-0004-80.jpg" alt="Датчик движения" width="80" height="53" /></a>
                                     </td>
                                     <td>Датчик движения ДДП-01</td>
                                     <td>SQ0324-0004</td>
@@ -244,7 +244,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0005.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0005 - 80.jpg" alt="" width="80"
+                                                src="./img/TDM-SQ0324-0005 - 80.jpg" alt="Датчик движения TDM" width="80"
                                                 height="53" /></a>
                                     </td>
                                     <td>Датчик движения ДДП-02</td>
@@ -262,7 +262,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0018.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0018 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0018 - 80.jpg" alt="Датчик движения ДДП-03" /></a>
                                     </td>
                                     <td>Датчик движения ДДП-03</td>
                                     <td>SQ0324-0018</td>
@@ -281,7 +281,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0023.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0023 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0023 - 80.jpg" alt="Датчик движения ДДП-04" /></a>
                                     </td>
                                     <td>Датчик движения ДДП-04</td>
                                     <td>SQ0324-0023</td>
@@ -300,7 +300,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0016.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0016 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0016 - 80.jpg" alt="Датчик движения ДДПт-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДПт-01</td>
                                     <td>SQ0324-0016</td>
@@ -319,7 +319,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0017.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0017 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0017 - 80.jpg" alt="Датчик движения ДДТ-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДТ-01</td>
                                     <td>SQ0324-0017</td>
@@ -340,7 +340,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0026.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0026 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0026 - 80.jpg" alt="Датчик движения ДДТ-02" /></a>
                                     </td>
                                     <td>Датчик движения ДДТ-02</td>
                                     <td>SQ0324-0026</td>
@@ -359,7 +359,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0022.jpg" target="_blank"><img
-                                                src=" ./img/TDM-SQ0324-0022 - 80.jpg" alt="" /></a>
+                                                src=" ./img/TDM-SQ0324-0022 - 80.jpg" alt="Датчик движения ДДСк-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДСк-01</td>
                                     <td>SQ0324-0022</td>
@@ -381,7 +381,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0006.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0006 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0006 - 80.jpg" alt="Датчик движения ДДС-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДС-01</td>
                                     <td>SQ0324-0006</td>
@@ -400,7 +400,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0007.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0007 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0007 - 80.jpg" alt="Датчик движения ДДС-02" /></a>
                                     </td>
                                     <td>Датчик движения ДДС-02</td>
                                     <td>SQ0324-0007</td>
@@ -418,7 +418,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0008.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0008 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0008 - 80.jpg" alt="Датчик движения ДДС-03" /></a>
                                     </td>
                                     <td>Датчик движения ДДС-03</td>
                                     <td>SQ0324-0008</td>
@@ -436,7 +436,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0009.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0009 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0009 - 80.jpg" alt="Датчик движения ДДС-04" /></a>
                                     </td>
                                     <td>Датчик движения ДДС-04</td>
                                     <td>SQ0324-0009</td>
@@ -454,7 +454,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0024.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0024 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0024 - 80.jpg" alt="Датчик движения ДДС-05" /></a>
                                     </td>
                                     <td>Датчик движения ДДС-05</td>
                                     <td>SQ0324-0024</td>
@@ -476,7 +476,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0010.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0010 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0010 - 80.jpg" alt="Датчик движения ДДУ-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДУ-01</td>
                                     <td>SQ0324-0010</td>
@@ -500,7 +500,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0011.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0011 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0011 - 80.jpg" alt="Датчик движения ДДВ-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДВ-01</td>
                                     <td>SQ0324-0011</td>
@@ -519,7 +519,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0012.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0012 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0012 - 80.jpg" alt="Датчик движения ДДВ-02" /></a>
                                     </td>
                                     <td>Датчик движения ДДВ-02</td>
                                     <td>SQ0324-0012</td>
@@ -537,7 +537,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0013.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0013 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0013 - 80.jpg" alt="Датчик движения ДДВ-03" /></a>
                                     </td>
                                     <td>
                                         Датчик движения ДДВ-03 (с
@@ -561,7 +561,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0014.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0014 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0014 - 80.jpg" alt="Датчик движения ДДПр-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДПр-01</td>
                                     <td>SQ0324-0014</td>
@@ -580,7 +580,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0027.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0027 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0027 - 80.jpg" alt="Датчик движения ДДР-01" /></a>
                                     </td>
                                     <td>Датчик движения ДДР-01</td>
                                     <td>SQ0324-0027</td>
@@ -701,7 +701,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0015.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0015 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0015 - 80.jpg" alt="Датчик движения микроволновый ДДМ-01" /></a>
                                     </td>
                                     <td>
                                         Датчик движения микроволновый ДДМ-01
@@ -722,7 +722,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0021.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0021 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0021 - 80.jpg" alt="Датчик движения микроволновый ДДМ-02" /></a>
                                     </td>
                                     <td>
                                         Датчик движения микроволновый ДДМ-02
@@ -743,7 +743,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0028.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0028 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0028 - 80.jpg" alt="Датчик движения микроволновый" /></a>
                                     </td>
                                     <td>
                                         Датчик движения микроволновый
@@ -769,7 +769,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="./img/TDM-SQ0324-0029.jpg" target="_blank"><img
-                                                src="./img/TDM-SQ0324-0029 - 80.jpg" alt="" /></a>
+                                                src="./img/TDM-SQ0324-0029 - 80.jpg" alt="Датчик движения микроволновый ДДМ-04Т" /></a>
                                     </td>
                                     <td>
                                         Датчик движения микроволновый

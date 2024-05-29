@@ -382,7 +382,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image005-1.jpg" alt="" />
+                                        <img src="./img/DRO_image005-1.jpg" alt="ДРО 2060М" />
                                     </td>
                                     <td>ДРО 2060М</td>
                                     <td>LDRO1-2060M-79-3H-K02</td>
@@ -396,7 +396,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image014.jpg" alt="" />
+                                        <img src="./img/DRO_image014.jpg" alt="ДРО 2026" />
                                     </td>
                                     <td>ДРО 2026</td>
                                     <td>LDRO1-2026-27-3H-K02</td>
@@ -413,7 +413,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image029.jpg" alt="" width="110" />
+                                        <img src="./img/DRO_image029.jpg" alt="ДРО 2030" width="110" />
                                     </td>
                                     <td>ДРО 2030</td>
                                     <td>LDRO1-2030-42-3H-K53</td>
@@ -428,7 +428,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image049.jpg" alt="" />
+                                        <img src="./img/DRO_image049.jpg" alt="ДРО 2060" />
                                     </td>
                                     <td>ДРО 2060</td>
                                     <td>LDRO2-2060-60-5M-K02</td>
@@ -439,7 +439,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image055.jpg" alt="" />
+                                        <img src="./img/DRO_image055.jpg" alt="ДРО 2063Л" />
                                     </td>
                                     <td>ДРО 2063Л</td>
                                     <td>LDRO1-2062L-63-3H-K02</td>
@@ -458,7 +458,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image078.jpg" alt="" />
+                                        <img src="./img/DRO_image078.jpg" alt="ДРО 2024А" />
                                     </td>
                                     <td>ДРО 2024А</td>
                                     <td>LDRO0-2024A-25-05-K02</td>
@@ -471,7 +471,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image080.jpg" alt="" />
+                                        <img src="./img/DRO_image080.jpg" alt="ДРО 2024Р" />
                                     </td>
                                     <td>ДРО 2024Р</td>
                                     <td>LDRO0-2024A-25-05-K02</td>
@@ -482,7 +482,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/DRO_image097.jpg" alt="" />
+                                        <img src="./img/DRO_image097.jpg" alt="ДРО 2024Р" />
                                     </td>
                                     <td>ДРО 2024Р</td>
                                     <td>LDRO1-2026-27-3H-K02</td>

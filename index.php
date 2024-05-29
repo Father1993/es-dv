@@ -781,22 +781,22 @@ require_once "./assets/header.php";
                     </div>
                     <div class="team-block__images">
                         <div class="team-block__images-card team-one">
-                            <img src="./assets/img/team/team3.jpg" alt="" />
+                            <img src="./assets/img/team/team3.jpg" alt="Команда Электросистемы" />
                         </div>
                         <div class="team-block__images-card team-two">
-                            <img src="./assets/img/team/team2.jpg" alt="" />
+                            <img src="./assets/img/team/team2.jpg" alt="Наши сотрудники" />
                         </div>
                         <div class="team-block__images-card team-three">
-                            <img src="./assets/img/team/team4.jpg" alt="" />
+                            <img src="./assets/img/team/team4.jpg" alt="Корпоративный отдых" />
                         </div>
                         <div class="team-block__images-card team-four">
-                            <img src="./assets/img/team/team1.jpg" alt="" />
+                            <img src="./assets/img/team/team1.jpg" alt="Корпаратив" />
                         </div>
                         <div class="team-block__images-card team-fifth">
-                            <img src="./assets/img/team/team5.jpg" alt="" />
+                            <img src="./assets/img/team/team5.jpg" alt="Наша команда" />
                         </div>
                         <div class="team-block__images-card team-six">
-                            <img src="./assets/img/team/team6.jpg" alt="" />
+                            <img src="./assets/img/team/team6.jpg" alt="Сотрудники компаниина отдыхе" />
                         </div>
                     </div>
                 </div>

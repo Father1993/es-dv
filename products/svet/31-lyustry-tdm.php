@@ -149,7 +149,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0001.jpg" target="_blank"><img
-                                                src="./img/lystry_2.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_2.jpg" alt="Бра НББ-09-02-1х40" width="90" /></a>
                                     </td>
                                     <td>
                                         Бра НББ-09-02-1х40 «Глория» белый с
@@ -167,7 +167,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0010.jpg" target="_blank"><img
-                                                src="./img/lystry_3.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_3.jpg" alt="Люстра НПБ-01-22-6х40" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НПБ-01-22-6х40 «Сканди» антик
@@ -185,7 +185,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0011.jpg" target="_blank"><img
-                                                src="./img/lystry_4.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_4.jpg" alt="Люстра НПБ-01-22-10х25 Люстра НПБ-01-22-10х25" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НПБ-01-22-10х25 «Сканди»
@@ -203,7 +203,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0012.jpg" target="_blank"><img
-                                                src="./img/lystry_5.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_5.jpg" alt="Люстра НПБ-01-22-12х25 «Сканди»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НПБ-01-22-12х25 «Сканди»
@@ -221,7 +221,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0013.jpg" target="_blank"><img
-                                                src="./img/lystry_6.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_6.jpg" alt="Люстра НСБ-02-02-5х40 «Юнона»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НСБ-02-02-5х40 «Юнона» белый
@@ -239,7 +239,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0014.jpg" target="_blank"><img
-                                                src="./img/lystry_7.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_7.jpg" alt="Люстра НПБ-08-02-3х40 «Луиза» Люстра НПБ-08-02-3х40 «Луиза»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НПБ-08-02-3х40 «Луиза» белый
@@ -257,7 +257,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0015.jpg" target="_blank"><img
-                                                src="./img/lystry_8.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_8.jpg" alt="Люстра НСБ-08-02-3х40 «Луиза»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НСБ-08-02-3х40 «Луиза» белый
@@ -275,7 +275,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0016.jpg" target="_blank"><img
-                                                src="./img/lystry_9.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_9.jpg" alt="Люстра НПБ-11-22-5х40 «Соната»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НПБ-11-22-5х40 «Соната» антик
@@ -293,7 +293,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0017.jpg" target="_blank"><img
-                                                src="./img/lystry_10.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_10.jpg" alt="Люстра НCБ-12-04-3х40 «Адель»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НCБ-12-04-3х40 «Адель» белый
@@ -311,7 +311,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0018.jpg" target="_blank"><img
-                                                src="./img/lystry_11.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_11.jpg" alt="Люстра НCБ-12-04-5х40 «Адель»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НCБ-12-04-5х40 «Адель» белый
@@ -329,7 +329,7 @@ require_once "../../assets/header.php";
                                 <tr>
                                     <td>
                                         <a href="https://es-dv.ru./img/TDM-SQ0370-0019.jpg" target="_blank"><img
-                                                src="./img/lystry_12.jpg" alt="" width="90" /></a>
+                                                src="./img/lystry_12.jpg" alt="Люстра НСБ-16-01-5х40 «Лира»" width="90" /></a>
                                     </td>
                                     <td>
                                         Люстра НСБ-16-01-5х40 «Лира» черный
@@ -346,7 +346,7 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/lystry_13.jpg" alt="" width="90" />
+                                        <img src="./img/lystry_13.jpg" alt="Люстра НПБ-23-03-6х40 «Ажур»" width="90" />
                                     </td>
                                     <td>
                                         Люстра НПБ-23-03-6х40 «Ажур» черный

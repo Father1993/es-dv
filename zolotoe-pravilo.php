@@ -227,7 +227,7 @@ require_once "./assets/header.php";
 
                         <div>
                             <div class="golden-images__wrapper">
-                                <img src="./assets/img/easy.jpg" alt="" />
+                                <img src="./assets/img/easy.jpg" alt="Easy9 Schneider Electric" />
                                 <p class="golden-images-title">
                                     Дифференциальные автоматические
                                     выключатели Easy9 от Schneider Electric
@@ -238,7 +238,8 @@ require_once "./assets/header.php";
                             </div>
 
                             <div class="golden-images__wrapper">
-                                <img src="./assets/img/pragma.jpg" alt="" />
+                                <img src="./assets/img/pragma.jpg" alt="Pragma
+                                        от Schneider Electric" />
                                 <p class="golden-images-title">
                                     <a href="products/silovoe/2-korpusa-elektrosshitov-pragma-systeme-electric.php">Pragma
                                         от Schneider Electric</a>
@@ -282,7 +283,7 @@ require_once "./assets/header.php";
                     </p>
 
                     <div class="golden-images__wrapper">
-                        <img style="height: auto; width: 300px" src="./assets/img/acti9.jpg" alt="" />
+                        <img style="height: auto; width: 300px" src="./assets/img/acti9.jpg" alt="Acti9 iPC розетки" />
                         <p class="golden-images-title">
                             <a href="products/silovoe/3-modulnoe-oborudovanie-acti-9-systeme-electric.php">Acti9 iPC</a>
                             — розетки для распределительных щитов

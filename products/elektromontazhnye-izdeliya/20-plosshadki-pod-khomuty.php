@@ -109,7 +109,7 @@ require_once "../../assets/header.php";
                                     <tbody>
                                         <tr>
                                             <td rowspan="5">
-                                                <img src="/img/cms/kontent3/ltdm25.jpg" alt="" />
+                                                <img src="/img/cms/kontent3/ltdm25.jpg" alt="Площадка самоклеющаяся 20х20" />
                                             </td>
                                             <td colspan="8"></td>
                                         </tr>
