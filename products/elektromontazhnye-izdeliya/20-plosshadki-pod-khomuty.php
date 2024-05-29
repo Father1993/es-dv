@@ -109,7 +109,8 @@ require_once "../../assets/header.php";
                                     <tbody>
                                         <tr>
                                             <td rowspan="5">
-                                                <img src="/img/cms/kontent3/ltdm25.jpg" alt="Площадка самоклеющаяся 20х20" />
+                                                <img src="/img/cms/kontent3/ltdm25.jpg"
+                                                    alt="Площадка самоклеющаяся 20х20" />
                                             </td>
                                             <td colspan="8"></td>
                                         </tr>
@@ -340,10 +341,7 @@ require_once "../../assets/header.php";
             </div>
         </section>
 
-        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-                class="bi bi-arrow-up-short"></i></a>
 
-        <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
     </main>
     <!-- End #main -->
 

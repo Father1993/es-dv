@@ -276,7 +276,8 @@ require_once "../../assets/header.php";
                                 </tr>
                                 <tr>
                                     <td>
-                                        <img src="./img/iek011.jpg" alt="Светильник ДВО 1607 белый круг LED 18Вт 4000 IP20" />
+                                        <img src="./img/iek011.jpg"
+                                            alt="Светильник ДВО 1607 белый круг LED 18Вт 4000 IP20" />
                                     </td>
                                     <td>
                                         Светильник ДВО 1607 белый круг LED
@@ -315,10 +316,7 @@ require_once "../../assets/header.php";
             </div>
         </section>
 
-        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
-                class="bi bi-arrow-up-short"></i></a>
 
-        <a href="https://wa.me/+79141500323" target="_blank" class="call-whatsapp"><i class="bi bi-whatsapp"></i></a>
     </main>
     <!-- End #main -->
 
