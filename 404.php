@@ -37,6 +37,7 @@ require_once "./assets/header.php";
 
         <section class="error-404">
             <div style="align-items: center" class="container">
+                <p style="font-size: 1.8rem">НАЧНИТЕ С ГЛАВНОЙ</p>
                 <h1 style="text-align: center">Страница не найдена</h1>
                 <img style="
                             display: block;
@@ -44,7 +45,6 @@ require_once "./assets/header.php";
                             margin-bottom: 50px;
                         " src="./assets/img/404.jpg" alt="Ошибка 404 - Страница не найдена" />
                 <p style="font-size: 2rem">Такой Страница не существует</p>
-                <p style="font-size: 1.8rem">НАЧНИТЕ С ГЛАВНОЙ СТРАНИЦЫ</p>
                 <p style="font-size: 2.5rem">
                     <a href="/">Вернуться на главную</a>
                 </p>
