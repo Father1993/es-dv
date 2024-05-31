@@ -1403,6 +1403,7 @@ h6 {
 .shop__telephone-link {
     margin-bottom: 20px;
     display: block;
+    text-align: center;
 }
 
 .shop__work-time {
@@ -2844,12 +2845,39 @@ p {
 }
 
 #footer .copyright {
+    display: block;
+    margin: 0 auto;
     text-align: center;
+    font-size: 0.7rem;
+    width: 250px;
 }
 
-#footer .credits {
-    padding-top: 10px;
-    text-align: center;
-    font-size: 13px;
-    color: #ccc;
+.footer-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
+.footer-card a {
+    color: white;
+}
+
+.footer-card > a {
+    text-decoration: underline;
+}
+
+.footer-card > div > i {
+    margin-right: 5px;
+}
+
+.bi-telephone-my {
+    margin-right: 10px !important;
+}
+
+.footer-card a:hover{
+    color: #03c4eb;
+}
+
+
+

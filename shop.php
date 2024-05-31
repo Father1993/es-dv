@@ -182,7 +182,7 @@ require_once "./assets/header.php";
 
                 <div class="shop-shema">
                     <div class="shop-shema-clock">
-                        <h6>Ждем Вас!</h6>
+                        <h6 style="text-align: center; font-weight: bold">Ждем Вас!</h6>
                         <p class="shop__address">Адрес магазина:</p>
                         <p class="shop__street">
                             г. Хабаровск, ул. Промышленная 8
