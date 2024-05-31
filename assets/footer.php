@@ -15,6 +15,8 @@
                 </div>
             </div>
 
+            <hr class="footer-mobile-line">
+
             <div class="col-md-4 footer-card">
                 <a href="/about.php">О компании</a>
                 <a href="/products">Продукция</a>
@@ -23,6 +25,8 @@
                 <a href="/docs.php">Документы</a>
                 <a href="/contacts.php">Контакты в регионах</a>
             </div>
+
+            <hr class="footer-mobile-line">
 
             <div class="col-md-4 footer-card">
                 <div>

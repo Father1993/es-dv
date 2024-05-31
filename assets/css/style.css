@@ -2879,5 +2879,18 @@ p {
     color: #03c4eb;
 }
 
+.footer-mobile-line {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .footer-mobile-line{
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
+
+
 
 
