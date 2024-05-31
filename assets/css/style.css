@@ -642,6 +642,7 @@ section {
     font-weight: 700;
     margin-bottom: 15px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 #services .service-title a {

@@ -49,7 +49,7 @@ require_once "../assets/header.php";
                 <div class="row" data-aos="fade-up" data-aos-delay="200">
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-briefcase"></i>
+                            <a href="delivery.php"><i class="bi bi-briefcase"></i></a>
                         </div>
                         <h4 class="service-title">
                             <a href="delivery.php">Доставка</a>
@@ -61,20 +61,20 @@ require_once "../assets/header.php";
                     </div>
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-card-checklist"></i>
+                            <a href="production.php"><i class="bi bi-card-checklist"></i></a>
                         </div>
                         <h4 class="service-title">
                             <a href="production.php">Производство электрооборудования</a>
                         </h4>
                         <p class="service-description">
                             Производство всех видов электрощитов и
-                            электрооборудования <br />
+                            электрооборудования. <br />
                             Сборка
                         </p>
                     </div>
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-bar-chart"></i>
+                            <a href="manufacturing.php"><i class="bi bi-bar-chart"></i></a>
                         </div>
                         <h4 class="service-title">
                             <a href="manufacturing.php">Изготовление корпусов щитов</a>
@@ -85,7 +85,7 @@ require_once "../assets/header.php";
                     </div>
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-binoculars"></i>
+                            <a href="electric-work.php"><i class="bi bi-binoculars"></i></a>
                         </div>
                         <h4 class="service-title">
                             <a href="electric-work.php">Электромонтажные работы</a>
@@ -96,7 +96,7 @@ require_once "../assets/header.php";
                     </div>
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-brightness-high"></i>
+                            <a href="laboratory.php"><i class="bi bi-brightness-high"></i></a>
                         </div>
                         <h4 class="service-title">
                             <a href="laboratory.php">Лаборатория</a>
@@ -112,10 +112,10 @@ require_once "../assets/header.php";
                     </div>
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
-                            <i class="bi bi-calendar4-week"></i>
+                            <a href="../products/"><i class="bi bi-calendar4-week"></i></a>
                         </div>
                         <h4 class="service-title">
-                            <a href="../products/">Товары</a>
+                            <a href="../products/">Продажа товаров</a>
                         </h4>
                         <p class="service-description">
                             Более 20 000 наименований товара в наличии на
