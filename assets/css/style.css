@@ -2734,10 +2734,28 @@ p {
     padding-bottom: 220px;
 }
 
+.product-mobile-lines {
+    display: none;
+}
+
+
 @media (max-width: 768px) {
     .products-main__wrapper {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
+    .products-main__banner > img {
+        width: 100%;
+    }
+
+    .product-mobile-lines {
+        display: block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+
 }
 
 .contacts-title > div > p {
@@ -2890,6 +2908,31 @@ p {
         margin-top: 20px;
         margin-bottom: 20px;
     }
+
+    #services .service-item {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+
+    .service-icon {
+        display: flex;
+        align-self: center;
+        margin-bottom: 30px;
+    }
+
+    #services .service-title {
+        margin: 0;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+
+    #services .service-description {
+        margin: 0;
+        padding: 0;
+    }
+
+
 }
 
 

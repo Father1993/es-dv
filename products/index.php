@@ -49,11 +49,13 @@ require_once "../assets/header.php";
                             или розетка для дома - у нас Вы найдете любые
                             электротовары и электрооборудование.
                         </p>
+                        <hr class="product-mobile-lines">
                         <p class="section-description">
                             <strong>С полным ассортиментом вы можете
                                 ознакомиться в нашем интернет-магазине
                                 <a href="https://xn----7sbfcjc9ag3aaueuc3lua.xn--p1ai/">ЭЛЕКТРОТОВАРЫ-ДВ</a></strong>
                         </p>
+                        <hr class="product-mobile-lines">
                     </div>
 
                     <div class="products-main__wrapper">

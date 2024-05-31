@@ -59,6 +59,9 @@ require_once "../assets/header.php";
                             Клиентам в регионы ДФО
                         </p>
                     </div>
+
+                    <hr class="footer-mobile-line">
+
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
                             <a href="production.php"><i class="bi bi-card-checklist"></i></a>
@@ -72,6 +75,9 @@ require_once "../assets/header.php";
                             Сборка
                         </p>
                     </div>
+
+                    <hr class="footer-mobile-line">
+
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
                             <a href="manufacturing.php"><i class="bi bi-bar-chart"></i></a>
@@ -83,6 +89,9 @@ require_once "../assets/header.php";
                             Компания осуществляет полный цикл производства
                         </p>
                     </div>
+
+                    <hr class="footer-mobile-line">
+
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
                             <a href="electric-work.php"><i class="bi bi-binoculars"></i></a>
@@ -94,6 +103,9 @@ require_once "../assets/header.php";
                             Все виды электромонтажных работ
                         </p>
                     </div>
+
+                    <hr class="footer-mobile-line">
+
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
                             <a href="laboratory.php"><i class="bi bi-brightness-high"></i></a>
@@ -110,6 +122,9 @@ require_once "../assets/header.php";
                             испытания электрозащитных средств до 220 кВ
                         </p>
                     </div>
+
+                    <hr class="footer-mobile-line">
+
                     <div class="col-lg-4 col-md-6 service-item">
                         <div class="service-icon">
                             <a href="../products/"><i class="bi bi-calendar4-week"></i></a>
