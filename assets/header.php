@@ -14,13 +14,15 @@
         content="<?php echo isset($PageKeyWords) ? htmlspecialchars($PageKeyWords) : 'электротовары, электроборудование, продажа, магазин, кабель, светотехника, низковольтное оборудование, лампы, прайс, светильник, светодиоды, led, лампы, изоляция'; ?>" />
 
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+
+    <meta property="og:type" content="website" />
     <meta property="og:title"
-        content="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'Электросистемы'; ?>" />
+          content="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'Электросистемы'; ?>" />
     <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
     <meta property="og:url" content="<?php echo isset($ogUrl) ? htmlspecialchars($ogUrl) : 'https://es-dv.ru/'; ?>" />
     <meta property="og:site_name" content='Электросистемы' />
     <meta property="og:description"
-        content="<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам'; ?>" />
+          content="<?php echo isset($pageDescription) ? htmlspecialchars($pageDescription) : 'Розетки, выключатели, счётчики электроэнергии, светотехника и лампы, кабель и провод модульное оборудование и другая электрика оптом и в розницу по выгодным ценам'; ?>" />
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png" />
