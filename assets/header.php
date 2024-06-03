@@ -18,7 +18,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title"
           content="<?php echo isset($pageTitle) ? htmlspecialchars($pageTitle) : 'Электросистемы'; ?>" />
-    <meta property="og:image" content="https://es-dv.ru/assets/img/logo.png" />
+    <meta property="og:image" content="https://es-dv.ru/assets/img/og-logo.png" />
     <meta property="og:url" content="<?php echo isset($ogUrl) ? htmlspecialchars($ogUrl) : 'https://es-dv.ru/'; ?>" />
     <meta property="og:site_name" content='Электросистемы' />
     <meta property="og:description"
