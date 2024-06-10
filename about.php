@@ -132,7 +132,7 @@ require_once "./assets/header.php";
                             <div class="swiper-wrapper">
                                 <!-- Slides -->
                                 <div class="swiper-slide">
-                                    <img src="./assets/img/team/team1.webp" alt="Корпоративный отдых компании" />
+                                    <img src="./assets/img/team/team6.webp" alt="Корпоративный отдых компании" />
                                 </div>
                                 <div class="swiper-slide">
                                     <img src="./assets/img/team/team2.webp" alt="Корпоративный отдых" />
@@ -147,7 +147,7 @@ require_once "./assets/header.php";
                                     <img src="./assets/img/team/team5.webp" alt="Корпоративная жихнь компании" />
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="./assets/img/team/team6.webp" alt="Корпоратив" />
+                                    <img src="./assets/img/team/team1.webp" alt="Корпоратив" />
                                 </div>
                             </div>
                             <!-- If we need pagination -->

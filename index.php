@@ -695,22 +695,22 @@ require_once "./assets/header.php";
                     </div>
                     <div class="team-block__images">
                         <div class="team-block__images-card team-one">
-                            <img src="./assets/img/team/team3.jpg" alt="Команда Электросистемы" />
+                            <img src="./assets/img/team/team3.webp" alt="Команда Электросистемы" />
                         </div>
                         <div class="team-block__images-card team-two">
-                            <img src="./assets/img/team/team2.jpg" alt="Наши сотрудники" />
+                            <img src="./assets/img/team/team2.webp" alt="Наши сотрудники" />
                         </div>
                         <div class="team-block__images-card team-three">
-                            <img src="./assets/img/team/team4.jpg" alt="Корпоративный отдых" />
+                            <img src="./assets/img/team/team4.webp" alt="Корпоративный отдых" />
                         </div>
                         <div class="team-block__images-card team-four">
-                            <img src="./assets/img/team/team1.jpg" alt="Корпаратив" />
+                            <img src="./assets/img/team/team1.webp" alt="Корпаратив" />
                         </div>
                         <div class="team-block__images-card team-fifth">
-                            <img src="./assets/img/team/team5.jpg" alt="Наша команда" />
+                            <img src="./assets/img/team/team5.webp" alt="Наша команда" />
                         </div>
                         <div class="team-block__images-card team-six">
-                            <img src="./assets/img/team/team6.jpg" alt="Сотрудники компаниина отдыхе" />
+                            <img src="./assets/img/team/team6.webp" alt="Сотрудники компаниина отдыхе" />
                         </div>
                     </div>
                 </div>
