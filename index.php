@@ -280,7 +280,7 @@ require_once "./assets/header.php";
                         <p class="section-description">
                             <strong>С полным ассортиментом вы можете
                                 ознакомиться в нашем интернет-магазине
-                                <a style="
+                                <a class="section-description__link-site" style="
                                             border: 1px solid;
                                             border-radius: 10px;
                                             padding: 5px;
