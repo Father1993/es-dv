@@ -40,21 +40,53 @@ require_once "./assets/header.php";
         <section class="about-page">
             <div class="container">
                 <h2 class="about-page__title">
-                    ООО "Торговый Дом "Электросистемы": электрооборудование
+                    ООО Торговый Дом "Электросистемы": электрооборудование
                     и электротовары
                 </h2>
                 <p>
-                    Компания ООО "Торговый дом"Электросистемы" основана в
+                    Компания ООО Торговый Дом "Электросистемы" основана в
                     2005 году и является основным представителем и
                     поставщиком низковольтного электротехнического
                     оборудования в Дальневосточном Федеральном округе, таких
                     торговых марок как TDM ЕLECTRIC, IEK
                     (ИнтерЭлектроКомплект), ДКС, Systeme Electric, NAKAI,
                     Ункомтех, Световые технологии, продукции кабельных
-                    заводов Конкорд, НКЗ, Энергокабель, Камский кабель,
+                    заводов: Конкорд, НКЗ, Энергокабель, Камский кабель,
                     Иркутсккабель и имеет партнерские отношения со многими
                     отечественными и зарубежными производителями НВА.
                 </p>
+
+                <div class="camp-block">
+                    <div class="camp-block__wrapper">
+                        <div class="swiper swiper-camp">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper">
+                                <!-- Slides -->
+                                <div class="swiper-slide">
+                                    <img src="./assets/img/camp/camp1.webp" alt="Территория завода и склада" />
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="./assets/img/camp/camp2.webp" alt="Территория с верху" />
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="./assets/img/camp/camp3.webp" alt="Вид с птичьего палета" />
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="./assets/img/camp/camp4.webp" alt="Съемка сверху" />
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="./assets/img/camp/camp5.webp" alt="Магазин в Хабаровске" />
+                                </div>
+                            </div>
+                            <!-- If we need pagination -->
+                            <div class="swiper-pagination"></div>
+
+                            <!-- If we need navigation buttons -->
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
                 <h3 class="about__special-text">
                     На своих складах в Хабаровске и регионах ДФО
                     поддерживаем постоянный широкий ассортимент продукции:
@@ -169,11 +201,11 @@ require_once "./assets/header.php";
 
                 <hr />
 
-                <h4 class="about__special-text">
-                    ООО Торговый дом "Электросистемы" не остановилась на
+                <h5 class="about__special-text">
+                    "Электросистемы" не остановилась на
                     достигнутом, расширяя структурную сеть продаж были
                     открыты филиалы :
-                </h4>
+                </h5>
                 <ul>
                     <li>июль 2012 - филиал в г.Комсомольске-на-Амуре</li>
                     <li>январь 2012 - филиал в г.Биробиджане,</li>
@@ -181,10 +213,15 @@ require_once "./assets/header.php";
                     <li>август 2016 - филиал в г.Владивостоке</li>
                 </ul>
 
-                <h5 class="open-text">
+                <h5 class="open-text-first">
                     Это полноценные филиалы с оптово-розничными офисами
                     продаж, сформированными с учетом потребностей регионов,
-                    оперативными складами. Сотрудники центрального офиса
+                    оперативными складами.
+                </h5>
+
+                <hr>
+                <h5 class="open-text">
+                    Сотрудники центрального офиса
                     работают с Сахалинской областью, Приморским краем,
                     Республикой Саха (Якутия). Идет постоянная работа над
                     развитием региональной сети.
@@ -214,12 +251,12 @@ require_once "./assets/header.php";
                     ДОСТАВКА ПРОДУКЦИИ КЛИЕНТАМ
                 </h6>
                 <p>
-                    Компания ООО "ТД"Электросистемы" осуществляет доставку
+                    Компания осуществляет доставку
                     поставляемой продукции со своих складов и
                     производственных площадок во все регионы Дальнего
                     Востока, как своими силами так и силами транспортных
-                    компаний, таких как ДВТК-ФРАХТ, ВЛ-Лоджистик,
-                    ТРАНЗИТ-ДВ, ЖД Экспедиция-27, АмурАвиаСервис и др.
+                    компаний, таких как: <a href="https://dvtkf.ru/">ДВТК-ФРАХТ</a>, <a href="https://vl-logistic.ru/">ВЛ-Лоджистик</a>, <a href="https://tranzit-dv.com/">ТРАНЗИТ-ДВ</a>,
+                    <a href="https://www.jde.ru/">ЖД Экспедиция-27</a> и др.
                 </p>
                 <!--
 
@@ -241,13 +278,15 @@ require_once "./assets/header.php";
                     -->
 
                 <p>
-                    Мы являемся одним из крупнейших поставщиков
+                    Мы являемся одним из <b>КРУПНЕЙШИХ</b> поставщиков
                     низковольтного электрооборудования в Хабаровске и на
-                    Дальнем Востоке. Мы представляем такие марки, как TDM
-                    ЕLECTRIC, ДКС, IEK, Systeme Electric, КЭАЗ и
-                    светотехническую продукцию Smartbuy, Световые
-                    технологии, а также продукцию кабельных заводов Конкорд,
-                    НКЗ, Энергокабель, Камский кабель, Иркутсккабель.
+                    Дальнем Востоке. Мы представляем такие марки, как <a href="https://tdmelectric.ru/">TDM ЕLECTRIC</a>,
+                    <a href="https://www.dkc.ru/ru/">ДКС</a>, <a href="https://www.iek.ru/">IEK</a>, <a href="https://systeme.ru/">Systeme Electric</a>,
+                    <a href="https://keaz.ru/">КЭАЗ</a> и
+                    светотехническую продукцию <a href="https://www.smartbuy-russia.ru/">Smartbuy</a>, <a href="https://www.ltcompany.com/">Световые
+                        технологии</a>, а также продукцию кабельных заводов <a href="https://nym.ru/">Конкорд</a>,
+                    <a href="https://nkz-nsk.ru/">НКЗ</a>, <a href="https://www.energokab.ru/">Энергокабель</a>, <a
+                            href="https://www.kamkabel.ru/">Камский кабель</a> , <a href="https://irkutskkabel.ru/">Иркутсккабель</a>.
                 </p>
 
                 <hr />
@@ -256,6 +295,8 @@ require_once "./assets/header.php";
                             text-align: center;
                             margin-bottom: 50px;
                             font-size: 2.5rem;
+                            margin-top: 40px;
+                            margin-bottom: 70px;
                         ">
                     Наши партнеры
                 </h3>
@@ -282,7 +323,7 @@ require_once "./assets/header.php";
                             <img src="./assets/img/partners/tdm.jpeg" alt="TDM Electric" />
                             <p>
                                 Национальная электротехническая компания
-                                Морозова производит и поставляет модульное
+                                производит и поставляет модульное
                                 оборудование, силовые разъемы, корпуса
                                 электрощитов и аксессуары к ним,
                                 светотехнику под торговой маркой TDM
@@ -343,7 +384,7 @@ require_once "./assets/header.php";
 
                 <hr />
 
-                <p>
+                <p style="font-weight: 600">
                     Профессиональный подход к делу, широкий ассортимент
                     продукции, крупные поставщики и заказчики,
                     квалифицированный персонал, современное оборудование,
@@ -352,37 +393,6 @@ require_once "./assets/header.php";
                     успеха.
                 </p>
 
-                <div class="camp-block">
-                    <div class="camp-block__wrapper">
-                        <div class="swiper swiper-camp">
-                            <!-- Additional required wrapper -->
-                            <div class="swiper-wrapper">
-                                <!-- Slides -->
-                                <div class="swiper-slide">
-                                    <img src="./assets/img/camp/camp1.webp" alt="Территория завода и склада" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="./assets/img/camp/camp2.webp" alt="Территория с верху" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="./assets/img/camp/camp3.webp" alt="Вид с птичьего палета" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="./assets/img/camp/camp4.webp" alt="Съемка сверху" />
-                                </div>
-                                <div class="swiper-slide">
-                                    <img src="./assets/img/camp/camp5.webp" alt="Магазин в Хабаровске" />
-                                </div>
-                            </div>
-                            <!-- If we need pagination -->
-                            <div class="swiper-pagination"></div>
-
-                            <!-- If we need navigation buttons -->
-                            <div class="swiper-button-prev"></div>
-                            <div class="swiper-button-next"></div>
-                        </div>
-                    </div>
-                </div>
 
                 <hr />
 

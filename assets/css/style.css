@@ -587,6 +587,7 @@ section {
     color: #333;
     font-weight: 700;
     font-size: 28px;
+    text-align: center;
 }
 
 #about .about-text {
@@ -1179,6 +1180,8 @@ h6 {
 .about__special-text {
     margin-bottom: 30px;
     font-weight: 600;
+    text-align: center;
+    margin-bottom: 70px;
 }
 
 .about-page__title {
@@ -1247,6 +1250,7 @@ h6 {
 .delivery-title {
     font-size: 2rem;
     text-align: center;
+    margin-top: 70px;
 }
 
 .about-bottom-text {
@@ -1255,11 +1259,22 @@ h6 {
     text-align: center;
     max-width: 900px;
     margin-bottom: 70px;
+    margin-top: 50px;
+}
+
+.open-text-first {
+    font-weight: normal;
+    margin-bottom: 50px;
+    font-style: italic;
+    font-size: 1.1rem;
+    text-align: center;
 }
 
 .open-text {
+    margin-top: 20px;
     font-weight: 600;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -2646,6 +2661,7 @@ h6 {
 --------------------------------------------------------------*/
 
 .team-block__wrapper {
+    margin-top: 70px;
     display: flex;
     flex-direction: column;
 }
@@ -2663,7 +2679,7 @@ h6 {
 }
 
 .team-block {
-    margin-bottom: 70px;
+    margin-bottom: 100px;
 }
 
 .team-block__wrapper > h3 {
