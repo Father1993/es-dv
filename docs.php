@@ -70,10 +70,10 @@ require_once "./assets/header.php";
                             <a target="_blank" href="./assets/img/pdf/iek-2023.pdf">IEK</a>
                         </li>
                         <li>
-                            <a target="_blank" href="./assets/img/pdf/sertledel.jpg">LEDEL</a>
+                            <a target="_blank" href="./assets/img/pdf/volg.pdf">Волжский Электроконтакт</a>
                         </li>
                         <li>
-                            <a target="_blank" href="./assets/img/pdf/st.jpg">Световые технологии</a>
+                            <a target="_blank" href="./assets/img/pdf/st.pdf">Световые технологии</a>
                         </li>
                         <li>
                             <a target="_blank" href="./assets/img/pdf/CHINT-2023.jpg">Chint</a>
@@ -94,13 +94,13 @@ require_once "./assets/header.php";
                             <a target="_blank" href="./assets/img/pdf/remz-2023.pdf">РЭМЗ</a>
                         </li>
                         <li>
-                            <a target="_blank" href="./assets/img/pdf/emera.jpg">Энергомера</a>
+                            <a target="_blank" href="./assets/img/pdf/rmz.pdf">РЭМЗ</a>
                         </li>
                         <li>
                             <a target="_blank" href="./assets/img/pdf/diora-2023.pdf">Диора</a>
                         </li>
                         <li>
-                            <a target="_blank" href="./assets/img/pdf/dks-2023.pdf">Реле и Автоматика</a>
+                            <a target="_blank" href="./assets/img/pdf/promRukav.pdf">ПромРукав</a>
                         </li>
                     </ul>
                 </div>
