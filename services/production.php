@@ -93,7 +93,7 @@ require_once "../assets/header.php";
                             <li>
                                 Изготовление электрощитов управления с
                                 установкой необходимых электротехнических
-                                компонентов согласно проектSAM_3562.JPGу и
+                                компонентов согласно проекту и
                                 чертежам заказчика
                             </li>
                             <li>
@@ -111,7 +111,7 @@ require_once "../assets/header.php";
                             </li>
                             <li>Подключение электрощитов</li>
                         </ul>
-                        <img class="production-images" src="./img/SAM_3562.JPG"
+                        <img class="production-images" src="./img/SAM_3562.jpg"
                             alt="Производство электрощитов Хабаровск" />
                     </div>
                     <p>
@@ -157,8 +157,8 @@ require_once "../assets/header.php";
                         частотой 50Гц.È
                     </p>
                     <div class="product-cards-images__wrapper">
-                        <img src="./img/SAM_3517.JPG" alt="Фото готового оборудования" />
-                        <img src="./img/SAM_3580.JPG" alt="Фото готового оборудования" />
+                        <img src="./img/SAM_3517.jpg" alt="Фото готового оборудования" />
+                        <img src="./img/SAM_3580.jpg" alt="Фото готового оборудования" />
                     </div>
 
                     <span>Сборка КСО-238</span>
@@ -178,8 +178,8 @@ require_once "../assets/header.php";
                     <hr />
 
                     <div class="product-cards-images__wrapper">
-                        <img src="./img/SAM_3495.JPG" alt="КТПНТ фото Хабаровск сборка 2" />
-                        <img src="./img/SAM_3575.JPG" alt="КТПНТ фото Хабаровск сборка" />
+                        <img src="./img/SAM_3495.jpg" alt="КТПНТ фото Хабаровск сборка 2" />
+                        <img src="./img/SAM_3575.jpg" alt="КТПНТ фото Хабаровск сборка" />
                     </div>
 
                     <span>Сборка КТПНТ</span>

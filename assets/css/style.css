@@ -384,7 +384,6 @@ h6 {
 .navbar .dropdown .dropdown ul {
     top: 0;
     left: calc(100% - 30px);
-    visibility: hidden;
 }
 
 .navbar .dropdown .dropdown:hover > ul {
@@ -2327,6 +2326,64 @@ h6 {
 }
 
 @media (max-width: 768px) {
+    .taimyr-image__wrapper {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .taimyr-image__wrapper > img {
+        width: 100%;
+    }
+
+    .lama-image__wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .zvonki__wrapper {
+        flex-direction: column;
+    }
+
+    .zmeika-img {
+        width: 100%;
+    }
+
+    .brava__wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .setevoy-filter__wrapper {
+        flex-direction: column;
+    }
+
+    .setevoy-filter-images {
+        height: auto;
+        width: 90%;
+    }
+
+    .zvonki__images-wrappers {
+        flex-direction: column;
+    }
+
+    .rozetki-list__wrapper > ul {
+        flex-direction: column;
+    }
+    .systeme-electric__wrapper-card {
+        flex-direction: column;
+    }
+
+    .systeme-electric__wrapper-card__img {
+        width: 100%;
+    }
+    .special-block__images-wrapper {
+        flex-direction: column;
+    }
+
+    .udlinitel-tdm__wrapper {
+        flex-direction: column;
+    }
+
     .products-cabel__wrapper-card {
         flex-direction: column;
         margin-bottom: 0px;
@@ -2759,7 +2816,6 @@ p {
     display: none;
 }
 
-
 @media (max-width: 768px) {
     .products-main__wrapper {
         flex-direction: column;
@@ -2775,8 +2831,6 @@ p {
         margin-top: 30px;
         margin-bottom: 30px;
     }
-
-
 }
 
 .contacts-title > div > p {
@@ -2915,7 +2969,7 @@ p {
     margin-right: 10px !important;
 }
 
-.footer-card a:hover{
+.footer-card a:hover {
     color: #03c4eb;
 }
 
@@ -2924,7 +2978,7 @@ p {
 }
 
 @media (max-width: 768px) {
-    .footer-mobile-line{
+    .footer-mobile-line {
         display: block;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -2952,10 +3006,4 @@ p {
         margin: 0;
         padding: 0;
     }
-
-
 }
-
-
-
-
