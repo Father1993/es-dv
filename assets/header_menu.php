@@ -88,6 +88,7 @@
                     </li>
                 </ul>
             </li>
+            <li><a href="/vacancies.php">Вакансии</a></li>
             <li>
                 <a class="nav-link scrollto" href="/contacts.php">Контакты</a>
             </li>
