@@ -138,7 +138,7 @@ require_once "./assets/header.php";
                         </ul>
                     </div>
 
-                    <div class="vacancies-vladivostok">
+                    <div class="vacancies-blagoveshensk">
                         <h2>Вакансии во Благовещенске</h2>
                         <hr />
                         <h3 class="vacancies-name">
@@ -166,6 +166,7 @@ require_once "./assets/header.php";
                             <li>Приветствуется знание электротехнической продукции и рынка сбыта</li>
                             <li>Опыт в активных продажах или желание его получить</li>
                         </ul>
+                        <h4>Мы предлагаем:</h4>
                         <ul>
                             <li>Работу в надежной стабильно развивающейся компании</li>
                             <li>Офис продаж по адресу: г. Благовещенск, ул. Пролетарская, 107</li>

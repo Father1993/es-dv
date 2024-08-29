@@ -1543,6 +1543,19 @@ h6 {
     color: white;
 }
 
+.vacancies-blagoveshensk {
+    padding: 30px;
+    border: 1px solid #03c4eb;
+    border-radius: 15px;
+    margin-bottom: 70px;
+    background-image: url(../../assets/img/blaga-vac.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+}
+
 .vacancies-name {
     text-align: center;
     font-weight: bold;
@@ -1567,6 +1580,7 @@ h6 {
         display: inline-block;
     }
 }
+
 
 /*--------------------------------------------------------------
 # Docs
