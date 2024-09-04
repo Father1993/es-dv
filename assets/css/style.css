@@ -1490,6 +1490,12 @@ h6 {
     font-weight: 300;
 }
 
+.vacancies-city-wrapper h6 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
 .vacancies ol {
     display: flex;
     flex-wrap: wrap;
@@ -2476,7 +2482,7 @@ h6 {
     height: 200px;
 }
 
-.golden-rules > div > div > h4 {
+.golden-rules > div > div > h5 {
     text-align: center;
     font-weight: bold;
     margin-bottom: 30px;
