@@ -21,6 +21,9 @@
             <li>
                 <a class="nav-link scrollto" href="/#portfolio">Продукция</a>
             </li>
+            <li>
+                <a href="/vacancies.php">Вакансии</a>
+            </li>
 
             <li class="dropdown">
                 <a href="/#about"><span class="active">Подробнее</span>
@@ -88,7 +91,6 @@
                     </li>
                 </ul>
             </li>
-            <li><a href="/vacancies.php">Вакансии</a></li>
             <li>
                 <a class="nav-link scrollto" href="/contacts.php">Контакты</a>
             </li>
