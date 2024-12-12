@@ -139,7 +139,7 @@ require_once "./assets/header.php";
                             </div>
                             <div>
                                 <h6>Эл. почта</h6>
-                                <a href="mailto:652@dv-electro.ru">652@dv-electro.ru</a>
+                                <a href="mailto:657@dv-electro.ru">657@dv-electro.ru</a>
                             </div>
                             <div>
                                 <h6>Часы работы</h6>
@@ -353,17 +353,12 @@ require_once "./assets/header.php";
                             <hr />
                             <div>
                                 <h6>Камчатский край</h6>
-                                <a href="mailto:652@dv-electro.ru">652@dv-electro.ru</a>
-                                <br>
                                 <a href="mailto:657@dv-electro.ru">657@dv-electro.ru</a>
                             </div>
                             <hr />
                             <div>
                                 <h6>Магаданская область</h6>
-                                <a href="mailto:652@dv-electro.ru">652@dv-electro.ru</a>
-                                <br>
                                 <a href="mailto:657@dv-electro.ru">657@dv-electro.ru</a>
-
                             </div>
                         </div>
                         <div>

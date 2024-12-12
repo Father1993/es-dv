@@ -761,7 +761,7 @@ require_once "./assets/header.php";
                             </p>
                             <p class="index__contact-mail">
                                 Почта:
-                                <a href="mailto:652@dv-electro.ru">652@dv-electro.ru</a>
+                                <a href="mailto:657@dv-electro.ru">657@dv-electro.ru</a>
                             </p>
                         </div>
 
